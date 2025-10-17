@@ -1,0 +1,1100 @@
+{
+  "source_file": "./dataset/unlabeled_test/1b0d698078711c3ca4fb9edecfd57127-2813_252960184-4.pdf",
+  "total_pages": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            63,
+            35,
+            73,
+            47
+          ],
+          "text": "16",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            252,
+            42,
+            413,
+            53
+          ],
+          "text": "Asian Pacific Journal of Tropical Medicine (2014)16-20",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            125,
+            126,
+            134
+          ],
+          "text": "EISEVIER",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            225,
+            125,
+            440,
+            143
+          ],
+          "text": "journal homepage:www.elsevier.com/locate/apjtm",
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/1b0d698078711c3ca4fb9edecfd57127-2813_252960184-4_page_001_figure_004.png)",
+          "figure_path": "figures/1b0d698078711c3ca4fb9edecfd57127-2813_252960184-4_page_001_figure_004.png",
+          "bbox": [
+            539,
+            62,
+            604,
+            144
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            161,
+            144,
+            174
+          ],
+          "text": "Document headings",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            171,
+            161,
+            189,
+            172
+          ],
+          "text": "doi:",
+          "reading_order": 6
+        },
+        {
+          "label": "title",
+          "bbox": [
+            61,
+            186,
+            602,
+            227
+          ],
+          "text": "Analysis of antioxidant prenylflavonoids in different parts of Macaranga\ntanarius , the plant origin of Okinawan propolis",
+          "reading_order": 7
+        },
+        {
+          "label": "author",
+          "bbox": [
+            61,
+            239,
+            504,
+            253
+          ],
+          "text": "Shigenori Kumazawa $^{1*}$ , Masavo Murase $^{1}$ , Noboru Momose $^{1}$ , Syuichi Fukumoto $^{2}$",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            259,
+            504,
+            289
+          ],
+          "text": "Department of Food and Nutritional Sciences, University of Shizuoka, 52–1 Yada, Suruga–ku, Shizuoka 422–8526, Japan\nPokka Sapporo Food and Beverage, 45–2 Juuniso, Kumanoshou, Kitanagoya–city, Aichi 481–8515, Japan",
+          "reading_order": 9
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            63,
+            304,
+            144,
+            318
+          ],
+          "text": "article info",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            63,
+            331,
+            109,
+            342
+          ],
+          "text": "Article historys",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            342,
+            199,
+            386
+          ],
+          "text": "Received 10 September 2013\nReceived in revised form 15 November 2013\nAccepted 15 December 2013\nAvailable online 20 January 2014",
+          "reading_order": 12
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            241,
+            311,
+            297,
+            318
+          ],
+          "text": "ABSTRACT",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            239,
+            331,
+            603,
+            555
+          ],
+          "text": "Objective: To analyze the antioxidant prenylflavonoids in different parts of Macaranga tanarius\n( M. tanarius ) (Euphorbiaceae) including the leaf, petiole, stem, leaflet, flower and fruit (only\nin female plant), and to evaluate their antioxidant properties. Methods: Methanol extracts of\neach part of M. tanarius were prepared and five prenylflavonoids in them were quantitatively\nanalyzed using HPLC. The fruits from female plant were further separated into seed, pericarp,\nand glandular trichome. After the quantitative analyses of prenylflavonoids in each part of M.\ntanarius , antioxidant activity of the extracts was evaluated by 2,2 –diphenyl–1 –picryl–hydrazyl\n(DPPH) radical scavenging assay. Results: The leaf of M. tanarius contained two prenylflavonoids\nas main components in both male and female plants. Both flowers (male and female) contained\nfive kinds of prenylflavonoids. In the petiole, stem and leaflet of both male and female plants, the\nprenylflavonoids were not detected or their amounts were very low. Five kinds of prenylflavonoids\nwere detected in the seed, pericarp and glandular trichome of female M. tanarius . In particular,\nthe glandular trichome had the highest level of total prenylflavonoids (235 mg/g of fresh plant).\nDPPH radical scavenging activity of all parts was more than 30 % . Conclusions: We found that\ndifferent parts of M. tanarius contained antioxidant prenylflavonoids. In particular, not only the\nglandular trichome but also the leaf contained prenylflavonoids, which indicated that M. tanarius\nmay be developed as a functional plant, because the leaves of this plant can be easily collected.",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            63,
+            427,
+            92,
+            439
+          ],
+          "text": "Keywords",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            439,
+            137,
+            448
+          ],
+          "text": "Macaranga tanarius",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            63,
+            448,
+            109,
+            458
+          ],
+          "text": "Antioxidant",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            458,
+            117,
+            469
+          ],
+          "text": "$^{\\ast}$ Tervillavona",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            472,
+            92,
+            490
+          ],
+          "text": "*ropolis",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            492,
+            91,
+            501
+          ],
+          "text": "kimens",
+          "reading_order": 21
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            64,
+            626,
+            135,
+            636
+          ],
+          "text": "1. Introduction",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            654,
+            324,
+            730
+          ],
+          "text": "Macaranga tanarius (M. tanarius, Euphorbiaceae) is\na widely distributed tropical tree in Southern Asia. M.\ntanarius is a dioecious plant and is also a well – known\npioneer tree and an ant – plant. Ants defend this tree against\nherbivores by producing food bodies that attractants[1–4].",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            341,
+            609,
+            602,
+            824
+          ],
+          "text": "In Thailand, the root of M. tanarius is used as an emetic\nagent, whereas the fresh leaves are used to cover wounds as\nan anti – inflammatory [5] . We have reported that M. tanarius\nis the plant origin of Okinawan propolis [6] . Propolis is a\nresinous hive product collected by honeybees. Honeybees\nin Okinawa, Japan use surface materials (glandular\ntrichome) of M. tanarius fruits as propolis. We have found\nthat Okinawan propolis and glandular trichome of M.\ntanarius contain several prenylflavonoids with potent\nantioxidant and antimicrobial activities [6,7] . Some of the\nprenylflavonoids identified from the glandular trichome of\nM. tanarius are present in the leaf of M. tanarius [8–12] . Thus,\nM. tanarius might be the plant with source of functional\nprenylflavonoids. However, quantitative analysis of the",
+          "reading_order": 24
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            64,
+            761,
+            324,
+            770
+          ],
+          "text": "${ }^{\\circ}$ Corresponding author: Shigenori Kumazawa, Department of Food and Nutritional",
+          "reading_order": 25
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            64,
+            797,
+            198,
+            806
+          ],
+          "text": "E-mail: kunneava@u-shizuoka-kunue.jp",
+          "reading_order": 28
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            64,
+            806,
+            324,
+            833
+          ],
+          "text": "Foundation project: Supported by the Program for Creating Okinawa Innovation of\nCabinet Office, Government of Japan and a Grant-in-Aid for Scientific Research of the\napam Society for the Promotion of Science.",
+          "reading_order": 29
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            59,
+            324,
+            89
+          ],
+          "text": "_",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            89,
+            325,
+            272
+          ],
+          "text": "Thus, in this study, we collected male and female plants\nof M. tanarius and performed quantitative analysis of\nantioxidant prenylflavonoids present in different parts of M.\ntanarius , including the leaf, petiole, stem, leaflet, flower, and\nfruit (only in female plant). The fruits were further separated\ninto seed, pericarp, and glandular trichome which is the\nsurface material of M. tanarius fruits. After the quantitative\nanalyses of prenylflavonoids in each part of M. tanarius ,\nwe examined its 2,2 – diphenyl – 1 – picryl – hydroxyl (DPPH)\nradical scavenging activity. The qualitative characteristics of\nM. tanarius described in our study will be useful when it is\nused as a natural medicinal plant.",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            64,
+            304,
+            182,
+            315
+          ],
+          "text": "2. Materials and methods",
+          "reading_order": 2
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            64,
+            339,
+            144,
+            349
+          ],
+          "text": "2.1. Plant material",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            367,
+            324,
+            474
+          ],
+          "text": "M. tanarius was collected from Naha, Okinawa, Japan, in\nJune 2008. Mature fruits of M. tanarius were obtained in\nthis season. Although the age of the plant sample used in\nthis study was unknown, the height of the tree was 2 – 3 m.\nThe plant was identified by Mr. Tsuyoshi Miyagi, Okinawa\nPrefectural Forest Resources Research Center, Japan, where\na voucher specimen was deposited.",
+          "reading_order": 4
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            64,
+            492,
+            126,
+            501
+          ],
+          "text": "2.2. Chemicals",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            519,
+            324,
+            600
+          ],
+          "text": "Butylated hydroxytoluene was purchased from Kanto\nChemicals (Tokyo, Japan). DPPH and α –tocopherol (vitamin\nE, VE) were purchased from Wako Pure Chemical Industries\n(Osaka, Japan). Eriodictyol and naringenin were purchased\nfrom Funakoshi (Tokyo, Japan).",
+          "reading_order": 6
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            64,
+            617,
+            180,
+            627
+          ],
+          "text": "2.3. Preparation of extracts",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            645,
+            325,
+            764
+          ],
+          "text": "Male and female of M. tanarius plants were separated\ninto leaf, petiole, stem, leaflet, flower, and fruit. The fruits\nwere further separated into seed, pericarp, and glandular\nrichome. Each part (1 g) was air – dried for 3 days and ground\nusing a grinder. Then, each sample was extracted with 10 mL\nof methanol at room temperature for 3 days. The methanol\nextracts were filtered, and the filtrates were concentrated\nusing a rotary evaporator.",
+          "reading_order": 8
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            64,
+            788,
+            198,
+            797
+          ],
+          "text": "2.4. Analysis of prenyllatontoids",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            815,
+            324,
+            826
+          ],
+          "text": "Prenylflavonoids in the methanol extracts of each part of $M$.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            59,
+            603,
+            349
+          ],
+          "text": "tanarius were analyzed using a Jasco Gulliver HPLC system\n(Tokyo, Japan) with a photo – diode array detector. The dried\nmethanol extracts of the samples were dissolved in methanol\nagain, and the extracts were then filtered with a 0.45 –\n$^{\\mu}$ m membrane filter. For the qualitative and quantitative\nanalyses of the samples, we used a Capcell Pak UG120 C18\ncolumn (250.0 mm × 4.6 mm i.d.; Shiseido, Tokyo, Japan).\nThe mobile phase consisted of 0.1 % (v/v) trifluoroacetic\nacid in water (A phase) and 0.1 % (v/v) trifluoroacetic acid\nin acetonitrile (B phase). The gradient was 20 %– 80 % B\nphase (0–60 min), 80 %– 100 % B phase (60–80 min), and 100 %\nB phase (80–90 min), and the flow rate was 1.0 mL/min.\nQualitative analysis of the prenylflavonoids was performed\nby monitoring the UV spectra in the 195–650 nm range at a\nrate of 0.8 spectra/s and a resolution of 4.0 nm. On the other\nhand, the peak areas by the absorption of UV at 280 nm were\nused for quantitative analysis. Prenylflavonoids isolated\nfrom Okinawan propolis were used as authentic compounds\nto identify each peak [13,14] .",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            349,
+            603,
+            752
+          ],
+          "text": "Another set of the extracts dissolved in methanol was\nanalyzed by LC/MS to obtain more information for identifying\neach peak. A portion of the filtrate (5 μ L) was subjected to\nSI=1 HPLC system (Shiseido, Tokyo, Japan) on a Capcell Pak\nUG120 C18 column (250.0 mm × 2.0 mm i.d., 5 μ m). The\nmobile phase consisted of 0.1 % (v/v) formic acid in water (C\nphase) and 0.1 % (v/v) formic acid in acetonitrile (D phase).\nThe gradient was 20 %— 80 % D phase (0=60 min), 80 % $-$ 100 %\nD phase (60=80 min), and 100 % D phase (80=90 min), and\nthe flow rate was 0.2 mL/min. The elution of extracts was\nmonitored at 270 nm and then introduced into the API–\n2000 mass spectrometer (AB Sciex, Framingham, MA, USA)\nequipped with an electrospray ion source. The operating\nparameters are as follows: source voltages, 5 kV; electrospray\ncapillary voltage, −10 V; and capillary temperature, 250  ̊ C.\nAll MS data were acquired in negative ionization mode.\nThe antioxidant prenylflavonoids 1=5 from each part of M .\ntanarius were quantitatively analyzed. The calibration curve\nfor each compound was obtained from replicate injections\n( n =3) of known amounts of the corresponding standards with\nthe same flavonoid skeleton (eriodictyol for prenylflavonoids\n1, 2, 3 and 5, and naringenin for prenylflavonoid 4). The\nlimit of detection and quantification were determined at a\nsignal=to=noise (S/N) ratio of 3 and 10, respectively. The\nlimit of detection and quantification were determined using\na serially diluted reference solution of each compound.",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            752,
+            604,
+            824
+          ],
+          "text": "The reproducibility of the determinations was confirmed by\nanalyzing five technical replicates of the standard solution.\nThe precision was expressed using relative standard\ndeviation. The reproducibility was evaluated on the basis of\nthe result obtained at different times by different analysts",
+          "reading_order": 13
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            216,
+            35,
+            449,
+            44
+          ],
+          "text": "\\title{\nShipnovi Kanazawa et al./Asian Pacific Journal of Tropical Medicine (2014)16-20\n}",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            63,
+            35,
+            73,
+            47
+          ],
+          "text": "18",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            216,
+            35,
+            449,
+            46
+          ],
+          "text": "23kgesovi Kerezsosse et al/Asian Pacific Journal of Tropical Medicine (2014)16-20",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            53,
+            324,
+            89
+          ],
+          "text": "n the same laboratory. A recovery test was performed using\nhe method of standard addition.",
+          "reading_order": 2
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            64,
+            107,
+            262,
+            116
+          ],
+          "text": "2.5. Free radical scavenging activity on DPPH",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            134,
+            325,
+            272
+          ],
+          "text": "This assay was performed according to the method of Chen\nand Ho with some modifications [15] . The reaction mixture\ncontained 2 mL of ethanol, 125 μ mol/L DPPH , and 0.5 mg/mL\nof test samples. After incubation for 1 h at room temperature,\nthe absorbance was recorded at 517 nm. The control solution\ncontained only ethanol and DPPH . Results are expressed\nas percentage decrease with respect to control values.\nButylated hydroxytoluene and VE at the same concentration\nwere used as the positive controls.",
+          "reading_order": 4
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            64,
+            304,
+            109,
+            315
+          ],
+          "text": "3. Results",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            337,
+            324,
+            423
+          ],
+          "text": "The contents of water and extract of each part of $M$ ,\ntanarius are shown in Table 1 . Water content in each part\nwas determined by subtracting dry weight from fresh weight.\nThe weights shown in Table 1 were each weight (mg) per\ngram of the plant. Extraction efficiency (%) was determined\nfrom the yields of the methanol extracts.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            430,
+            325,
+            611
+          ],
+          "text": "Water contents in the parts other than the glandular\ntrichome were 600 – 800 mg/g (Table 1). In the present study,\neach part of the plant was dried at room temperature for\n3 days. The glandular trichome did not show a significant\nchange in weight. Water content of the glandular trichome\nwas very low (10 mg/g). Among all parts of the plant, the\nglandular trichome showed the highest extraction efficiency\nusing methanol (48.5 % ). This indicates that the glandular\ntrichome of M. tanarius consists mostly of hydrophobic\nconstituents. On the other hand, the extraction efficiency of\nthe leaf was more than 20.0 % , which indicates that the leaf of\nM. tanarius also contains hydrophobic compounds.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            615,
+            324,
+            627
+          ],
+          "text": "We identified prenylflavonoids 1-5 in the methanol",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            59,
+            603,
+            241
+          ],
+          "text": "extracts of different parts of M. tanarius by HPLC with\nphoto–diode array and MS detection . The chemical\nstructures of the compounds identified are shown in Figure\n1 . We used the prenylflavonoids isolated from the Okinawan\npropolis as authentic compounds to identify each peak.\nFirst, the peaks were assigned by comparing the retention\ntimes and UV spectra of authentic standards by photo–diode\narray detection. Further, LC/MS analysis was performed to\nconfirm the assignments of each peak to obtain the profiles\nof compounds present in the samples. Negative electrospray\nion – MS of each HPLC peak corresponded to the molecular\nions.",
+          "reading_order": 9
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/1b0d698078711c3ca4fb9edecfd57127-2813_252960184-4_page_003_figure_010.png)",
+          "figure_path": "figures/1b0d698078711c3ca4fb9edecfd57127-2813_252960184-4_page_003_figure_010.png",
+          "bbox": [
+            341,
+            250,
+            601,
+            385
+          ],
+          "reading_order": 10
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            341,
+            401,
+            593,
+            412
+          ],
+          "text": "Figure 1. Structures of prenylflavonoids identified from M. taenarius",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            421,
+            603,
+            591
+          ],
+          "text": "The results of the quantitative analysis of the extracts from\neach part of M. tanarius are shown in Table 2 . Values are\nexpressed as means of triplicate analyses for each sample. A\ncalibration curve for each prenylflavonoid was constructed\nand tested for linearity. Good linearity was observed for the\ncompounds between peak areas and concentrations over the\nrange test ( r >0.998). The limit of detection and quantification\nvalues for each compound were 2.5 and 8.0 μg/mL, μ g/mL,\nrespectively. The results for precision and reproducibility\nwere good. The percentage recovery value was found to be\napproximately 95 % by the recovery test.",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            591,
+            603,
+            621
+          ],
+          "text": "The leaf of M. tanarius contained the prenylflavonoids 1\nand 5 as main components in both male and female plants",
+          "reading_order": 13
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            61,
+            680,
+            601,
+            806
+          ],
+          "text": "<table><tr><td rowspan=\"2\">Plant part</td><td colspan=\"2\">Dry weight (mg/g)</td><td colspan=\"2\">Water content (mg/g)</td><td colspan=\"2\">Extract (mg/g)</td><td colspan=\"2\">Extraction efficiency (%)</td></tr><tr><td>Male</td><td>Female</td><td>Male</td><td>Female</td><td>Male</td><td>Female</td><td>Male</td><td>Female</td></tr><tr><td>Leaf</td><td>400</td><td>366</td><td>601</td><td>634</td><td>94.3</td><td>90.8</td><td>23.6</td><td>24.8</td></tr><tr><td>Petiole</td><td>205</td><td>264</td><td>795</td><td>736</td><td>16.3</td><td>12.5</td><td>8.0</td><td>4.7</td></tr><tr><td>Stem</td><td>138</td><td>455</td><td>862</td><td>545</td><td>11.4</td><td>9.3</td><td>8.3</td><td>2.0</td></tr><tr><td>Leaflet</td><td>295</td><td>275</td><td>705</td><td>726</td><td>35.8</td><td>27.1</td><td>12.1</td><td>9.9</td></tr><tr><td>Flower</td><td>276</td><td>238</td><td>724</td><td>762</td><td>71.1</td><td>47.0</td><td>25.8</td><td>19.7</td></tr><tr><td>Seed</td><td></td><td>338</td><td></td><td>662</td><td></td><td>41.6</td><td></td><td>12.3</td></tr><tr><td>Pericarp</td><td></td><td>236</td><td></td><td>764</td><td></td><td>22.4</td><td></td><td>9.5</td></tr><tr><td>Glandular trichome</td><td></td><td>990</td><td></td><td>10</td><td></td><td>480.0</td><td></td><td>48.5</td></tr></table>",
+          "reading_order": 14
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            63,
+            654,
+            91,
+            663
+          ],
+          "text": "Table 1",
+          "reading_order": 15
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            64,
+            811,
+            171,
+            824
+          ],
+          "text": "All data are per gram of plant",
+          "reading_order": 16
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "tab",
+          "bbox": [
+            61,
+            71,
+            603,
+            224
+          ],
+          "text": "<table><tr><td rowspan=\"2\">Plant part</td><td colspan=\"2\">Prenylflavonoid 1</td><td colspan=\"2\">Prenylflavonoid 2</td><td colspan=\"2\">Prenylflavonoid 3</td><td colspan=\"2\">Prenylflavonoid 4</td><td colspan=\"2\">Prenylflavonoid 5</td><td colspan=\"2\">Total</td></tr><tr><td>Male</td><td>Female</td><td>Male</td><td>Female</td><td>Male</td><td>Female</td><td>Male</td><td>Female</td><td>Male</td><td>Female</td><td>Male</td><td>Female</td></tr><tr><td>Leaf</td><td>1.10±0.03</td><td>1.07±0.02</td><td>0.12±0.01</td><td>ND</td><td>0.24±0.02</td><td>0.15±0.00</td><td>ND</td><td>ND</td><td>3.08±0.05</td><td>2.98±0.05</td><td>4.54</td><td>4.20</td></tr><tr><td>Petiole</td><td>ND</td><td>0.02±0.00</td><td>ND</td><td>0.01±0.00</td><td>ND</td><td>ND</td><td>ND</td><td>0.01±0.00</td><td>ND</td><td>0.03±0.00</td><td>ND</td><td>0.07</td></tr><tr><td>Stem</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>0.01±0.00</td><td>ND</td><td>0.01</td></tr><tr><td>Leaflet</td><td>ND</td><td>0.30±0.00</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>0.02±0.00</td><td>0.03±0.00</td><td>0.02</td><td>0.33</td></tr><tr><td>Flower</td><td>2.78±0.01</td><td>0.81±0.00</td><td>0.14±0.00</td><td>0.31±0.01</td><td>0.10±0.01</td><td>1.22±0.01</td><td>0.23±0.00</td><td>0.90±0.01</td><td>0.63±0.01</td><td>0.79±0.01</td><td>3.88</td><td>4.03</td></tr><tr><td>Seed</td><td></td><td>0.19±0.01</td><td></td><td>0.11±0.00</td><td></td><td>0.18±0.01</td><td></td><td>0.19±0.01</td><td></td><td>0.14±0.01</td><td></td><td>0.81</td></tr><tr><td>Pericarp</td><td></td><td>0.52±0.01</td><td></td><td>0.30±0.00</td><td></td><td>0.52±0.01</td><td></td><td>0.49±0.01</td><td></td><td>0.31±0.00</td><td></td><td>2.14</td></tr><tr><td>G l a n d u l a r trichome</td><td></td><td>60.14±0.25</td><td></td><td>35.22±0.29</td><td></td><td>55.40±0.53</td><td></td><td>48.50±0.25</td><td></td><td>35.92±0.37</td><td></td><td>235.18</td></tr></table>",
+          "reading_order": 0
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            64,
+            60,
+            91,
+            71
+          ],
+          "text": "Table 2",
+          "reading_order": 1
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            64,
+            71,
+            315,
+            81
+          ],
+          "text": "Contents of prenylflavonoids in fresh samples of $M$. ta narius (mg/g).",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            224,
+            601,
+            250
+          ],
+          "text": "Each value represents the mean±SD (n=3). ND: not detected. The prenylflavonoids 1–5 are nymphaeol-B, isonymphaeol-B, nymphaeol-A\n3′-geranyl-naringenin, and nymphaeol-C, respectively.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            268,
+            324,
+            419
+          ],
+          "text": "(Table 2). Further, both flowers (male and female) contained\nall five kinds (1 – 5) of prenylflavonoids. However, in the\npetiole, stem, and leaflet of both male and female plants,\nthese prenylflavonoids were not detected or their amounts\nwere very low. All five kinds of prenylflavonoids were\ndetected in the seed, pericarp, and glandular trichome of\nfemale M. tanarius . In particular, the glandular trichome\nhad the highest level of prenylflavonoids (235 mg/g of fresh\nplant).\nNext, we evaluated the DPPH radical scavenging activity",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            419,
+            324,
+            573
+          ],
+          "text": "of each part of $M$ , tanarius (Table 3 ). We reported that\nprenylflavonoids in the glandular trichome of M. tanarius\nhave strong DPPH radical scavenging activity [6] . In the\npresent study, DPPH radical scavenging activity of all parts\nwas more than 30.0 % . Particularly, the leaf, in which the\nprenylflavonoid contents were lower than those in glandular\nrichome, also had DPPH radical scavenging activity. This\nresult suggests that compounds other than prenylflavonoids\nin each part also contribute to the DPPH radical scavenging\nactivity.",
+          "reading_order": 5
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            61,
+            609,
+            324,
+            770
+          ],
+          "text": "<table><tr><td>Plant part</td><td>Male</td><td>Female</td></tr><tr><td>Leaf</td><td>85.22±2.44</td><td>74.65±0.30</td></tr><tr><td>Petiole</td><td>32.87±1.90</td><td>39.40±0.86</td></tr><tr><td>Stem</td><td>37.85±1.58</td><td>39.05±0.65</td></tr><tr><td>Leaflet</td><td>42.58±3.24</td><td>48.92±1.76</td></tr><tr><td>Flower</td><td>65.28±2.82</td><td>63.57±3.30</td></tr><tr><td>Seed</td><td></td><td>48.20±5.32</td></tr><tr><td>Pericarp</td><td></td><td>80.45±1.70</td></tr><tr><td>Glandular trichome</td><td></td><td>79.65±0.90</td></tr><tr><td>BHT</td><td></td><td>14.82±1.42</td></tr><tr><td>VE</td><td></td><td>75.66±1.53</td></tr></table>",
+          "reading_order": 6
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            63,
+            582,
+            91,
+            592
+          ],
+          "text": "Table 3",
+          "reading_order": 7
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            61,
+            770,
+            325,
+            806
+          ],
+          "text": "Each value represents the mean±SD ( n =3). Butylated hydroxytoluene\nand α − tocopherol (vitamin E, VE) at the concentration of 0.5 mg/mL / mL\nwere used as positive control.",
+          "reading_order": 8
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            341,
+            268,
+            395,
+            286
+          ],
+          "text": "4. Discussion",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            302,
+            604,
+            600
+          ],
+          "text": "Recently, few studies have reported the biological activities\nof the leaf extracts of M. tanarius . The aqueous methanol\nextracts of M. tanarius leaves inhibit $\\alpha-$ glucosidase,\nand ellagitannins are the active compounds present in\nthem [16] . On the other hand, the methanolic leaf extracts of\nM. tanarius also have antibacterial activity [17] . Therefore,\nM. tanarius is receiving increasing attention as a natural\nmedicinal plant. We have also reported that the ethanol\nextracts of Okinawan propolis from glandular trichome of\nM. tanarius have antioxidant and antimicrobial activities\nand that the prenylflavonoids in them contribute the\nactivities [6,7] . Further, it has been developed and patented\nan antimicrobial agent, containing M. tanarius extracts with\nprenylflavonoids, and as an active ingredient that is useful\nin oral products for preventing and treating dental caries,\ngingivitis and gum inflammation [18] . However, quantitative\nanalysis of functional prenylflavonoids in the leaf and other\nparts of M. tanarius has not been performed as far as we\nknow.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            600,
+            604,
+            806
+          ],
+          "text": "In the present study, we quantitatively analyzed five kinds\nof prenylflavonoids in different parts of M. tanarius . All\nthese prenylflavonoids have antioxidant and antimicrobial\nactivities [6,7] . Although the prenylflavonoids analyzed in this\nstudy are known, the report of the quantitative analysis of\nthe prenylflavonoids in various parts of M. tanarius is for the\nfirst time. In particular, not only the glandular trichome but\nalso the leaf contained prenylflavonoids, which indicates\nthat M. tanarius may be developed as a functional plant,\nbecause the leaves of this plant can be easily collected.\nThese qualitative characteristics of M. tanarius reported in\nour study will be important when M. tanarius is used as a\nnatural medicinal plant.",
+          "reading_order": 11
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            62,
+            35,
+            73,
+            47
+          ],
+          "text": "20",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            216,
+            35,
+            449,
+            46
+          ],
+          "text": "23kgesovi Kerezsosse et al/Asian Pacific Journal of Tropical Medicine (2014)16-20",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            60,
+            198,
+            71
+          ],
+          "text": "Conflict of interest statement",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            89,
+            270,
+            100
+          ],
+          "text": "We declare that we have no conflict of interest.",
+          "reading_order": 3
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            64,
+            134,
+            144,
+            152
+          ],
+          "text": "Acknowledgment",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            170,
+            324,
+            277
+          ],
+          "text": "This work was supported by the Program for Creating\nOkinawa Innovation of Cabinet Office, Government of Japan\nand a Grant – in – Aid for Scientific Research of the Japan\nSociety for the Promotion of Science. We thank Prof. Yazaki\n(Kyoto University, Japan) for his useful comments, and\nwe thank Y. Ohara (University of Shizuoka, Japan) for her\ntechnical assistances on this work.",
+          "reading_order": 5
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            63,
+            312,
+            109,
+            322
+          ],
+          "text": "Reference",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            340,
+            325,
+            413
+          ],
+          "text": "1] Heil M, Koch T, Hilpert A, Fiala B, Boland W, Linsenmair\nE. Extrafloral nectar production of the ant–associated plant,\nMacaranga tanarius , is an induced, indirect, defensive response\nelicited by jasmonic acid. Proc Natl Acad Sci USA 2001; 98 :\n1083–1088.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            421,
+            324,
+            476
+          ],
+          "text": "[2] Eck G, Fiala B, Linsenmair KE, Bin Hashim R, Proksch P. Trade–\noff between chemical and biotic antiherbivore defense in the south\neast Asian plant genus Macaranga . J Chem Ecol 2001; 27 : 1979–\n1996.",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            483,
+            324,
+            539
+          ],
+          "text": "[3] Matsumami K, Takamori I, Shinzato T, Aramoto M, Kondo K, Otsuka\nH, et al. Radical–scavenging activities of new megastigmane\nglucosides from Macaranga tanarius (L.) Müller–ARG. Chem\nPharm Bull 2006: 54 : 1403–1407.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            546,
+            324,
+            591
+          ],
+          "text": "4] Ishida C, Kono M, Sakai S. A new pollination system: brood–site\npollination by flower bugs in Macaranga (Euphorbiaceae). Ann Bot\n2009; 103 : 39–44.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            591,
+            324,
+            636
+          ],
+          "text": "5] Phommart S, Sutthivaiyakit P, Chimnoi N, Ruchirawat S,\nSutthivaiyakit S. Constituents of the leaves of Macaranga tanarius .\nJ Nat Prod 2005; 68: 927–930.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            64,
+            642,
+            325,
+            667
+          ],
+          "text": "6] Kumazawa S, Nakamura J, Murase M, Miyagawa M, Ahn MR,\nFukumoto S. Plant origin of Okinawan propolis: honeybee behavior",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            350,
+            59,
+            603,
+            83
+          ],
+          "text": "observation and phytochemical analysis . Naturwissenschaften\n2008: 95 ; 781–786.",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            89,
+            602,
+            116
+          ],
+          "text": "[7] Kumazawa S, Fukumoto S. Macaranga tanarius , the plant origin of\nOkinawan propolis. Honeybee Sci 2010; 28: 1–6. (in Japanese)",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            122,
+            603,
+            161
+          ],
+          "text": "[8] Tseng MH, Chou CH, Chen YM, Kuo YH. Allelopathic\nprenylflavanones from the fallen leaves of Macaranga taenarias. J\nNat Prod 2001: 64 : 827–828.",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            169,
+            603,
+            209
+          ],
+          "text": "[9] Tseng MH, Kuo YH, Chen YM, Chou CH. Allelopathic potential of\nMacaranga tanarius (L.) MUELL-ARG. J Chem Ecol 2005; 29:\n1269–1286.",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            215,
+            603,
+            272
+          ],
+          "text": "[10]Guhling O, Kinzler C, Dreyer M, Bringmann G, Jetter R. Surface\ncomposition of myrmesophile plants: cuticular wax and glandular\ntrichomes on leaves of Macaranga tanarius . J Chem Ecol 2005;\n31 : 2323–2341.",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            277,
+            601,
+            322
+          ],
+          "text": "[11]Kawakami S, Harinantenaria L, Matsunami K, Otsuka H, Shimzate\nT, Takeda Y, Macaflavanones A–G, prenylated flavanones from the\nleaves of Macaranga tanarius. J Nat Prod 2008; 71 : 1872–1876.",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            322,
+            601,
+            368
+          ],
+          "text": "[12]Trusheva B, Popova M, Koendhori EB, Tsvetkova I, Naydenski C\nBankova V. Indonesian propolis: chemical composition, biological\nactivity and botanical origin. Nat Prod Res 2011; 25 : 606–613.",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            374,
+            601,
+            415
+          ],
+          "text": "[13]Kumazawa S, Goto H, Hamasaka T, Fukumoto S, Fujimoto T\nNakayama T. A new prenylated flavonoid from propolis collected\nin Okinawa, Japan. Biosci Biotechnol Biochem 2004; 68 : 260–262.",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            421,
+            603,
+            476
+          ],
+          "text": "[14]Kumazawa S, Ueda R, Hamasaka T, Fukumoto S, Fujimoto T,\nNakayama T. Antioxidant prenylated flavonoids from propolis\ncollected in Okinawa, Japan. J Agric Food Chem 2007; 55 : 7722–\n7725.",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            483,
+            601,
+            510
+          ],
+          "text": "[15]Chen CW, Ho CT. Antioxidant properties of polyphenols extracted\nfrom green tea and black tea. J Food Lipids 1995; 2: 35–46.",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            516,
+            601,
+            555
+          ],
+          "text": "[16]Gunawan–Puteri MDPT, Kawabata J. Novel α −glucosidase\ninhibitors from Macaranga tanarius leaves. Food Chem 2010; 123\n384–389.",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            563,
+            603,
+            602
+          ],
+          "text": "[17]Lim TY, Lim YY, Yule CM. Evaluation of antioxidant, antibacterial\nand anti–tyrosinase activities of four Macaranga species. Food\nChem 2009: 114 : 594–599.",
+          "reading_order": 24
+        },
+        {
+          "label": "para",
+          "bbox": [
+            340,
+            609,
+            601,
+            666
+          ],
+          "text": "[18] Fukumoto S, Goto T. Antimicrobial agent useful in oral products\nfor preventing and treating dental caries, gingivitis and gun\ninflammation, contains Macaranga tanarius extracts as active\ningredient. Patent No. JP2007045754–A.",
+          "reading_order": 25
+        }
+      ]
+    }
+  ]
+}

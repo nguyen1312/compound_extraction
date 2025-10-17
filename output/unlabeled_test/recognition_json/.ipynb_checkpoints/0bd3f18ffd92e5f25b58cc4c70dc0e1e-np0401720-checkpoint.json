@@ -1,0 +1,924 @@
+{
+  "source_file": "./dataset/unlabeled_test/0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720.pdf",
+  "total_pages": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            26,
+            78,
+            38
+          ],
+          "text": "706",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            275,
+            26,
+            418,
+            39
+          ],
+          "text": "J. Nat. Prod. 2005,68,706-710",
+          "reading_order": 1
+        },
+        {
+          "label": "title",
+          "bbox": [
+            60,
+            62,
+            627,
+            98
+          ],
+          "text": "Cassane- and Norcassane-Type Diterpenes from Caesalpinia crista of Indonesia\nand Their Antimalarial Activity against the Growth of Plasmodium falciparum",
+          "reading_order": 2
+        },
+        {
+          "label": "author",
+          "bbox": [
+            60,
+            114,
+            616,
+            136
+          ],
+          "text": "Thein Zaw Linn,\n† Suresh Awale,\n† Yasuhiro Tezuka,\n† Arjun H. Banskota,\n† Surya K. Kalauni,\n† Faisal Attamimi,\nJun-ya Ueda,\n† Puji Budi Setia Asih,\n§ Din Syafruddin,\n§ Ken Tanaka,\n‡ and Shigetoshi Kadota*\n,†",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            143,
+            624,
+            188
+          ],
+          "text": "Institute of Natural Medicine, Toyama Medical and Pharmaceutical University, 2630 Sugitani, Toyama 930-0194, Japan,\nFaculty of Mathematics and Natural Sciences, Hasanuddin University, Makassar, Indonesia, Eijkman Institute for Molecular\nBiology, Jalan Diponegoro 69, Jakarta 10430, Indonesia, and National Police Agency, 2-1-2 Kasumigaseki, Chiyoda-Ku,\nTokyo 100-8974, Japan",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            197,
+            176,
+            207
+          ],
+          "text": "Received August 16, 2004",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            102,
+            224,
+            591,
+            326
+          ],
+          "text": "The CH 2 Cl 2 extract of the seed kernels of Caesalpinia crista , which exhibited promising antimalarial\nactivity against Plasmodium berghei -infected mice in vivo, was examined and resulted in the isolation of\nseven new furanocassane-type diterpenes [caesalpinins C − G (1 − S) and norcaesalpinins D and E (6, 7)]\ntogether with norcaessalpinins A − C (8 − 10) and 11 known compounds (norcaesalpinins A − C, 2-acetoxy-\n3-deacetoxycaesaldekarin e, caesalmin B, caesaldekarin e, caesalpin F, 14(17)-dehydrocaesalpin F,\n2-acetoxycaesaldekarin e, 7-acetoxybonducellpin C, and caesalmin G). Their structures were determined\non the basis of spectroscopic analysis. The isolated diterpenes showed significant dose-dependent inhibitory\neffects on Plasmodium falciparum FCR-3/A2 growth in vitro. Their IC 50 values ranged from 90 nM to 6.5\n$\\mu$ M, and norcaesalpinin E (7) showed the most potent inhibitory activity (IC 50 , 90 nM).",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            340,
+            332,
+            474
+          ],
+          "text": "Malaria is a parasitic disease affecting 200–300 million\npeople in the tropical and subtropical regions of the world\nand claims the lives of approximately three million people\neach year. $^1$ The appearance of drug-resistant Plasmodium\nfalciparum since 1960 has made the treatment of malaria\nincreasingly problematic, and apparently the battle against\nmalaria has not been successful. From the historical\ndiscovery of quinine from the Cinchona tree and the recent\ndiscovery of artemisinin from Artemisia annua L. (Aster-\naceae), there is anticipation that new leads may emerge\nfrom other tropical plant sources.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            474,
+            332,
+            689
+          ],
+          "text": "Cuesalpinia crista Linn. (Fabaceae) is a popular tradi-\ntional medicinal plant and is widely distributed throughout\nthe tropical and subtropical regions of Southeast Asia. In\nIndonesia, it is commonly known as “Bagore”, and a\ndecoction of the roots has been used as a tonic and for the\ntreatment of rheumatism and backache. $^2$ Its seed kernels\nhave been used as an antimalarial and anthelminthic. $^2$ As\na part of our exploration of medicinal plant resources from\nSoutheast Asia, we observed that the CH $_{2}$ Cl $_{2}$ extract of the\nseed kernels of C. crista possessed significant antimalarial\nactivity in mice infected with Plasmodium berghei . 3 Fur-\nther separation of the CH $_{2}$ Cl $_{2}$ extract led to the isolation\nof seven new diterpenes, named caesalpinins C $-$ G ( 1 $-$ 5 )\nand norcaesalpinins D and E ( 6 , 7 ). In this paper, we report\nthe isolation and structure elucidation of these new diter-\npenes together with antimalarial activity of the isolated\ncompounds against Plasmodium falciparum FCR-3/A2\ngrowth in vitro.",
+          "reading_order": 8
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            698,
+            177,
+            707
+          ],
+          "text": "Results and Discussio",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            715,
+            332,
+            761
+          ],
+          "text": "Air-dried seed kernels of C. crista Linn. were extracted\nwith CH 2 Cl 2 by overnight percolation at room temperature.\nIn a test for antimalarial activity in vivo, the CH 2 Cl 2\nextract showed significant inhibition of parasitemia level",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            680,
+            633,
+            826
+          ],
+          "text": "(98.6 % ) at a dose of 10 mg/kg in mice infected with P.\nberghei . The CH 2 Cl 2 extract was fractionated by silica gel\ncolumn chromatography with a benzene/EtOAc gradient\nsystem to give nine fractions. Fractions $2-5$ were further\nsubjected to repeated silica gel column chromatography\nfollowed by normal- and reversed-phase preparative TLC\nto afford five new cassane-type diterpenes, caesalpinins\nC − G ( 1 − 5 ) , and two additional new norcassane-type diter-\npenes, norcaesalpinins D and E ( 6 , 7 ) , together with 11\nknown compounds, norcaesalpinins A − C ( 8 − 10 ) , 2-acetoxy-\n3-deacetoxycaesaldekarin e ( 11 ) , 4 caesalmin B ( 12 ) , 5 cae-\nsaldekarin e ( 13 ) , 6 caesalpin F ( 14 ) , 7 14(17)-dehydrocae-",
+          "reading_order": 11
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720_page_001_figure_012.png)",
+          "figure_path": "figures/0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720_page_001_figure_012.png",
+          "bbox": [
+            355,
+            340,
+            633,
+            672
+          ],
+          "reading_order": 12
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            60,
+            777,
+            330,
+            801
+          ],
+          "text": "$^{\\star}$ To whom correspondence should be addressed. Tel: 81-76-434-7625\nFax: 81-76-434-5059. E-mail: kadota@ms.toyama-mpu.ac.jp\n$^{\\dagger}$ Toyama Medical and Pharmaceutical University.",
+          "reading_order": 13
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            69,
+            801,
+            257,
+            809
+          ],
+          "text": "$^{\\ddagger}$ Hasanuddin University.",
+          "reading_order": 14
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            69,
+            809,
+            221,
+            828
+          ],
+          "text": "$^{\\dag}$ Eijkman Institute for Molecular Biology\n$^{1}$ National Police Agency, Tokyo.",
+          "reading_order": 15
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            69,
+            828,
+            194,
+            833
+          ],
+          "text": "↑. International Olympic Committee. [2021-09-28].",
+          "reading_order": 16
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            114,
+            833,
+            574,
+            855
+          ],
+          "text": "10.1021/np0401720 CCC: $30.25  ② 2005 American Chemical Society and American Society of Pharmacognosy\nPublished on Web 04/21/2005",
+          "reading_order": 17
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            26,
+            239,
+            44
+          ],
+          "text": "Cassane- and Norcassane-Type Diterpenes",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            391,
+            26,
+            633,
+            40
+          ],
+          "text": "Journal of Natural Products, 2005, Vol. 68, No. 5707",
+          "reading_order": 1
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            60,
+            62,
+            633,
+            465
+          ],
+          "text": "<table><tr><td>position</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1</td><td>4.88 t (3.1)</td><td>4.90 br s</td><td>4.84 br s</td><td></td><td>5.26 d (2.9)</td><td>5.29 d (3.5)</td><td>4.94 t (2.9)</td></tr><tr><td>2</td><td>2.37 m, 2.15</td><td>2.03 m, 1.17 m</td><td>1.94 m, 1.75 m</td><td>1.91 m, 1.77 m</td><td>5.35 ddd (13.1, 4.9, 2.9)</td><td>5.54 t (3.5)</td><td>1.99 m, 1.77 m</td></tr><tr><td>3</td><td>4.95 t (3.1)</td><td>1.81 m</td><td>1.27 m</td><td>2.57 m</td><td>1.96 m</td><td>5.18 d (3.5)</td><td>1.74 m</td></tr><tr><td></td><td></td><td>1.21 m</td><td>1.07 m</td><td>2.48 m</td><td>1.46 dd (13.1, 4.9)</td><td></td><td>1.20 m</td></tr><tr><td>6</td><td>1.93 m</td><td>5.61 d (9.4)</td><td>5.36 dd (11, 5.5)</td><td>5.3 dd (11.5, 5.2)</td><td>2.38 dd (12.3, 5.0)</td><td>1.66 m</td><td>2.15 dd (11.1, 5.8)</td></tr><tr><td></td><td>1.78 m</td><td></td><td></td><td></td><td>1.72 td (12.3, 2.7)</td><td>1.85 m</td><td>1.67 td (11.1, 2.1)</td></tr><tr><td>7</td><td>1.21 m</td><td>4.77 dd (11.3, 9.4)</td><td>1.90 m</td><td>1.94 m</td><td>4.67 td (11.0, 5.0)</td><td>2.20 m</td><td>4.38 td (11.1, 5.8)</td></tr><tr><td></td><td>2.06 m</td><td></td><td>1.79 m</td><td>1.61 dd (23.2, 11.5)</td><td></td><td>1.80 m</td><td></td></tr><tr><td>8</td><td>2.36 m</td><td>2.09 m</td><td>2.17 m</td><td>2.13 m</td><td>2.05 m</td><td>2.38 td (12.3, 5.0)</td><td>2.39 dd (12.4, 11.1)</td></tr><tr><td>9</td><td>2.87 td (11.2, 5.6)</td><td>2.82 td (13.5, 8.8)</td><td>2.58 td (11.5, 6.0)</td><td>2.62 m</td><td>2.75 dt (13.3, 8.5)</td><td>3.20 td (12.3, 5.0)</td><td>3.08 td (12.4, 5.1)</td></tr><tr><td>11</td><td>2.54 dd (16.1, 11.2)</td><td>2.53 m</td><td>2.42 ddd (16.6, 11.5, 2.7)</td><td>2.38 m</td><td>2.60 dd (17.9, 8.5)</td><td>2.66 dd (17.0, 12.3)</td><td>2.74 dd (17, 5.1)</td></tr><tr><td></td><td>2.30 dd (16.1, 5.6)</td><td></td><td>2.26 dd (16.6, 6.0)</td><td>3.35 dd (16.4, 4.9)</td><td>2.49 dd (17.9, 8.5)</td><td>2.52 dd (16.0, 5.0)</td><td>2.53 dd (17, 12.0)</td></tr><tr><td>14</td><td></td><td>3.30 d (13.5)</td><td>3.30 d (9.5)</td><td>3.30 d (9.5)</td><td>3.23 d (13.3)</td><td></td><td></td></tr><tr><td>15</td><td>6.45 d (2.5)</td><td>6.59 d (1.9)</td><td>6.14 d (2.0)</td><td>6.10 d (1.9)</td><td>6.60 d (1.7)</td><td>6.64 d (1.9)</td><td>6.65 d (1.9)</td></tr><tr><td>16</td><td>7.23 d (2.5)</td><td>7.30 d (1.9)</td><td>7.25 d (2.0)</td><td>7.20d (1.9)</td><td>7.30 d (1.7)</td><td>7.30 d (1.9)</td><td>7.33 d (1.9)</td></tr><tr><td>17</td><td>4.92 d (2.7)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5.12 d (2.7)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18</td><td>1.11 s</td><td>1.17 s</td><td>1.13 s</td><td>1.10 s</td><td>1.15 s</td><td>1.13 s</td><td>1.07 s</td></tr><tr><td>19</td><td>1.15 s</td><td>1.18 s</td><td>1.17 s</td><td>1.20 s</td><td>1.21 s</td><td>1.25 s</td><td>1.11 s</td></tr><tr><td>20</td><td>1.16 s</td><td>1.22 s</td><td>1.19 s</td><td>1.40 s</td><td>1.26 s</td><td>1.32 s</td><td>1.24 s</td></tr><tr><td>1-OAc</td><td>2.04 s</td><td>2.16 s</td><td>2.11 s</td><td></td><td>2.18 s</td><td>1.99 s</td><td>2.10 s</td></tr><tr><td>2-OAc</td><td></td><td></td><td></td><td></td><td>1.99 s</td><td>2.11 s</td><td></td></tr><tr><td>3-OAc</td><td>2.03 s</td><td></td><td></td><td></td><td></td><td>2.13 s</td><td></td></tr><tr><td>6-OAc</td><td></td><td>2.16 s</td><td>2.09 s</td><td>2.09 s</td><td></td><td></td><td></td></tr><tr><td>5-OH</td><td>3.27 br s</td><td>3.16 s</td><td>3.10 s</td><td></td><td>3.08 d (2.7)</td><td>3.30 d (3.0)</td><td>2.81 d (2.1)</td></tr><tr><td>7-OH</td><td></td><td></td><td></td><td></td><td></td><td></td><td>4.70 s</td></tr><tr><td>17-OCH 3</td><td></td><td></td><td>3.75</td><td>3.74</td><td></td><td></td><td></td></tr></table>",
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            60,
+            52,
+            463,
+            62
+          ],
+          "text": "Table 1. ${ }^{1} \\mathrm{H}$ NMR (400 MHz) Data $(\\delta)$ for Compounds 1-7 in $\\mathrm{CDCl}_{3}(J$ values in parentheses)",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            474,
+            329,
+            501
+          ],
+          "text": "salpin F (15),$^{7}$2-acetoxycaesaldekarin e (16),$^{7}$7-acetoxybon\nducellpin C (17),$^{8}$ and caesalmin G (18)$^{9}$ (Figure S1).",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            501,
+            332,
+            833
+          ],
+          "text": "Caesalpinin C (1) was isolated as colorless amorphous\nsolid with [ $\\alpha$ ] $_{\\rm D}$ 25 +30.2\" (CHCl $_3$ ), whose molecular formula\nwas determined to be C $_{24}$ H $_{32}$ O $_6$ by HRFABMS. IR absorp-\ntions at 3575 and 1735 cm $^{-1}$ indicated the presence of\nhydroxyl and carbonyl groups, respectively. The $^{1}$ H NMR\nspectrum (Table 1 ) displayed signals corresponding to three\ntertiary methyls, two oxygen-substituted methines, two\naliphatic methines together with two protons of a 1,2-\ndisubstituted furan ring ( $\\delta$ 7.23, 6.45), and two acetyl\nmethyls. Moreover, the $^{13}$ C NMR spectrum (Table 2 )\nshowed six olefinic carbons ( $\\delta$ 151.3, 142.2, 141.5, 119.1,\n106.3, 104.3) and three oxygen-substituted carbons ( $\\delta$ 73.8,\n76.9, 76.7) together with two ester carbonyl carbons. These\n$^{1}$ H and $^{13}$ C NMR data were similar to those of 14(17)-\ndehydrocaesalpin F (15), $^{7}$ except for the number of acetyl\ngroups. Thus, 1 was considered to be a derivative of 15\nhaving only one acetyl group instead of two in 15 . This was\nconfirmed by analysis of the COSY, HMQC, and HMBC\nspectra. The locations of the acetyl groups were determined\nto be C-1 and C-3, on the basis of the long-range correla-\ntions of the ester carbonyl carbon at $\\delta$ 169.4 (1-OCO) with\nthe protons at $\\delta$ 2.04 (1-OCOCH $_3$ ) and 4.88 (H-1) and of\nthe ester carbonyl carbon at $\\delta$ 169.3 (3-OCO) with the\nprotons at $\\delta$ 2.03 (3-OCOCH $_3$ ) and 4.95 (H-3). The relative\nconfiguration was assigned on the basis of NOEs between\nH $_3$ -20 and H-1, H-2, H-6 $_{\\rm ux}$ , H-8, H-11, and H $_3$ -19, and the\ncoupling constants for H-1 ( $J=3.1$ Hz), H-3 ( $J=3.1$ Hz),\nand H-9 ( $J_{9,11\\mathrm{u}x}=11.2$ Hz). Thus caesalpinin C was 1 .",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            833,
+            329,
+            860
+          ],
+          "text": "Caesalpinins D (2) and G (5) both were colorless amor\nphous solids with $[\\alpha]_{\\mathrm{D}}{ }^{25}+63.2^{\\circ}\\left(\\mathrm{CHCl}_{3}\\right)$ and $[\\alpha]_{\\mathrm{D}}{ }^{25}+58.2$",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            823,
+            633,
+            860
+          ],
+          "text": "$\\left(\\mathrm{CHCl}_{3}\\right)$, respectively. Their IR spectra indicated the pres-\nence of hydroxyl, $\\gamma$-lactone, and ester groups, while the\nmolecular formulas were identical, $\\mathrm{C}_{24} \\mathrm{H}_{30} \\mathrm{O}_{8}$, by HR",
+          "reading_order": 7
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            355,
+            492,
+            633,
+            815
+          ],
+          "text": "<table><tr><td>position</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1</td><td>73.8</td><td>74.9</td><td>75.8</td><td>212.6</td><td>73.8</td><td>73.9</td><td>75.2</td></tr><tr><td>2</td><td>26.5</td><td>22.4</td><td>21.8</td><td>38.1</td><td>66.5</td><td>66.2</td><td>22.7</td></tr><tr><td>3</td><td>76.9</td><td>32.6</td><td>32.5</td><td>35.3</td><td>35.2</td><td>77.4</td><td>29.9</td></tr><tr><td>4</td><td>41.6</td><td>39.4</td><td>38.5</td><td>38.5</td><td>40.9</td><td>43.3</td><td>38.4</td></tr><tr><td>5</td><td>76.7</td><td>83.7</td><td>78.2</td><td>80.7</td><td>81.6</td><td>76.7</td><td>77.9</td></tr><tr><td>6</td><td>23.4</td><td>72.6</td><td>72.0</td><td>72.7</td><td>30.1</td><td>26.5</td><td>33.6</td></tr><tr><td>7</td><td>22.3</td><td>82.3</td><td>32.5</td><td>32.2</td><td>80.2</td><td>20.5</td><td>67.2</td></tr><tr><td>8</td><td>35.1</td><td>44.4</td><td>34.0</td><td>34.0</td><td>29.8</td><td>44.0</td><td>51.0</td></tr><tr><td>9</td><td>38.7</td><td>32.6</td><td>36.6</td><td>37.9</td><td>33.4</td><td>40.2</td><td>38.6</td></tr><tr><td>10</td><td>43.8</td><td>47.6</td><td>45.2</td><td>56.1</td><td>45.9</td><td>45.6</td><td>43.6</td></tr><tr><td>11</td><td>26.5</td><td>21.6</td><td>21.8</td><td>23.4</td><td>21.4</td><td>23.2</td><td>22.8</td></tr><tr><td>12</td><td>151.3</td><td>151.3</td><td>150.0</td><td>151.5</td><td>151.3</td><td>165.8</td><td>166.6</td></tr><tr><td>13</td><td>119.1</td><td>113.9</td><td>113.9</td><td>112.5</td><td>113.8</td><td>120.2</td><td>119.8</td></tr><tr><td>14</td><td>142.2</td><td>41.5</td><td>48.0</td><td>48.1</td><td>41.1</td><td>195.5</td><td>198.4</td></tr><tr><td>15</td><td>106.3</td><td>107.8</td><td>108.7</td><td>108.5</td><td>107.8</td><td>106.8</td><td>106.3</td></tr><tr><td>16</td><td>141.5</td><td>142.0</td><td>141.4</td><td>141.0</td><td>141.8</td><td>143.3</td><td>143.4</td></tr><tr><td>17</td><td>104.3</td><td>173.2</td><td>173.7</td><td>173.9</td><td>174.4</td><td></td><td></td></tr><tr><td>18</td><td>23.1</td><td>29.7</td><td>24.9</td><td>28.8</td><td>28.1</td><td>23.4</td><td>27.9</td></tr><tr><td>19</td><td>25.4</td><td>24.3</td><td>30.9</td><td>26.8</td><td>25.4</td><td>25.5</td><td>24.9</td></tr><tr><td>20</td><td>18.0</td><td>17.0</td><td>16.6</td><td>15.1</td><td>17.3</td><td>18.8</td><td>18.1</td></tr><tr><td>1-OCOCH 3</td><td>21.4</td><td>21.3</td><td>21.4</td><td></td><td>20.9</td><td>21.2</td><td>21.5</td></tr><tr><td>1-OCOCH 3</td><td>169.4</td><td>168.6</td><td>169</td><td></td><td>168.6</td><td>169.9</td><td>169.2</td></tr><tr><td>2-OCOCH 3</td><td></td><td></td><td></td><td></td><td>21.0</td><td>21.4</td><td></td></tr><tr><td>2-OCOCH 3</td><td></td><td></td><td></td><td></td><td>170.3</td><td>170.1</td><td></td></tr><tr><td>3-OCOCH 3</td><td>21.1</td><td></td><td></td><td></td><td></td><td>20.9</td><td></td></tr><tr><td>3-OCOCH 3</td><td>169.3</td><td></td><td></td><td></td><td></td><td>169.6</td><td></td></tr><tr><td>6-OCOCH 3</td><td></td><td>21.3</td><td>22.2</td><td>21.7</td><td></td><td></td><td></td></tr><tr><td>6-OCOCH 3</td><td></td><td>169.7</td><td>170.1</td><td>169.2</td><td></td><td></td><td></td></tr></table>",
+          "reading_order": 8
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            355,
+            473,
+            624,
+            492
+          ],
+          "text": "$^{13}$ C NMR (100 MHz) Data ( $\\delta$ ) for Compounds 1–7 in\nCDCl 3",
+          "reading_order": 9
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            26,
+            302,
+            39
+          ],
+          "text": "708 Journal of Natural Products, 2005, Vol. 68, No. 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            579,
+            26,
+            633,
+            38
+          ],
+          "text": "Linn et al.",
+          "reading_order": 1
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720_page_003_figure_002.png)",
+          "figure_path": "figures/0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720_page_003_figure_002.png",
+          "bbox": [
+            51,
+            44,
+            633,
+            250
+          ],
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            60,
+            250,
+            633,
+            268
+          ],
+          "text": "Figure 1. (a, c, e, g) Connectivities (bold lines) deduced by the COSY spectrum and key HMBC correlations (arrows) and (b, d, f, h) selected NOE\n(arrows) and ROESY (dashed arrows) correlations observed for 1, 2, 3, and 8.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            277,
+            333,
+            466
+          ],
+          "text": "FABMS. Their $^{1}$ H and $^{13}$ C NMR spectra were also similar\nand resembled those of caesalmin B ( 12 ), 5 except for the\npresence of one more acetyl group. The locations of the\nadditional acetoxyl groups were C-6 and C-2, respectively,\non the basis of the deshielding of H-6 ( $\\delta$ 5.61) and H-2 ( $\\delta$\n5.35), respectively, compared with those of 12 (H-6, $\\delta$ 1.84;\nH-2, $\\delta$ 1.92, 1.65). This was confirmed by HMBC correla-\ntions of the acetyl carbonyl carbons with the protons of\nacetyl methyl and of the protons of acetoxyl-bearing\ncarbons: the carbonyl carbon at $\\delta$ 169.7 and protons at $\\delta$\n1.99 and 5.29 in 2 and carbonyl carbon at $\\delta$ 170.3 and\nprotons at $\\delta$ 1.99 and 5.35 in 5 . The relative configurations\nwere determined on the basis of coupling constants and\nthe results of difference NOE experiments. Thus, the\nstructures of caesalpinins D and G were 2 and 5 , respec-\ntively.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            466,
+            332,
+            726
+          ],
+          "text": "Caesalpinin E (3) was isolated as a colorless amorphous\nsolid, and its molecular formula was determined to be\nC $_{25}$ H $_{34}$ O $_8$ by HRFABMS. The $^1$ H and $^{13}$ C NMR spectra of 3\ndisplayed signals corresponding to three tertiary methyls,\ntwo oxymethines, two aliphatic methines, a 1,2-disubsti-\ntuted furan ring, two acetyl methyls, and a sharp singlet\ndue to a carbomethoxy group. These data were similar to\nthose of 7-acetoxybonducellpin C ( 17 ), $^8$ suggesting that 3\nwas an isomer of 17 with respect to the location of the\nacetoxyl group. Analysis of the COSY, HMQC, and HMBC\nspectra indicted that H-6 ( $\\delta$ 5.36) was deshielded and H-7\n( $\\delta$ 1.90, 1.79) shielded compared with H-6 at $\\delta$ 2.17 and\nH-7 at $\\delta$ 5.22 of 17 . Hence the acetoxyl group of caesalpinin\nE ( 3 ) was at C-6, not at C-7, which was confirmed by the\nHMBC correlations (Figure 1 e). The orientation at C-6 was\ndetermined to be $\\alpha$ -OAc from the coupling constants of H-6\n(dd, $J=11$ , 5.5 Hz), while that at C-14 was $\\beta$ -COOMe from\nthe ROESY correlations of H-14 with H-7 and H-9 and the\nlarge $J$ value (9.5 Hz) between H-14 and H-8. The relative\nconfiguration was confirmed by the results of difference\nNOE and ROESY experiments (Figure 1 f). Thus, the\nstructure of caesalpinin E was 3 .",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            726,
+            332,
+            860
+          ],
+          "text": "Caesalpinin F (4) was isolated as a colorless amorphous\nsolid whose molecular formula was C $_{23}$ H $_{30}$ O $_7$ by HR-\nFABMS. The $^1$ H (Table 1) and $^{13}$ C NMR (Table 2) spectra\nwere similar to those of caesalpinin E (3), except for the\nreplacement of the oxymethine signal by that of a ketone\ncarbonyl at $\\delta_{\\rm C}$ 212.6, whose location was deduced to be on\nC-1 on the basis of the HMBC correlations of H $_{2}$ -2, H $_{2}$ -3,\nH-9, and H $_{3}$ -20 with the ketone carbonyl carbon. The\nrelative configuration was the same as that of 3 by\ndifference NOE experiments. Thus, caesalpinin F (4) was\nthe 1-keto derivative of 3 .",
+          "reading_order": 6
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            355,
+            294,
+            633,
+            474
+          ],
+          "text": "<table><tr><td>compound</td><td>IC 50 (μM)</td></tr><tr><td>1</td><td>0.76</td></tr><tr><td>2</td><td>0.80</td></tr><tr><td>3</td><td>6.50</td></tr><tr><td>4</td><td>0.65</td></tr><tr><td>6</td><td>2.0</td></tr><tr><td>7</td><td>0.09</td></tr><tr><td>8</td><td>0.80</td></tr><tr><td>9</td><td>0.26</td></tr><tr><td>10</td><td>5.0</td></tr><tr><td>11</td><td>0.098</td></tr><tr><td>12</td><td>0.80</td></tr><tr><td>13</td><td>4.0</td></tr><tr><td>15</td><td>0.20</td></tr><tr><td>16</td><td>6.50</td></tr><tr><td>17</td><td>0.60</td></tr><tr><td>18</td><td>10</td></tr></table>",
+          "reading_order": 7
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            355,
+            277,
+            607,
+            288
+          ],
+          "text": "Table 3. Antimalarial Activity of the Isolated Compounds",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            491,
+            633,
+            655
+          ],
+          "text": "Norcaesalpinin D ( 6 ) was isolated as a colorless amor-\nphous solid and had an IR spectrum similar to those of\nnorcaesalpinins A ( 8 ) and B ( 9 ). Its molecular formula\nC $_{25}$ H $_{32}$ O $_9$ was determined by HRFABMS. The $^1$ H (Table\n3 ) and $^{13}$ C NMR (Table 2 ) spectra of 6 were also similar to\nthose of 8 and 9 , but showed the presence of one more\nacetyl group ( $\\delta_{\\rm C}$ 77.4, $\\delta_{\\rm H}$ 5.18) and one more oxymethine\naccompanied by the disappearance of signals due to one of\nthree methylenes in 8 and 9 . The O -acetyl groups were\nattached to C-1, C-2, and C-3 by analysis of the COSY and\nHMQC spectra, which was further confirmed by HMBC\nanalysis. NOE difference spectra showed that the relative\nconfiguration of 6 was the same as those of 8 and 9 . Thus,\nnorcaesalpinin D ( 6 ) was 3- O -acetylnorcaesalpinin A.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            655,
+            633,
+            797
+          ],
+          "text": "The molecular formula of norcaesalpinin E (7) was\nC $_{21}$ H $_{28}$ O $_6$ by HRFABMS. The $^1$ H (Table 3 ) and $^{13}$ C NMR\n(Table 2 ) spectra were similar to those of bonducellpin C, 8\nexcept for the disappearance of signals due to one of two\ncarbomethoxy groups, while the $^{13}$ C NMR spectrum indi-\ncated the presence of 19 carbons including a ketone\ncarbonyl carbon. Thus, 7 was also a norditerpene. HMBC\nanalysis indicated that the ketone carbon was at C-14; that\nis, 7 was a 17-norcassane-type diterpene. NOE difference\nspectra showed that the relative configuration of 7 was the\nsame as that of norcaesalpinins A (8) and B (9) . Thus,\nnorcaesalpinin E (7) was 17-norbonducellpin C.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            797,
+            633,
+            860
+          ],
+          "text": "Of the new diterpenes, 6 and 7 are 17-norcassane-type\nditerpenes, which may be biosynthesized through oxidative\ndecarboxylation of C-17 of cassane-type diterpenes such as\n14(17)-dehydrocaesalpin F ( 13 ). 7 Among the isolated com-\npounds, 2-acetoxy-3-deacetoxycaesaldekarin e ( 11 ), 4 14(17)-",
+          "reading_order": 11
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            26,
+            239,
+            40
+          ],
+          "text": "Cassane and Norcassane-Type Diterpenes",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            391,
+            26,
+            633,
+            40
+          ],
+          "text": "Journal of Natural Products, 2005, Vol. 68, No. $5-709$",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            52,
+            329,
+            89
+          ],
+          "text": "dehydrocaesalpin F (15),7 2-aetoxycaesaldekarin e (16),\nand 7-acetxybonducellpin C (17)3 were obtained from\nnatural sources for the first time.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            89,
+            333,
+            182
+          ],
+          "text": "The isolated compounds, except 5 and 14 , 12 were tested\nfor their inhibitory activities against P. falciparum FCR-\n3/A2 growth in vitro. 13 All of them displayed significant\ndose-dependent inhibition, norcaesalpinin E (7) exhibiting\nthe most potent activity with an IC $_{50}$ value of 90 nM (Table\n3 ). The IC $_{50}$ values of 7 , 9 , 11 , and 15 were less than that\nreported for a well-known antimalarial drug, chloroquine\n(IC $_{50}$ , 283 $-$ 291 nM). 14,15",
+          "reading_order": 3
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            60,
+            195,
+            176,
+            206
+          ],
+          "text": "Experimental Section",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            212,
+            332,
+            349
+          ],
+          "text": "General Experimental Procedures. Optical rotations\nwere recorded on a JASCO DIP-140 digital polarimeter. IR\nspectra were measured with a Shimadzu IR-408 spectropho-\ntometer in CHCl $_3$ solutions. NMR spectra were taken on a\nJEOL JNM-LA400 spectrometer with tetramethylsilane (TMS)\nas an internal standard, and chemical shifts are expressed in\n$\\delta$ values. HRFABMS measurements were carried out on a\nJEOL JMS-700T spectrometer, and glycerol was used as\nmatrix. Column chromatography was performed with BW-\n802MH silica gel (Fuji Silysia, Aichi, Japan). Analytical and\npreparative TLC were carried out on precoated silica gel 60F $_{554}$\nand RP-18F $_{254}$ plates (Merck, 0.25 or 0.50 mm thickness).",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            349,
+            332,
+            423
+          ],
+          "text": "Plant Material. Seed kernels of Caesalpinia crista Linn.\nwere collected at Polewali Mamasa, South Sulawesi Province,\nIndonesia, in September 2001 by one of the authors (F A.). A\nvoucher specimen (TMPW 21499) is preserved in the Museum\nfor Materia Medica, Analytical Research Center for Ethno-\nmedicines, Institute of Natural Medicine, Toyama Medical and\nPharmaceutical University, Toyama, Japan.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            423,
+            332,
+            501
+          ],
+          "text": "Extraction and Isolation. A powder of air-dried seed\nkernels $\\mathrm{CH_2Cl_2}$ of C. crista (1.0 kg) was extracted with CH $_2$ Cl $_2$ (3 L ×\n2) at room temperature, overnight. The CH $_2$ Cl $_2$ extract (151\ng) was separated by silica gel column chromatography (8.5 ×\n45.0 cm) with a benzene $-$ EtOAc gradient system to give nine\nfractions. Fraction 1 (4.5 g) was fatty substances, as indicated\nby the NMR spectrum.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            501,
+            332,
+            609
+          ],
+          "text": "Fraction 2 (3.4 g) was rechromatographed (2.5 × 40.0 cm)\nwith a hexane—EtOAc gradient system to afford three sub-\nfractions (fraction 2-1, 55 mg; fraction 2-2, 109 mg; fraction\n2-3, 117 mg). Subfraction 2-1 was subjected to preparative TLC\nwith hexane—EtOAc (4:6) to give 2-acetoxy-3-deacetoxycae-\nsaldekarin e $^4$ ( 11 , 8 mg). Subfractions 2-2 and 2-3 were also\nseparated by preparative TLC with hexane—EtOAc (4:6) to\ngive norcaesalpinin A ( 8 , 32.9 mg) and norcaesalpinin C ( 10 ,\n5.9 mg), respectively.\nFraction 3 (1.81 g) was rechromatographed (3.5 × 17.7 cm)",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            609,
+            332,
+            684
+          ],
+          "text": "with a hexane $-$ EtOAc gradient system to give four subfrac-\ntions. Subfractions 3-1 and 3-2 were caesalmin B $^6$ ( 12 , 3.5 mg)\nand caesaldekarin e $^6$ ( 13 , 20.3 mg), respectively. Subfractions\n3-3 (28.7 mg) and 3-4 (52.7 mg) were separately subjected to\npreparative TLC with 1 % MeOH $-$ CHCl $_3$ ; the former gave\nnorcaesalpinin B ( 9 , 19.7 mg), and the latter gave caesalpinin\nC ( 1 , 19.7 mg) and caesalpin F $^7$ ( 14 , 3.4 mg).",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            686,
+            332,
+            860
+          ],
+          "text": "Fraction 4 (0.73 g) was rechromatographed (3.5 × 14.8 cm)\nwith a hexane $-$ EtOAc gradient system to afford two subfrac-\ntions (fraction 4-1, 235 mg; fraction 4-2, 490 mg). Subfraction\n4-1 (235 mg) was subjected to preparative TLC with 0.5 %\nacetone $-$ CHCl $_3$ to give 13 (4.4 mg), 14(17)-dehydrocaesalpin\nF $^7$ ( 15 , 7.7 mg), 2-acetoxycaesaldekarin e $^7$ ( 16 , 6.0 mg),\n7-acetylbonducellpin C $^8$ ( 17 , 4.4 mg), caesalpinin D ( 2 , 0.8 mg),\nand norcaesalpinin D ( 6 , 9.3 mg). Subfraction 4-2 (490 mg)\nwas rechromatographed (1.5 × 21.0 cm) over alumina with\n1 % acetone $-$ CHCl $_3$ to afford two fractions (fraction 4-2-1, 53\nmg; fraction 4-2-2, 35 mg). Each fraction was separated by\npreparative TLC with 0.5 % acetone $-$ CHCl $_3$ , and 2 (5.9 mg), 6\n(5.5 mg), 16 (4.9 mg), and 17 (10.2 mg) were obtained from\nfraction 4-2-1 and caesalpinin F ( 4 , 5.4 mg), 9 (2.9 mg),\nnorcaesalpinin E ( 7 , 1.4 mg), and 17 (4.6 mg) were from\nfraction 4-2-2.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            53,
+            633,
+            161
+          ],
+          "text": "Fraction 5 (0.45 g) was rechromatographed (3.5 × 15.8 cm)\nwith a hexane $-$ EtOAc gradient system to afford two subfrac-\ntions. Subfraction 5-1 (241 mg) was separated by preparative\nTLC with 1 % acetone $-$ CHCl $_3$ to give 7 (7.6 mg) and three\nsubfractions. Subfraction 5-1-1 was purified by reversed-phase\npreparative TLC with MeOH $-$ CH $_3$ CN $-$ H $_2$ O (2:1:1) to give\ncaesalpinin G (5, 1.5 mg) and 16 (2.8 mg). Subfractions 5-1-2\nand 5-1-3 were also purified by reversed-phase preparative\nTLC with MeOH $-$ CH $_3$ CN $-$ H $_2$ O (2:1:1) to give 2 (3.8 mg) and\ncaesalmin G $^9$ (18, 1.9 mg), respectively.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            161,
+            633,
+            216
+          ],
+          "text": "Caesalpinin C (1): colorless amorphous solid; [ $\\alpha$ ] $_{\\rm D}$ 25 +30.2°\n( c 0.11, CHCl $_3$ ); IR (CHCl $_3$ ) $v_{\\rm max}$ 3575, 1735 cm $^{-1}$ ; HRFABMS\nm/z 417.2314 [calcd for C $_{24}$ H $_{33}$ O $_6$ (M + H) $^+$ , 417.2277]; $^{1}$ H and\n$^{13}$ C NMR, see Tables 1 and 2 .\nCaesalpinin D (2): colorless amorphous solid; [ $\\alpha$ ] $_{\\rm D}$ 25 +63.2°",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            216,
+            633,
+            250
+          ],
+          "text": "$(c\\;0.057,\\text{ CHCl}_3)$ ; IR $(\\text{CHCl}_3)$ $v_{\\max}$ 3575, 1750, 1735 cm $^{-1}$ ;\nHRFABMS m/z 447.2025 [calcd for C $_{24}$ H $_{31}$ O $_8$ (M + H) $^+$ ,\n447.2031]; $^1$ H and $^{13}$ C NMR, see Tables 1 and 2 .",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            250,
+            633,
+            290
+          ],
+          "text": "Caesalpinin E (3): colorless amorphous solid; [a] $_{\\rm D}$ 25 +126.0°\n( c 0.02, CHCl $_3$ ); IR (CHCl $_3$ ) $v_{\\rm max}$ 3575, 1735 cm $^{-1}$ ; HRFABMS\nm/z 463.2317 [caled for C $_{25}$ H $_{35}$ O $_8$ (M + H) $^+$ , 463.2332]; $^1$ H and\n$^{13}$ C NMR, see Tables 1 and 2 .",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            294,
+            633,
+            349
+          ],
+          "text": "Caesalpinin F (4): colorless amorphous solid; [ $\\alpha$ ] $_{\\rm p}$ 25 +47.0°\n( $c=0.081$ , CHCl $_3$ ); IR (CHCl $_3$ ) $v_{\\rm max}$ 3575, 1730, 1710 cm $^{-1}$ ;\nHRFABMS m/z 419.2051 [calcd for C $_{23}$ H $_{31}$ O $_{7}$ (M + H) $^+$ ,\n419.2027]; $^1$ H and $^{13}$ C NMR, see Tables 1 and 2 .\nCaesalpinin G (5): colorless amorphous solid; [ $\\alpha$ ] $_{\\rm D}$ 25 +58.2°",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            349,
+            633,
+            380
+          ],
+          "text": "( c 0.063, CHCl $_{3}$ ); IR (CHCl $_{3}$ ) $\\nu_{\\max}$ 3575, 1750, 1735 cm $^{-1}$ ;\nHRFABMS m/z 447.2009 [caled for C $_{24}$ H $_{31}$ O $_{8}$ (M + H) $^{+}$ ,\n447.2019]; $^{1}$ H and $^{13}$ C NMR, see Tables 1 and 2 .",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            383,
+            633,
+            424
+          ],
+          "text": "Norcaesalpinin D (6): colorless amorphous solid; [ $\\alpha$ ] $_{\\rm D}$\n+3.3 $^{\\circ}$ ( c 0.09, CHCl $_3$ ); IR (CHCl $_3$ ) $\\nu_{\\rm max}$ 3575, 1740, 1715 cm $^{-1}$ ;\nHRFABMS mfz 477.2106 [calcd for C $_{25}$ H $_{33}$ O $_9$ (M + H) $^+$ ,\n477.2125]; $^{1}$ H and $^{13}$ C NMR, see Tables 1 and 2 .",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            427,
+            633,
+            468
+          ],
+          "text": "Norcaesalpinin E (7): colorless amorphous solid; [ $\\alpha$ ] $_{\\rm D}$\n+84.7 $^{\\circ}$ ( c 0.01, CHCl $_3$ ); IR (CHCl $_3$ ) $\\nu_{\\rm max}$ 3575, 1735, 1715 cm $^{-1}$ ;\nHRFABMS m/z 377.1946 [calcd for C $_{21}$ H $_{29}$ O $_6$ (M + H) $^+$ ,\n377.1964]; $^{1}$ H and $^{13}$ C NMR, see Tables 1 and 2 .",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            472,
+            633,
+            621
+          ],
+          "text": "Antimalarial Activity. To determine the antimalarial\nactivity of each isolated compound, a malaria parasite, P.\nfalciparum FCR-3/A2 clone, was propagated in a 24-well\nculture plate in vitro in the presence of a wide concentration\nrange of each compound, following the procedure described\npreviously (Budimulja et al., 1997) . Each compound was\nseparately dissolved in DMSO to obtain a $10^{-2}$ M stock and\nkept at $-20\\mbox{~}^\\circ$ C until used. The parasite growth was monitored\nby making a blood smear every day. The concentration\nresponse parasite growth data were analyzed by a linear\nregression function using the Sigma-plot 2000 computer\nprogram to determine the 50 % inhibitory concentration (IC $_{50}$ ).\nThe IC $_{50}$ value is defined as that concentration of compound\nproducing 50 % growth inhibition relative to untreated control.",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            633,
+            633,
+            680
+          ],
+          "text": "Acknowledgment A A part of this work was supported by\na Grant-in-Aid for International Scientific Research (No.\n16406002) from The Ministry of Education, Culture, Sports,\nScience and Technology, Japan.",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            689,
+            633,
+            727
+          ],
+          "text": "Supporting Information Available: Figures S1 and S2 showing\nthe structures of the known compounds isolated from C. crista and\npossible biogenesis of norcaesalpinins C and D are available free of\ncharge via the Internet at http://pubs.acs.org.",
+          "reading_order": 21
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            355,
+            739,
+            472,
+            747
+          ],
+          "text": "References and Notes",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            364,
+            752,
+            633,
+            780
+          ],
+          "text": "(1) Omar, S.; Zhang, J.; MacKinnon, S.; Leaman, D.; Durst, T.; Philogene,\nB. J. R.; Armason, J. T.; Sanchez-Vindas, P. E.; Poveda, L.; Tamez,\nP. A.; Pezzuto, J. M. Curr. Top. Med. Chem. 2003 , 3 , 133 − 139.",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            364,
+            780,
+            633,
+            797
+          ],
+          "text": "(2) P. T. Eisai Indonesia. Medicinal Herb Index in Indonesia, 1st ed.;\n1986; p 140.",
+          "reading_order": 24
+        },
+        {
+          "label": "para",
+          "bbox": [
+            364,
+            797,
+            633,
+            830
+          ],
+          "text": "(3) A part of this work was reported as a preliminary communication.\nBanskota, A. H.; Attamimi, F.; Linn, T. Z.; Usia, T.; Tezuka, Y.;\nKalauni, S. K.; Kadota, S. Tetrahedron Lett. 2003 , 44 , 6879–6882.\n(4) Balmain, A.; Biamer, K.; Connolly, J. D.; Ferguson, G. Tetrabedron",
+          "reading_order": 25
+        },
+        {
+          "label": "para",
+          "bbox": [
+            364,
+            830,
+            633,
+            847
+          ],
+          "text": "Lett. 1967, 49, 5027-5031.\n(5) Jiang, R.-W.; But, P. P.,-H.; Ma, S.-C.; Mak, T. C. W. Phytochemistry",
+          "reading_order": 26
+        },
+        {
+          "label": "para",
+          "bbox": [
+            364,
+            847,
+            633,
+            855
+          ],
+          "text": "2001 , 57, 517–521.",
+          "reading_order": 27
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            60,
+            26,
+            302,
+            39
+          ],
+          "text": "710 Journal of Natural Products, 2005, Vol. 68, No. 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            579,
+            26,
+            633,
+            38
+          ],
+          "text": "Linn et al.",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            69,
+            53,
+            330,
+            77
+          ],
+          "text": "(6) Kitagawa, I.; Simanjuntak, P.; Mahmud, T.; Kobayashi, M.; Fujii\nS.; Uji, T.; Shibuya, H. Chem. Pharm. Bull. 1996 , 44 , 1157 − 1161.\n(7) Pascoe, K. O.; Burke, B. A.; Chan, W. R. J. Nat. Prod. 1986 , 49 , 913-",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            69,
+            77,
+            329,
+            85
+          ],
+          "text": "2018年\n,\n中国女子篮球队在2019年7月25日公布[3]。",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            69,
+            87,
+            329,
+            102
+          ],
+          "text": "(8) Peter, S. R.; Tinto, W. F.; Melean, S.; Reynolds, W. F.; Yu, M. J. Nat\nProd. 1997 , 60 , 1219–1221.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            69,
+            104,
+            329,
+            119
+          ],
+          "text": "(9) Jiang, R.-W.; Ma, S.-C.; But, P. P.-H.; Mak. T. C. W. J. Nat. Proa\n2001, 64, 1266–1272.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            119,
+            329,
+            136
+          ],
+          "text": "(10) Barry, J.; Kagan, H.-B.; Snatzke, G. Tetrahedron 1971, 27, 4737-\n4748.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            136,
+            248,
+            145
+          ],
+          "text": "(11) Spatzke, G. Tetrahedron 1965, 21,413-419",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            53,
+            633,
+            78
+          ],
+          "text": "(12) The activity of 5 and 14 could not be measured due to the small\namount of sample isolated.\n(13) Budimulja, A. S.; Syafruddin, D.; Tapebaisri, P.; Wilariat, P.; Marzuki,",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            78,
+            633,
+            95
+          ],
+          "text": "S. Mol. Biochem. Parasitol. 1997, $84,137-141$.\n(14) Ringwald, P.; Eboumbou, E. C. M.; Bickii, J.; Basco, L. K. Antimicrob.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            95,
+            633,
+            103
+          ],
+          "text": "(c) A new version of a Python package for Python code generation and visualization",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            104,
+            633,
+            134
+          ],
+          "text": "(15) Pradines, B.; Mamfoumbi, M.; Parzy, D.; Medang, O.; Lebeau, C.;\nMbina, J. R. M.; Doury, J. C.; Kombila M. Am. J. Trop. Med. Hygi.\n1999 , 60 , 105–108.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            355,
+            134,
+            411,
+            144
+          ],
+          "text": "NP0401720",
+          "reading_order": 12
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "source_file": "./dataset/unlabeled_test/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379.pdf",
+  "total_pages": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            75,
+            71,
+            110,
+            80
+          ],
+          "text": "No. 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            566,
+            71,
+            577,
+            83
+          ],
+          "text": "79",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            126,
+            116,
+            523,
+            128
+          ],
+          "text": "75. Shoshiro Nakamura: Structure of Azomycin, a New Antibiotic.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            189,
+            142,
+            460,
+            153
+          ],
+          "text": "(Institute of Applied Microbiology, University of Tokyo*",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            75,
+            170,
+            576,
+            340
+          ],
+          "text": "Maeda, Osato, Umezawa, and Okami 1,2) discovered a new antibiotic substance and\nthey proposed the name, azomycin, for this antibiotic substance because of its extremely\nhigh content of nitrogen. Nature of azomycin has been briefly reported. 1) It was\nproduced by a strain resembling Nocardia mesenterica. 2) The same substance was later\nobtained by Osato and others 3) from the culture liquid of another strain which had been\nidentified as a new species, Streptomyces eurocidicus ,4) and which had been found to\nproduce a polyene antibiotic substance, 5) eurocidin, indicating three maxima at 318, 333,\nand 351 m $\\mu$ . Osato and others 3) found that S. eurocidicus also produced another anti-\nbacterial substance which was one of erythromycin – carbonylcin group substances and\nwhich was named tertiomycin. The first azomycin – producing strain was also found to\nproduce an antibiotic substance of erythromycin – carbomycin group substances, but the\nformer has no structural relation to the latter.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            75,
+            340,
+            576,
+            425
+          ],
+          "text": "Recently, Pinnert – Sindico and Ninet 43 reported that S. ambofaciens produced spira-\nmycin, an antibiotic of erythromycin – carbomycin group, together with another antibac-\nterial substance, congocidin, 7) which was considered to be similar to netropsin. 8) Naka-\nzawa and Shibata 9) reported that Streptomyces albireticuli n. sp., which produced\neurocidin, also produced two antibacterial substances, carbomycin and enteromycin.\nEnteromycin and netropsin are antibiotic substances quite different from azomycin.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            75,
+            427,
+            576,
+            510
+          ],
+          "text": "The author isolated azomycin from a culture liquid of the strain used by Maeda\nand others. 1) As it was reported by Osato and others, 2) the distribution coefficient of\nazomycin between ethyl acetate or butyl acetate and water is larger at pH 2.0 than at\npH 7.0. Distribution coefficients between butyl acetate and water were found to be as\nfollows: 2/1 at pH 3.0 $\\sim$ 5.0; 1.4/1 at pH 6.0; 1/4 at pH 7.0; 1/6 at pH 8.0. This\nresult suggested the acidic nature of azomycin.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            75,
+            510,
+            576,
+            681
+          ],
+          "text": "Azomycin was recrystallized three times from ethanol and used for the present\nstudies. Azomycin was obtained in the form of colorless prisms. It melted at 284°\nunder decomposition. It was slightly soluble in methanol, ethanol, propylene glycol,\nacetone, ethyl acetate, and butyl acetate. It was almost insoluble in water, carbon\ndisulfide, carbon tetrachloride, ether, and petroleum ether. It was soluble in aqueous\nsolutions of sodium hydroxide and ammonium hydroxide, and the solutions colored\nyellow. The solubilities were as follow: 4.0 mg./cc. in cold methanol; 12.8 mg./cc.\nin hot methanol; 3.5 mg./cc. in acetone; 0.5 mg./cc. in chloroform; 0.8 mg./cc. in distill-\ned water; 0.5 mg./cc. in 0.1 N HCl; 2.7 mg./cc. in 0.1 N NaOH; 8.3 mg./cc. in 2.0%\nleucine solution. It was stable both in acid and alkaline solutions. Its methanol solu-\ntion exhibited no optical rotation. Azomycin in ethanol had a characteristic absorption\nin the ultraviolet with a maximum at 313 m $\\mu$ (E $_{\\mathrm{fcm}}^{16}$ 680) (Fig. 1 ).",
+          "reading_order": 7
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            75,
+            689,
+            327,
+            715
+          ],
+          "text": "* Yayol-cho, Bunkyo-ku, Tokyo (中村昭四郎).",
+          "reading_order": 8
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            75,
+            716,
+            388,
+            727
+          ],
+          "text": "2) Y. Okami, K. Maeda, H. Umezawa: Ibid., 7A, 53(1954).",
+          "reading_order": 10
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            75,
+            727,
+            576,
+            739
+          ],
+          "text": "3) T. Osato, M. Ueda, S. Fukuyama, K. Yagishita, Y. Okami, H. Umezawa: Ibid., 8A, 105(1955).",
+          "reading_order": 11
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            75,
+            739,
+            469,
+            760
+          ],
+          "text": "4) Y. Okami, R. Utahara, S. Nakamura, H. Umezawa: Ibid., 7A, 98(1954)",
+          "reading_order": 12
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            75,
+            761,
+            442,
+            773
+          ],
+          "text": "6) S. Pinnert-Sindico, L. Ninet: Antibiotics Annual, 724(1954—1955)",
+          "reading_order": 14
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            75,
+            773,
+            532,
+            795
+          ],
+          "text": "7) R. Despois, L. Ninet: VI. Congresso Internationale di Microbiologica, 1, 241(1953).",
+          "reading_order": 15
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            75,
+            795,
+            345,
+            806
+          ],
+          "text": "9) Nakazawa, Shibata: Report at the Meeting of",
+          "reading_order": 16
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            75,
+            806,
+            576,
+            816
+          ],
+          "text": "tember, 1951.",
+          "reading_order": 17
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            469,
+            878,
+            621,
+            888
+          ],
+          "text": "III-Electronic Library Service",
+          "reading_order": 18
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            66,
+            71,
+            84,
+            80
+          ],
+          "text": "380",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            505,
+            71,
+            567,
+            83
+          ],
+          "text": "Tol, 3 (1955)",
+          "reading_order": 1
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379_page_002_figure_002.png)",
+          "figure_path": "figures/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379_page_002_figure_002.png",
+          "bbox": [
+            110,
+            98,
+            290,
+            250
+          ],
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            308,
+            134,
+            523,
+            144
+          ],
+          "text": "Fig. 1. Ultraviolet Absorption (in EtOH)",
+          "reading_order": 3
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            352,
+            161,
+            505,
+            232
+          ],
+          "text": "<table><tr><td>----------</td><td>Imidazole</td></tr><tr><td>---------</td><td>4-Nitroimidazole</td></tr><tr><td>--------</td><td>Azomycin</td></tr></table>",
+          "reading_order": 4
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            478,
+            439,
+            532,
+            474
+          ],
+          "text": "Fig. 2.\nAzomycin",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            259,
+            567,
+            359
+          ],
+          "text": "It was negative in the following tests : Ninhydrin, biuret, Millon, Pauly, and Saka-\nguchi. The reaction product obtained by catalytic reduction with Adams' catalyst\ngave positive Pauly reaction. The result of elementary analysis agreed with the for-\nmula (C 2 H 3 O 2 N 3 ) n . However, the determination of molecular weight failed by the\nRast method and also by the Berger method owing to its low solubilities in organic\nsolvents. The silver salt of azomycin was prepared and its elementary analysis supported\nthe formula of C 2 H 5 O 2 N 8 Ag.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            359,
+            567,
+            728
+          ],
+          "text": "Nitro radical in azomycin was suggested by the peaks at 1493 and 1375 cm −1 in the\ninfrared spectrum of azomycin (Fig. 2). The infrared spectrum of 4-nitroimidazole,\n\n$$\n\\text { In }\n$$\n\nwhich was prepared by the method described by Fargher and Pyman, 10 , 11) is indicated\nin Fig. 3 . The peaks at 1499 and 1384 cm −1 were considered to be due to its nitro radical.\nNitro group was also suggested by semimicroqualitative test for nitro group. 12) By the\ncatalytic hydrogenation with Adams' catalyst, one mole of azomycin C $_{3}$ N $_{3}$ O $_{2}$ N $_{3}$ absorbed\nthree moles of hydrogen.",
+          "reading_order": 7
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            478,
+            582,
+            567,
+            612
+          ],
+          "text": "Fig. 3.\n4-Nitroimidazole",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            731,
+            567,
+            772
+          ],
+          "text": "The empirical formula, C 3 H 3 O 2 N 3 , which contained a nitro group, suggested the\npresence of an imidazole or pyrazole ring. However, the latter has not yet been found\nin natural substances. The imidazole ring in azomycin was suggested by the peaks at",
+          "reading_order": 10
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            66,
+            786,
+            469,
+            797
+          ],
+          "text": "10) R. C. Fargher, F. L. Pyman: J. Chem. Soc., 115, 234(1919); 115, 244(1919).",
+          "reading_order": 11
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            66,
+            797,
+            308,
+            806
+          ],
+          "text": "11) F. Rung, M. Behrend: Ann., 271, 30(1892)",
+          "reading_order": 12
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            65,
+            806,
+            478,
+            818
+          ],
+          "text": "12) W. M. Hearon, R. G. Cusfavson: Ind. Eng. Chem., Anal. Ed., 29, 352(1937).",
+          "reading_order": 13
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            469,
+            878,
+            621,
+            888
+          ],
+          "text": "III-Electronic Library Service",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            66,
+            78,
+            101,
+            89
+          ],
+          "text": "No. 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            558,
+            77,
+            567,
+            85
+          ],
+          "text": "35",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            107,
+            573,
+            358
+          ],
+          "text": "1540 and $\\SI{1520}{cm^{-1}}$ in the infrared absorption spectrum. These peaks correspond to\nthose at 1590 and $\\SI{1555}{cm^{-1}}$ in the infrared absorption spectrum of imidazole (Fig. 4 )\nand to those at 1537 and $\\SI{1505}{cm^{-1}}$ in the infrared absorption spectrum of 2 – acetylami-\nnoimidazole (Fig. 5 ). Azomycin was negative in Pauly reaction, which is generally\n\n$$\n\\text { P. }\n$$\n\npositive in imidazole and its derivatives. However, 4-nitroimidazole was also found\nto be negative in Pauly reaction. Azomycin, after catalytic hydrogenation, gave posi-\ntive Pauly reaction.",
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            110,
+            295,
+            204,
+            305
+          ],
+          "text": "Fig. 4. Imidazole",
+          "reading_order": 4
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379_page_003_figure_005.png)",
+          "figure_path": "figures/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379_page_003_figure_005.png",
+          "bbox": [
+            245,
+            166,
+            567,
+            287
+          ],
+          "reading_order": 5
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            308,
+            295,
+            496,
+            314
+          ],
+          "text": "Fig. 5.——Acetylaminoazomycin\n......2-Acetylaminolmidazole",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            358,
+            576,
+            497
+          ],
+          "text": "Acetylamino derivative of azomycin was obtained by the reductive acetylation 13)\nusing stannous chloride in acetic anhydride. Acetylaminoazomycin recrystallized\nfrom 80 % aqueous ethanol to fine needles, m.p. 278 $\\sim$ 279°(decomp.). It was an ampho-\nteric substance. It was soluble in dilute hydrochloric acid and in aqueous sodium\nhydroxide solution, but not in water. It gave positive Pauly reaction and green color\nwith cold aqueous alkaline permanganate solution. The empirical formula of C 6 H 7 ON 5\nwas determined by the elementary analysis. The infrared absorption spectrum of\nacetylaminoazomycin indicated that the nitro group in azomycin was converted to an\nacetylamino group. It had a characteristic absorption in the ultraviolet with a max-\nimum at 244 $\\sim$ 248 m $\\mu$ (E $_{\\rm tem}^{\\rm as}$ 765, in ethanol) (Fig. 6).",
+          "reading_order": 7
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379_page_003_figure_008.png)",
+          "figure_path": "figures/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379_page_003_figure_008.png",
+          "bbox": [
+            155,
+            500,
+            281,
+            654
+          ],
+          "reading_order": 8
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            290,
+            534,
+            505,
+            546
+          ],
+          "text": "Fig. 6. Ultraviolet Absorption (in EtOH)",
+          "reading_order": 9
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379_page_003_figure_010.png)",
+          "figure_path": "figures/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379_page_003_figure_010.png",
+          "bbox": [
+            308,
+            564,
+            480,
+            600
+          ],
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            75,
+            654,
+            576,
+            680
+          ],
+          "text": "Since 4 – nitroimidazole which was synthesized was different from azomycin, 2 –\nacetylaminoimidazole 11) was synthesized by the following process:",
+          "reading_order": 11
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379_page_003_figure_012.png)",
+          "figure_path": "figures/0f9fbaf3ae2c5092062b51cdec9f75e6-cpb1953.3.379_page_003_figure_012.png",
+          "bbox": [
+            75,
+            680,
+            568,
+            808
+          ],
+          "reading_order": 12
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            75,
+            814,
+            343,
+            824
+          ],
+          "text": "13) C. Hunter, J. A. Nelson: C. A., 36, 13213(1942)",
+          "reading_order": 13
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            469,
+            878,
+            621,
+            888
+          ],
+          "text": "III-Electronic Library Service",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            66,
+            71,
+            84,
+            82
+          ],
+          "text": "382",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            505,
+            71,
+            567,
+            82
+          ],
+          "text": "ol.3 (1955)",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            98,
+            567,
+            188
+          ],
+          "text": "Acetylaminoazomycin was found to be identical with 2-acetylaminoimidazole in\ncrystalline form, decomposition point, color reactions, and infrared and ultraviolet\nspectra. Thus, it was made clear that azomycin should be 2-nitroimidazole, and is a\nnew compound not reported to date. As already described, azomycin has a weak\nacidic nature. It has been reported 10,11) that hydrogen in 1(or 3) – position of imid-\nazole is acidic in 4-nitroimidazole.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            188,
+            567,
+            243
+          ],
+          "text": "Bacteriostatic effect of azomycin and 4 – nitroimidazole was studied by the agar\ndilution method and the results are indicated in Table I . It is interesting that 4 –\nnitroimidazole did not exhibit any bacteriostatic effect and acetylaminoazomycin has\nalso lost bacteriostatic activities.",
+          "reading_order": 3
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            126,
+            263,
+            514,
+            521
+          ],
+          "text": "<table><tr><td rowspan=\"2\">Microorganisms</td><td colspan=\"2\">4-Nitroimidazole (Agar dilution method) Minimum concentration necessary for complete inhibition (γ/cc.)</td></tr><tr><td>Azomycin</td><td>4-Nitroimidazole</td></tr><tr><td>B. subtilis PCI 219</td><td>6</td><td>100</td></tr><tr><td>M. pyogenes var. aureus 209–P</td><td>12</td><td>100</td></tr><tr><td>E. coli</td><td>25</td><td>100</td></tr><tr><td>S. dysenteriae</td><td>3</td><td>100</td></tr><tr><td>S. paradysenteriae</td><td>12</td><td>100</td></tr><tr><td>S. typhi</td><td>5</td><td>100</td></tr><tr><td>S. paratyphosa</td><td>3</td><td>—</td></tr><tr><td>Ps. aeruginosa</td><td>100</td><td>—</td></tr><tr><td>B. anthracis</td><td>6</td><td>100</td></tr><tr><td>Pr. vulgaris OX 19</td><td>100</td><td>—</td></tr><tr><td>M. tuberculosis 607</td><td>50</td><td>100</td></tr><tr><td>M. phlei</td><td>2</td><td>100</td></tr><tr><td>C. albicans</td><td>100</td><td>100</td></tr><tr><td>S. sake</td><td>100</td><td>100</td></tr><tr><td>Asp. niger</td><td>100</td><td>100</td></tr><tr><td>Torula utilis</td><td>100</td><td>—</td></tr><tr><td>Cryptococcus neoformans</td><td>100</td><td>—</td></tr><tr><td>T. mentagrophytes</td><td>100</td><td>—</td></tr></table>",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            528,
+            567,
+            654
+          ],
+          "text": "As nitro compounds of biological origin, chloramphenicol and hipptagenic acid are\nknown. Recently, Washizu, Umezawa, and Sugiyama 14) reported that aureothin, a\ntoxic substance produced by aureothricin – producing Streptomyces, is a $p$ –nitrobenzoic\nacid derivative. Umezawa and others observed that $\\textit{t}$ -nitrobenzoic acid is produced\nby a chloramphenicol – producing strain, depending on the cultural conditions. Imidazole\nderivatives of biological origin are mostly those in which 4 – or 5 – position of imidazole\nis substituted. Roseonine, 15) a hydrolyzed product of roseomycin (a streptothricin –\ngroup substance), is reported to be a 2 – aminoimidazole derivative. The structure of\nazomycin is unique among the known biological substances.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            654,
+            567,
+            692
+          ],
+          "text": "The author expresses his sincere appreciation to Prof. H. Umezawa and Prof. Y. Sumiki\nfor their kind direction of the study.\nAlso the author expresses his thanks to Dr. Maeda,\nNational Institute of Health, his the kind cooperation on the preparation of azomycin.",
+          "reading_order": 7
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            281,
+            706,
+            352,
+            716
+          ],
+          "text": "Experimental",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            725,
+            567,
+            783
+          ],
+          "text": "Isolation and Purification of Azomyein—The strain belonging to N. mesenterica was shake-\ncultured in a medium containing glucose 1%, meat extract 0.5%, peptone 0.5%, and NaCl 0.5%\n(pH 7.0), at 27~29°. One L. of the 48-hr. shake-cultured broth was inoculated in 180 L. of the same\nmedium which was placed in a stainless steel fermenter of 400-L. capacity and which had been\nsterilized for 20 mins. at 120°. The fermentation was performed at 28°, under aeration (200 L.",
+          "reading_order": 9
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            66,
+            797,
+            451,
+            807
+          ],
+          "text": "14) F. Washizu, H. Umezawa, N. Sugiyama: J. Antibiotics, 7A, 60(1954).",
+          "reading_order": 10
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            66,
+            807,
+            442,
+            819
+          ],
+          "text": "15) K. Nakanishi, T. Ito, Y. Hirata: J. Am. Chem. Soc., 76, 2845(1954)",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            469,
+            878,
+            621,
+            888
+          ],
+          "text": "III-Electronic Library Service",
+          "reading_order": 12
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            66,
+            71,
+            101,
+            83
+          ],
+          "text": "No.5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            556,
+            71,
+            571,
+            84
+          ],
+          "text": "383",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            107,
+            572,
+            184
+          ],
+          "text": "of air per min.) and agitation (200 r.p.m.). About 400 cc. of sterilized soybean oil was used as\nan antifoaming agent. After 40 hrs., the broth was drawn, and the mycelium was removed.\nThe filtrate, about 170 L. of pH 5.8, was extracted with 80 L. of AcOBu and the extract was con-\ncentrated at 50° to about 600 cc. and kept for a week at 0°. The precipitate, crude azomycin\ncrystals (4.5 g), was separated and it was recrystallized from MeOH. In the case of the second\nazomycin–producing strain (S. eurociticus ), the medium containing glycerol 2.0%, soybean meal\n1.0%, NaCl 0.25%, and NaNO 3 0.2% (pH 7.2) was used.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            186,
+            567,
+            206
+          ],
+          "text": "Azomycin was further recrystallized three times from EtOH to m.p. 284°(decomp.). Anal\nCalcd. for CaH 3 O 2 N 3 : C, 31.86; H, 2.65; N, 37.17. Found : C, 31.89; H, 2.65; N, 36.75.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            206,
+            576,
+            252
+          ],
+          "text": "Catalytic Reduction —118 mg. of azomycin was dissolved in 80 cc. MeOH and hydrogenated\nwith 20 mg. of Adams' catalyst. 75 cc. of H 2 was absorbed in 5 mins. (23.4cc. corresponds to 1\nmole of H 2 per 1 mole of azomycin). Reduction product was found to be positive to Pauly test,\nbut could not be obtained in crystalline form and gradually turned brown on keeping.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            252,
+            576,
+            298
+          ],
+          "text": "Silver Salt of Azomycin—10% AgNO 3 in dil. NH 4 OH was poured into a solution containing\n0.1 g, of azomycin in 10 cc, of dil. NH 4 OH. The yellow powder thereby obtained was collected\nand washed with dil. NH 4 OH and water to m.p. over 300°. Anal. Calcd. for C 5 H 2 O 2 N 1 A g : C,\n16.38; H, 0.916; N, 19.10; Ag, 49.05. Found : C, 17.06; H, 1.03; N, 19.17; Ag, 49.16.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            298,
+            576,
+            389
+          ],
+          "text": "Acetylaminoazomycin — To a mixture of 0.2 g. of azomycin in 12 cc. Ac $_{2}$ O and 5 cc. AcOH\nwas added to 3 g. of SnCl $_{2}$ ·2H $_{2}$ O in 20 cc. Ac $_{2}$ O and 5 cc. HCl. The reaction mixture was heated\non a water bath for 1.5 hrs. The solvent was evaporated to dryness in vacuo . The residue was\ndissolved in 50 cc. of water, H $_{2}$ S was bubbled through this solution, and the precipitate was\ncentrifuged and washed twice with H $_{2}$ S water. The combined solution and washings was con-\ncentrated in vacuo to 2 cc., neutralized with 10 % Na $_{x}$ CO $_{8}$ , and 110 mg. of acetylaminoazomycin\nwas obtained. Recrystallized from 80 % aq. EtOH to colorless fine prisms, m.p. 278 $\\sim$ 279 $^{\\circ}$ (decomp.).\nAnal. Calcd. for C $_{2}$ H $_{7}$ ON $_{3}$ : C, 47.99; H, 5.64; N, 33.58. Found : C, 48.30; H, 5.86; N, 33.81.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            390,
+            576,
+            412
+          ],
+          "text": "2-p-Bromobenzeneazoimidazole—The method of Fargher and Pyman$^{11}$ was followed. Pure\n2-p-bromobenzeneazoimidazole was obtained by recrystallization from EtOH, m.p. 250°(decomp.).",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            412,
+            567,
+            457
+          ],
+          "text": "2-Acetylaminoimidazole—The method of Fargher and Pyman 11) was followed. Colorless fin\nprisms, m.p. 278~279°(decomp.). Anal. Calcd. for C 3 H 7 ON s: C, 47.99; H, 5.64; N, 33.58. Found\nC, 48.18; H, 5.00; N, 33.63.\n4-Nitroimidazole—The method of Fargher and Pyman 11) was followed. It was recrystallized",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            457,
+            576,
+            479
+          ],
+          "text": "from $\\mathrm{MeOH}$ to colorless rhombic prisms, m.p. 301 -302*(decomp.). Anal. Calcd. for $\\mathrm{C}_{3} \\mathrm{H}_{3} \\mathrm{O}_{2} \\mathrm{~N}_{8}$ :\n$\\mathrm{C}, 31.86 ; \\mathrm{H}, 2.65 ; \\mathrm{N}, 37.17$. Found: C, 31.90; H, 2.62; N, 36.95.",
+          "reading_order": 9
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            290,
+            492,
+            352,
+            503
+          ],
+          "text": "Summary",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            510,
+            567,
+            555
+          ],
+          "text": "The structure of azomycin, a new antibiotic, was proved to be 2-nitroimidazole\nReduction product of azomycin lost the bacteriostatic activities. It is interesting that\n4-nitroimidazole does not exhibit bacteriostatic effects.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            431,
+            573,
+            541,
+            585
+          ],
+          "text": "Received July 4,1955",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            469,
+            878,
+            621,
+            888
+          ],
+          "text": "III-Electronic Library Service",
+          "reading_order": 13
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1557 @@
+{
+  "source_file": "./dataset/unlabeled_test/0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496.pdf",
+  "total_pages": 6,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            22,
+            17,
+            40,
+            26
+          ],
+          "text": "540",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            49,
+            17,
+            120,
+            26
+          ],
+          "text": "Original Paper",
+          "reading_order": 1
+        },
+        {
+          "label": "title",
+          "bbox": [
+            48,
+            59,
+            595,
+            107
+          ],
+          "text": "BACE1 (β-Secretase) Inhibitory Chromone Glycosides\nfrom Aloe vera and Aloe nobilis",
+          "reading_order": 2
+        },
+        {
+          "label": "author",
+          "bbox": [
+            49,
+            206,
+            76,
+            215
+          ],
+          "text": "Author",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            232,
+            85,
+            241
+          ],
+          "text": "10月25日",
+          "reading_order": 4
+        },
+        {
+          "label": "author",
+          "bbox": [
+            174,
+            206,
+            595,
+            226
+          ],
+          "text": "Liang Lv1,2,5\n, Qing-Yun Yang1,2,5\n, Ying Zhao1,2\n, Chun-Suo Yao1,2\n, Yang Sun2\n, Eun-Ju Yang3\n, Kyung-Sik Song3\n, Inhee\nMook-Jung6\n, Wei-Shuo Fang1,2",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            174,
+            232,
+            364,
+            244
+          ],
+          "text": "Affiliation addresses are listed at the end of the article",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            313,
+            85,
+            322
+          ],
+          "text": "Key word",
+          "reading_order": 7
+        },
+        {
+          "label": "list",
+          "bbox": [
+            49,
+            322,
+            94,
+            332
+          ],
+          "text": "9. Aloe vera",
+          "reading_order": 8
+        },
+        {
+          "label": "list",
+          "bbox": [
+            49,
+            332,
+            94,
+            343
+          ],
+          "text": "2 Aloe pobitt:",
+          "reading_order": 9
+        },
+        {
+          "label": "list",
+          "bbox": [
+            49,
+            348,
+            85,
+            358
+          ],
+          "text": "Collaborate!",
+          "reading_order": 10
+        },
+        {
+          "label": "list",
+          "bbox": [
+            49,
+            358,
+            129,
+            367
+          ],
+          "text": "○ chromone glycoside",
+          "reading_order": 11
+        },
+        {
+          "label": "list",
+          "bbox": [
+            49,
+            367,
+            157,
+            377
+          ],
+          "text": "D BACE1 (β-secretase) inhibitor",
+          "reading_order": 12
+        },
+        {
+          "label": "list",
+          "bbox": [
+            49,
+            377,
+            147,
+            389
+          ],
+          "text": "Alzheimer's disease (AD)",
+          "reading_order": 13
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            174,
+            313,
+            219,
+            322
+          ],
+          "text": "Abstract",
+          "reading_order": 14
+        },
+        {
+          "label": "list",
+          "bbox": [
+            174,
+            322,
+            183,
+            331
+          ],
+          "text": "▼",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            174,
+            338,
+            384,
+            424
+          ],
+          "text": "Four new chromone glycosides allo-aloeresin D\n(2), C-2′-decoumaroyl-aloeresin G (8), 2′- O -cou-\nmaroyl-( S )-aloesinol (9), 2′- O -[ p -methoxy-( E )-\ncinnamoyl]-( S )-aloesinol (10) and nine known\nchromone glycosides (1, 3–7, 11–13) were isolat-\ned from two Aloe spp. plants, A. vera and A.\nnobilis . Among them, 1 and 8 showed significant",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            398,
+            312,
+            608,
+            397
+          ],
+          "text": "inhibitory activity against BACE1 ( β -secretase)\nwith IC 50 values of 39.0 and 20.5 × 10 −6 M, as well\nas inhibition of Aβ 1–42 production by 7.4 and\n12.3 % , respectively, in B103 neuroblastoma cells\nat 30 ppm. The preliminary structure-activity re-\nlationships of Aloe chromone glucosides were\nalso discussed.",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            599,
+            156,
+            628
+          ],
+          "text": "Received November 11, 2007\nrevised February 25, 2008\naccepted February 27, 2008",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            636,
+            94,
+            645
+          ],
+          "text": "Bibliography",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            651,
+            157,
+            669
+          ],
+          "text": "DOI 10.1055/s-2008-1074496\nPlanta Med 2008: 74: 540–545",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            669,
+            156,
+            681
+          ],
+          "text": "10 Georg Thieme Verlag KG",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            681,
+            120,
+            692
+          ],
+          "text": "Stuttgart - New York",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            696,
+            156,
+            707
+          ],
+          "text": "Published online April 7, 2008",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            707,
+            104,
+            716
+          ],
+          "text": "ISSN 0032-0943",
+          "reading_order": 24
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            725,
+            103,
+            734
+          ],
+          "text": "Corresponden",
+          "reading_order": 25
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            734,
+            123,
+            746
+          ],
+          "text": "Prof. Wei-Shuo Fang",
+          "reading_order": 26
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            746,
+            147,
+            766
+          ],
+          "text": "Institute of Materia Medica\nChinese Academy of Medica",
+          "reading_order": 27
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            770,
+            138,
+            779
+          ],
+          "text": "Sciences & Peking Union",
+          "reading_order": 28
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            779,
+            103,
+            789
+          ],
+          "text": "Medical College",
+          "reading_order": 29
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            789,
+            138,
+            800
+          ],
+          "text": "No. 1 Xiannongtan Street",
+          "reading_order": 30
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            804,
+            103,
+            815
+          ],
+          "text": "Beijing 100050",
+          "reading_order": 31
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            815,
+            138,
+            824
+          ],
+          "text": "People's Republic of China",
+          "reading_order": 32
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            824,
+            147,
+            834
+          ],
+          "text": "Tel:/Fax: +86-010-6316-522",
+          "reading_order": 33
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            840,
+            112,
+            851
+          ],
+          "text": "wiang@imm.ac.cr",
+          "reading_order": 34
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            174,
+            456,
+            246,
+            465
+          ],
+          "text": "Introduction",
+          "reading_order": 35
+        },
+        {
+          "label": "para",
+          "bbox": [
+            174,
+            474,
+            384,
+            680
+          ],
+          "text": "Alzheimer's disease (AD) has become an increas-\ningly severe medical and social problem, due to\nthe rapid growth of aging people populations in\nindustrialized countries, and even in some devel-\noping countries. β -Secretase (BACE1) has been\nrecognized as a valuable target for the treatment\nof AD. BACE1 inhibitors have promised to be a\nclass of disease disrupting rather than symptom\nrelieving agents [1] . Although many peptides,\npeptidomimetics and heterocyclic compounds\nhave been designed and evaluated as BACE inhib-\nitors, none of them have been successfully devel-\noped as anti-AD agents to date [2], [3] . There are\nonly very few reports on natural products-based:\nBACE inhibitors [4], [5], [6], [7], [8], [9] with IC $_{50}$ s\nin the 10 − 5 to 10 − 7 M range.",
+          "reading_order": 36
+        },
+        {
+          "label": "para",
+          "bbox": [
+            174,
+            680,
+            384,
+            847
+          ],
+          "text": "During screening of plant extracts for BACE1 in-\nhibitory activity, Aloe vera , a traditional Chinese\nmedicine, was found to potently inhibit β -secre-\ntase at $10^{-5}\\text{g/mL}$ . Bioassay-guided fractionations\nof A. vera extracts led to the isolation and charac-\nterization of eight chromone C-glycosides (1-8)\nas active components ( ○ Fig. 1 ). To elucidate the\nstructure-activity relationship (SAR) of Aloe chro-\nmone glycosides, we also isolated six chromone\nC-glucosides (3, 9-13) from A. nobilis , and pre-\npared two hydrolyzed products, 9a and 13a\n( ○ Fig. 2 ). Among these chromone glycosides, 2,\n8, 9 and 10 are new. The inhibitory activities",
+          "reading_order": 37
+        },
+        {
+          "label": "para",
+          "bbox": [
+            398,
+            453,
+            613,
+            488
+          ],
+          "text": "against BACE1 for all these compounds were\nevaluated, and preliminary structure activity re-\nlationships also discussed.",
+          "reading_order": 38
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            398,
+            519,
+            524,
+            528
+          ],
+          "text": "Materials and Methods",
+          "reading_order": 39
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            398,
+            537,
+            560,
+            546
+          ],
+          "text": "General environmental procedure:",
+          "reading_order": 40
+        },
+        {
+          "label": "para",
+          "bbox": [
+            398,
+            555,
+            608,
+            808
+          ],
+          "text": "Column chromatography: silica gel (100-\n200 mesh, Qingdao Marine Chemical Company);\nSephadex LH-20 (Amersham Biosciences) and\nRP-18 (40–70 μm, YMC CO., Ltd.). Preparative\nHPLC was performed on a Shimadzu liquid chro-\nmatograph LC-9A instrument with UV-VIS spec-\ntrophotometric detector (SPD-6AV) at 254 nm\nusing an ODS column (Unicorn ODS, 10 μm,\n250×20 mm). Melting points were determined\nwith a GERMANY-68 992 apparatus. Optical rota-\ntions were measured on a PE-241 digital polari-\nmeter. EI-MS and HR-FAB-MS were obtained on\na QB-200 mass spectrometer. ESI-MS measure-\nments were carried out at an Agilent 1100 series\nLC/MSD Trap SL mass spectrometer. IR spectra\nwere recorded on an IR-47 spectrometer. NMR\nspectra were recorded on a Varian MERCURY-\n400 and INOVA-500 spectrometer using TMS as\nan internal standard, and chemical shifts were\ngiven as ppm.",
+          "reading_order": 41
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            49,
+            869,
+            300,
+            880
+          ],
+          "text": "Lv Let al. BACE1 (β-Secretase) Inhibitory… Planta Med 2008; 74: 540–54",
+          "reading_order": 42
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            658,
+            298,
+            672,
+            585
+          ],
+          "text": "Downloaded by: University of British Columbia. Copyrighted material.",
+          "reading_order": 43
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            550,
+            17,
+            622,
+            26
+          ],
+          "text": "Original Paper",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            622,
+            2,
+            643,
+            32
+          ],
+          "text": "54",
+          "reading_order": 1
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496_page_002_figure_002.png)",
+          "figure_path": "figures/0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496_page_002_figure_002.png",
+          "bbox": [
+            58,
+            53,
+            336,
+            304
+          ],
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            67,
+            304,
+            220,
+            315
+          ],
+          "text": "Fig. 1Chromone glycosides from A. vera.",
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496_page_002_figure_004.png)",
+          "figure_path": "figures/0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496_page_002_figure_004.png",
+          "bbox": [
+            58,
+            340,
+            336,
+            582
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            67,
+            582,
+            327,
+            593
+          ],
+          "text": "Fig. 2 Chromoe glycosides from A. nobilis and hydrolysates 9a and 13a",
+          "reading_order": 5
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            58,
+            627,
+            138,
+            652
+          ],
+          "text": "Plant materials\nAloe vera ethanol",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            652,
+            336,
+            757
+          ],
+          "text": "Pharmaceutical Stores in 2003. The quality of the plant extract\nmeets the standards for Aloe products in the China Pharmaco-\npoeia 2005 edition, and the original plant was identified by Pro-\nfessor Lin Ma of our institute to be identical to the authenticated\nsample (No.18 339) of A. vera which is deposited at the Herbari-\num of the Institute of Materia Medica, Chinese Academy of Med-\nical Sciences & Peking Union Medical college (CAMS & PUMC),\nBeijing, China.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            760,
+            336,
+            824
+          ],
+          "text": "Aloe nobilis was collected from the Aloe cultivated base of Rui-\nwangfen, Beijing, P. R. China, in 2004, and identified by Professor\nLin Ma. The authenticated sample (No. 21572) of the plant is also\ndeposited at the Herbarium of the Institute of Materia Medica,\nCAMS & PUMC.",
+          "reading_order": 8
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            352,
+            53,
+            470,
+            64
+          ],
+          "text": "Extraction and isolation",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            351,
+            69,
+            624,
+            412
+          ],
+          "text": "The ethanolic extract of A . vera (200.0 g) was subjected to silica\ngel column chromatography (10×150 cm, 2 kg) and eluted with\nCHCl 3 / CH 3 OH / H 2 O (80:20:2, 10.0 L) to provide five fractions\n[Fr. I (0–1.2 L,3.5 g), Fr. II (1.3–2.7 L, 5.2 g), Fr. III (2.8–3.9 L,\n2.8 g), Fr. IV (4.0–5.7 L, 4.2 g) and Fr. V (5.8–10.0 L, 14.6 g)]. Frs.\nII and IV displayed potent inhibitory activity (64.18% and\n60.11%) at 100 μg/mL during the screening for BACE inhibitory\nactivity. Silica gel column chromatography (4.5×30 cm, 300.0 g)\nof Fr. II (5.2 g) eluting with a gradient of CHCl 3 / CH 3 OH (90:10,\n80:20, 50:50, each 4000 mL) afforded three fractions (Fr. II-1 –\nFr. II-3). Compounds 3 (840–920 mL, 3.0 mg), 8 (1420–1520 mL,\n5.0 mg) and a mixture of compounds 1 and 2 (220–760 mL)\nwere obtained from Fr. II-2 (2.6 g) by silica gel column chroma-\ntography (2.5×35 cm, 200.0 g) using 15% CH 3 OH in chloroform\n(3000.0 mL) as eluent. The mixture of compounds 1 and 2 was\nfurther purified on reversed-phase preparative HPLC [Unicorn\nODS, 10 μm, 250×20 mm; CH 3 OH / H 2 O (55:45), flow rate\n3.0 mL/min] to provide compounds 1 (60.0 mg, t R = 29.2 min)\nand 2 (3.0 mg, t R = 37.8 min). Fr. IV (4.2 g) was subjected to CC\nover Sephadex LH-20 (2.5×80 cm, 100.0 g) with a gradient sys-\ntem of 1:0 to 0:1 H 2 O / CH 3 OH (increased by 10% CH 3 OH in gra-\ndient, each 350 mL), and 11 fractions (Frs. IV-1 – IV-11) were ob-\ntained. Fr. IV-8 (233.0 mg) was then chromatographed on a RP-\n18 column (2×25 cm, 40.0 g) with CH 3 OH-H 2 O (30:70, 600 mL)\nas eluent to afford compounds 4 (200–400 mL, 830.0 mg), 7\n(60–80 mL, 3.4 mg) , 6 (460–500 mL, 6.0 mg), and 5 (100–\n160 mL, 10.2 mg), respectively.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            351,
+            412,
+            624,
+            797
+          ],
+          "text": "Dried leaves (5 kg) of A. noblis were segmented and soaked in\nMeOH (15 L) at room temperature for one week. The resulting\nextract was filtered and concentrated to dryness under reduced\npressure to furnish a brown residue (210 g), which was suspend-\ned in water (1 L) and partitioned with petroleum ether\n(3×500 mL), EtOAc (3×800 mL), and n -BuOH (3×800 mL) suc-\ncessively. The EtOAc soluble residue (13.0 g) was subjected to\nCC over silica gel (4×70 cm, 400 g), eluting with a gradient of\nCHCl 3 / CH 3 OH (92:8, 90:10, each 6000 mL), to afford eleven\nfractions (Frs. I–XI). Fr. IV (943 mg) was then subjected to Se-\nphadex LH-20 (60 g, 2.5×50 cm) with MeOH/H 2 O (20:80,\n450 mL) as eluent to afford five subfractions (Fr. IV-1 to Fr. IV-\n5, the elution volume of each fraction was 90 mL). Fr. IV-3\n(120 mg) was separated by reversed-phase preparative HPLC\n[Unicorn ODS, 10 μm, 250×20 mm; CH 3 CN/H 2 O (27:73), flow\nrate 3.0 mL/min, t R = 53.8 min] to yield compound 13 (35 mg).\nFr. VII (1.6 g) was chromatographed over a Sephadex LH-20 col-\numn (60 g, 2.5×100 cm), eluting with MeOH/H 2 O (20:80,\n900 mL) to provide eleven fractions (the elution volume of\neach fraction was nearly about 80 mL). Fr-VII-7 (19 mg) was fur-\nther purified by reversed-phase preparative HPLC [Unicorn\nODS, 10 μm, 250×20 mm; CH 3 OH/H 2 O (55:45, 1% CF 3 COOH,\nt R = 58 min), flow rate 3.0 mL/min] to obtain 3 (3 mg). Fr. VII-\n10 (309 mg) was further purified by preparative TLC\n(20×30 cm, CHCl 3 : MeOH : H 2 O = 85 : 15 : 1) to give 10 (R f =\n0.54, 40 mg), 11 (R f = 0.47, 140 mg) and 12 (R f = 0.38, 7.0 mg), re-\nspectively. 9 (50 mg) was obtained from Fr. IX (1.7 g) by column\nchromatography (2.5×100 cm, Sephadex LH-20, MeOH, 580 mL)\nand preparative TLC (20×30 cm, CHCl 3 / MeOH/H 2 O = 80 : 20 : 2,\nR f = 0.43).",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            351,
+            797,
+            624,
+            851
+          ],
+          "text": "Allo-aloeresin D (2): white amorphous powder; m.p.124 °C;\n[α]0=6: + 49.1 (c 0.01, MeOH); UV (MeOH): λmax (log ε ) = 211.0\n(4.35), 226.0 (4.33), 252.0 (sh); (4.11), 294 (4.13) nm; IR (KBr):\nvmax = 3361, 1718, 1653, 1599, 1514, 1458, 1383, 1161, 984, 837,",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            362,
+            869,
+            623,
+            880
+          ],
+          "text": "Lv Let al. BACE1 (β-Secretase) Inhibitory… Planta Med 2008; 74:540-545",
+          "reading_order": 13
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            658,
+            298,
+            672,
+            585
+          ],
+          "text": "Downloaded by: University of British Columbia. Copyrighted material.",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            22,
+            17,
+            120,
+            26
+          ],
+          "text": "542 Original Paper",
+          "reading_order": 0
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            49,
+            63,
+            613,
+            546
+          ],
+          "text": "<table><tr><td rowspan=\"2\">Position</td><td colspan=\"2\">2</td><td colspan=\"2\">8</td><td colspan=\"2\">9</td><td colspan=\"2\">10</td></tr><tr><td>δC</td><td>δH</td><td>δC</td><td>δH</td><td>δC</td><td>δH</td><td>δC</td><td>δH</td></tr><tr><td>1</td><td>167.4</td><td></td><td>162.7</td><td></td><td>167.2</td><td></td><td>167.2</td><td></td></tr><tr><td>3</td><td>112.5</td><td>6.10 s</td><td>109.8</td><td>5.95 s</td><td>112.1</td><td>6.04 s</td><td>112.1</td><td>6.02 s</td></tr><tr><td>4</td><td>182.3</td><td></td><td>182.7</td><td></td><td>182.2</td><td></td><td>182.2</td><td></td></tr><tr><td>4a</td><td>117.2</td><td></td><td>117.4</td><td></td><td>117.0</td><td></td><td>116.9</td><td></td></tr><tr><td>5</td><td>144.6</td><td></td><td>144.0</td><td></td><td>143.5</td><td></td><td>143.5</td><td></td></tr><tr><td>6</td><td>112.7</td><td>6.74 s</td><td>112.8</td><td>6.80 s</td><td>116.3</td><td>6.50 s</td><td>115.7</td><td>6.50 s</td></tr><tr><td>7</td><td>162.1</td><td></td><td>162.5</td><td></td><td>161.3</td><td></td><td>160.4</td><td></td></tr><tr><td>8</td><td>111.8</td><td></td><td>113.3</td><td></td><td>110.0</td><td></td><td>109.9</td><td></td></tr><tr><td>1a</td><td>159.8</td><td></td><td>158.8</td><td></td><td>160.4</td><td></td><td>160.4</td><td></td></tr><tr><td>9</td><td>44.6</td><td>2.67 d (10.5); 2.86 dd (10.5, 4.0)</td><td>124.7</td><td>6.20 d (15.6)</td><td>44.3</td><td>2.75 dd (13.6,5.6); 2.82 dd (14.0,7.6)</td><td>44.6</td><td>2.75 dd (13.6,5.2); 2.82 dd (13.6,7.2)</td></tr><tr><td>10</td><td>65.9</td><td>4.41 m</td><td>139.0</td><td>7.03 m</td><td>66.7</td><td>4.32 m</td><td>63.1</td><td>4.32 m</td></tr><tr><td>11</td><td>23.6</td><td>1.23 d (6.0)</td><td>18.4</td><td>1.92 d (6.8)</td><td>23.5</td><td>1.25 d (6.0)</td><td>23.3</td><td>1.24 d (6.0)</td></tr><tr><td>12</td><td>23.7</td><td>2.68 s</td><td>23.6</td><td>2.74 s</td><td>23.5</td><td>2.58 s</td><td>23.5</td><td>2.56 s</td></tr><tr><td>13</td><td>57.0</td><td>3.85 s</td><td>56.9</td><td>3.90 s</td><td></td><td></td><td></td><td></td></tr><tr><td>1′</td><td>72.8</td><td>5.06 d (10.0)</td><td>75.1</td><td>4.71 d (10.0)</td><td>73.0</td><td>5.15 d (10.0)</td><td>72.2</td><td>5.12 d (10.0)</td></tr><tr><td>2′</td><td>73.4</td><td>5.66 d (10.0)</td><td>72.4</td><td>4.06 t (9.6)</td><td>74.0</td><td>5.67 t (10.0)</td><td>74.0</td><td>5.68 t (10.0)</td></tr><tr><td>3′</td><td>77.7</td><td>3.60 m</td><td>80.3</td><td>3.44 m</td><td>77.9</td><td></td><td>77.9</td><td>3.40–3.90</td></tr><tr><td>4′</td><td>72.4</td><td>3.48 m</td><td>72.3</td><td>3.44 m</td><td>72.1</td><td></td><td>72.9</td><td>3.40–3.90</td></tr><tr><td>5′</td><td>83.0</td><td>3.40 m H-6a′ 3.60 m</td><td>82.9</td><td>3.25 m H-6a′ 3.64 m</td><td>82.8</td><td>3.42–3.88</td><td>82.8</td><td>3.40–3.90</td></tr><tr><td>6′</td><td>63.1</td><td>H-6b′ 3.90 m</td><td>63.0</td><td>H-6b′ 3.84 dd (12.0,2.0)</td><td>63.1</td><td></td><td>62.4</td><td></td></tr><tr><td>1′′</td><td>167.6</td><td></td><td></td><td></td><td>168.0</td><td></td><td>168.2</td><td></td></tr><tr><td>2′′</td><td>115.7</td><td>5.49 d (12.5)</td><td></td><td></td><td>115.8</td><td>6.01 d (16.0)</td><td>116.3</td><td>6.04 d (16.0)</td></tr><tr><td>3′′</td><td>145.0</td><td>6.59 d (12.5)</td><td></td><td></td><td>146.2</td><td>7.35–7.39</td><td>146.6</td><td>7.35–7.39</td></tr><tr><td>4′′</td><td>127.0</td><td></td><td></td><td></td><td>128.3</td><td></td><td>127.1</td><td></td></tr><tr><td>5′′, 9′′</td><td>133.2</td><td>6.93 d (8.5)</td><td></td><td></td><td>131.0</td><td>7.35–7.39</td><td>131.1</td><td>7.25 d (8.4)</td></tr><tr><td>6′′, 8′′</td><td>115.7</td><td>6.48 d (8.5)</td><td></td><td></td><td>116.7</td><td>6.84 d (8.4)</td><td>116.8</td><td>6.69 d (8.4)</td></tr><tr><td>7′′</td><td>160.0</td><td></td><td></td><td></td><td>161.2</td><td></td><td>163.2</td><td></td></tr></table>",
+          "reading_order": 1
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            58,
+            552,
+            551,
+            559
+          ],
+          "text": "${ }^{a}$ Measured in CD2OD at 400 MHz for ${ }^{1} \\mathrm{H}$ and $100 \\mathrm{MHz}$ for ${ }^{13} \\mathrm{C}$ NMR, respectively, with assignments confirmed by HMQC and HMBC. 8 in ppm and 1 in Hz.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            591,
+            319,
+            744
+          ],
+          "text": "721 cm − 1 ; $^{1}$ H-NMR and $^{13}$ C-NMR (CD $_3$ OD): see Table 1 ; HR-\nESI-MS: m/z = 557.2012 [M + H] + (calcd. for C $_{29}$ H $_{32}$ O $_{12}$ : 557.2023).\nC-2’-Decoumaroyl-aloeresin G (8) : white amorphous powder;\nm. p. 119 ° C ; [ $\\alpha$ ] $^{6}_{0}$ : + 3.08 (c 0.33, MeOH); UV (MeOH): λ max (log ε )\n= 209.0 (3.27), 259.0 (3.01), 308.0 (2.95) nm; IR (KBr):\nν max = 3390, 1657, 1626, 1454, 1383, 1122, 1080, 903, 850,\n721 cm − 1 ; $^{1}$ H-NMR and $^{13}$ C-NMR (CD $_3$ OD): see Table 1 ; HR-\nESI-MS: m/z = 393.1592 [M + H] + (calcd. for C $_{29}$ H $_{32}$ O $_{12}$ : 393.1549).\n2’-O-Coumaroyl-(S)-aloesinol (9) : white amorphous powder;\n[ $\\alpha$ ] $^{6}_{0}$ : –177.3 (c 0.105 in MeOH); $^{1}$ H-NMR and $^{13}$ C-NMR (CD $_3$ OD),\nsee Table 1 ; HR-negative ESI-MS: m/z = 541.1716 [M − H] +\n(calcd. for C $_{28}$ H $_{29}$ O $_{11}$ : 541.1710).",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            744,
+            319,
+            797
+          ],
+          "text": "2′-O-[p-Methoxy-(E)-cinnamoyl]-(S)-aloesinol (10): white amor-\nphous solid; [α] $_{\\rm B}^{20}$ : –156.3 (c 0.71 in MeOH); $^{1}$ H-NMR and $^{13}$ C\nNMR (CD $_3$ OD): see Table 1 ; HR-positive ESI-MS: m/z=\n557.1998 [M + H] + (calcd. for C $_{29}$ H $_{33}$ O $_{11}$ : 557.2023).",
+          "reading_order": 5
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            49,
+            806,
+            282,
+            824
+          ],
+          "text": "Alkaline hydrolysis of Aloe chromone glycosides",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            824,
+            319,
+            851
+          ],
+          "text": "To a solution of compound 1 (20.0 mg) in MeOH (0.5 mL) was\nadded 10% NaOH-H2O (0.5 mL). The mixture was stirred at",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            335,
+            591,
+            613,
+            744
+          ],
+          "text": "room temperature for 0.5 h, and then 20 mL of H $_{2}$ O was added\nand extracted with n -BuOH (10 mL×3). The organic layer was\nevaporated under reduced pressure and purified by preparative\nthin-layer chromatography (20×30 cm, R f = 0.3, CHCl 3 /CH 3 OH /\nH 2 O, 75:25:2) to obtain product 1a (5.4 mg, R f = 0.54). Similarly,\n2 (1.0 mg) was hydrolyzed to 2a (< 0.5 mg). Compounds 1a and\n2a are identical on HPLC analysis (column: 250×4.6 mm, Kroma-\nsil RP-18, 5 μ m; flow rate: 1 mL/min; detector: λ max = 300 nm;\nmobile phase: CH 3 OH / H 2 O, 30:70; retention times for both 1a\nand 2a are 5.3 min). Compounds 9, 10, 11 and 13 were hydro-\nlyzed similarly, and ( S )-aloesinol (9a), aloesin (6), 7-O-methyla-\nlosin (13a) were obtained, respectively.",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            334,
+            744,
+            608,
+            851
+          ],
+          "text": "8-C-Glucosyl-7-methoxy-(R)-aloesol (1a): amorphous white\npowder, m.p.145 °C; [α]6: –30.1 (c 0.24, MeOH); ESI-MS: m/z=\n433.2 [M+Na]+; 1H-NMR (500 MHz, CD3OD): δ= 1.24 (3H, d,\nJ= 6.0 Hz, H-11), 2.58 (2H, dd, J= 9.5, 5.0 Hz, H-9), 2.73 (3H, s, H-\n12), 3.32–3.44 (3H, m, H-3′, H-4′, H-5′), 3.60 (1H, m, H-6′α), 3.84\n(1H, m, H-6′β), 3.89 (3H, s, OCH3-7), 4.12 (1H, t, J= 10.0 Hz, H-2′),\n4.32 (1H, m, H-10), 4.94 (1H, d, J= 10.0 Hz, H-1′), 6.03 (1H, s, H-\n3), 6.86 (1H, s, H-6). Its physical properties and 1H-NMR data",
+          "reading_order": 9
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            49,
+            869,
+            300,
+            880
+          ],
+          "text": "Lv Let al. BACE1 (β-Secretase) Inhibitory… Planta Med 2008; 74: 540–54",
+          "reading_order": 10
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            658,
+            298,
+            672,
+            585
+          ],
+          "text": "Downloaded by: University of British Columbia. Copyrighted material.",
+          "reading_order": 11
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            550,
+            17,
+            613,
+            27
+          ],
+          "text": "Original Pape",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            622,
+            2,
+            649,
+            32
+          ],
+          "text": "543",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            53,
+            336,
+            80
+          ],
+          "text": "were identical to those of 8-C-glucosyl-7-methoxy-(R)-aloesol\n(4) [12].",
+          "reading_order": 2
+        },
+        {
+          "label": "sub_sec",
+          "bbox": [
+            58,
+            89,
+            300,
+            117
+          ],
+          "text": "Determination of BACE1 inhibition by an in vitro\npeptide cleavage assay",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            117,
+            336,
+            501
+          ],
+          "text": "The ability of the compounds to inhibit the cleavage of APP to Aβ\nwas assessed using a fluorescent resonance energy transfer\n(FRET) peptide cleavage assay. The FRET peptide substrate Mca-\nSer-Glu-Val-Asn-Leu-Asp-Ala-Glu-Phe-Arg-Lys(Dnp)-Arg-Arg-\nNH (where Mca is (7-methoxycoumarin-4-yl)-acetyl, and Dnp is\n2,4-dinitrophenyl) and recombinant human BACE1 were pur-\nchased from R&D Systems, Inc. A commercially available BACE1\ninhibitor N-benzyloxycarbonyl-Val-Leu-leucinal (Z-Val-Leu-\nLeu-CHO, CALBIOCHEM ® 565749) was purchased from EMD Bi-\nosciences, Inc. and used as a positive control. The assay was car-\nried out according to the supplier's protocol with modifications.\nBriefly, assays were performed in triplicate in 96-well black\nplates with 100 μ L of 50 mM sodium acetate buffer (pH 4.0), con-\ntaining 4 μM substrate, 2 mg/mL recombinant human BACE1 and\ndifferent concentrations of inhibitors (dissolved in small vol-\numes of DMSO prior to addition to the buffer). The fluorescence\nintensity was measured using a SpectraMAX Gemini XS plate\nreader (Molecular Devices Co.) at Ex320/Em405 both at zero\ntime and after 60 min incubation at 25 °C. The inhibition per-\ncentage was calculated with the following equation: Inhibition\n( % )= [1 − (F S − F SO )/(F C − F CO )] × 100 % , where F SO and F S are the fluo-\nrescence of samples at zero time and 60 min, and F CO and F C are\nthe fluorescence of control at zero time and 60 min, respectively.\nThe IC 50 value was calculated from the non-linear curve fitting of\npercentage inhibition against inhibitor concentration ([I]) using\nPrism 3.0 software. All data presented are the mean values of\ntriplicate experiments. The purities of samples were determined\nby HPLC, and compounds 1 – 13 and the positive control were\nfound to have a purity of more than 99 % , and 9a and 13a were\n93 % and 98 % pure, respectively.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            501,
+            336,
+            680
+          ],
+          "text": "It is worthwhile to note that the IC 50 value for our positive con-\ntrol peptide, N -benzyloxycarbonyl-Val-Leu-leucinal (CALBIO-\nCHEM® 565749), in the enzyme inhibition assay is higher than\nits IC 50 in the cell-based assay, while its IC 50 determined by us\nin the cell-based assay is comparable to that reported in litera-\nture [21]. The reason for this difference is that the peptide is a\ncompetitive inhibitor, and thus its IC 50 value in the in vitro en-\nzyme inhibition assay will vary depending on the concentration\nof substrate. When the substrate concentration in the in vitro as-\nsay was reduced from 4 μM to 3 μM, the IC 50 of the positive con-\ntrol was also reduced from 8.2 μM to 5.5 μM. Since the substrate\nconcentration used in the enzyme inhibition assay is usually\nhigher than that used in the cell-based assay, the in vitro IC 50\nfor the inhibitor is correspondingly higher.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            689,
+            336,
+            851
+          ],
+          "text": "Effect on Aβ1–42 production in B103 neuroblastoma cells\nAPP695-transfected B103 rat neuroblastoma cells were seeded at\na density of 5×105 in pi 60 plates and incubated with testing\ncompounds (ca. 65–80×10−6 M) for 48 h. Then, the media were\ncollected by centrifugation. The amount of Aβ1–42 produced was\nestimated with the “Immunoassay Kit for human β amyloid 1–\n42” from Biosource according to the manual supplied. Briefly,\nthe collected media were transferred to the 96-well plates where\nAβ1–42 antibody was pre-coated, and they were treated with de-\ntection antibody. After 3 h of incubation at room temperature,\nHRP (horseradish peroxidase) anti-rabbit antibody and stabi-\nlized chromogen were added for antigen-antibody reaction. The",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            351,
+            53,
+            624,
+            80
+          ],
+          "text": "reaction was stopped by stop solution, and the optical density\nwas read at 450 nm. 1 % DMSO was used as a control.",
+          "reading_order": 7
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            352,
+            106,
+            470,
+            116
+          ],
+          "text": "Results and Discussion",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            351,
+            133,
+            624,
+            349
+          ],
+          "text": "The EtOH extract of A. vera was separated into five fractions by\nsilica gel column chromatography, and Frs. II and IV exhibited\nthe most potent activity in the BACE inhibition assay. Further bio-\nactivity-guided fractionation of these fractions resulted in the\nisolation of eight chromone C-glycosides (1–8, see O Fig. 1 ),\naloeresin D (1) [10] , allo-aloeresin D (2) , rebaichromone (3)\n[11] , 8-C-glucosyl-7-methoxy-( R )-aloesol (4) [12] , 8-C-glucosyl-\n( R )-aloesol (5) [13] , aloesin (6) [14] and 8-C-glucosyl-7-O-meth-\nylaloediol (7) [13] , among which 2 and 8 are new compounds.\nChromone 8 was the most potent BACE1 inhibitor with an IC 50\nof 20.5 μ M. From the MeOH extract of A. noblis , five chromone\nglycosides (3, 9–13, see O Fig. 2 ) were isolated by HPLC-UV\nand characterized as 2′-O-coumaroyl-( S )-aloesinol (9) , 2′-O-( p -\nmethoxy- E -cinnamoyl)-( S )-aloesinol (10) , 2′-feruloylaloesin (11)\n[13] , aloeresin A (12) [15] and 2′-feruloyl-7-O-methylaloesin\n(13) [16] , among which 9 and 10 are identified as new natural\nchromone C-glycosides.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            351,
+            349,
+            625,
+            668
+          ],
+          "text": "The molecular formula of 2 was established as C $_{29}$ H $_{32}$ O $_{11}$ by HR-\nESI-MS ( m/z / z = 557.2012 [ M + H ] + ). Its UV spectrum absorption\nbands are in agreement with the chromone skeleton [17] . Its\n$^{1}$ H-NMR and $^{13}$ C-NMR spectra are similar to those of aloeresin D\n[12] except for the signals at $\\delta$ = 5.49 (1H, d, J = 12.5 Hz) and 6.59\n(1H, d, J = 12.5 Hz), indicating the presence of a ( Z )- p -coumaroyl\ngroup. The correlations of H-2 $'$ ( $\\delta$ = 7.03) to C-1 $''$ ( $\\delta$ = 167.6) and\nH-9 ( $\\delta$ = 2.67 and 2.86) to C-2 ( $\\delta$ = 167.4) and C-3 ( $\\delta$ = 112.5) in\nHMBC supported the attachment of the coumaryl group to C-2 $'$\nof the glucose and hydroxylpropyl to C-2 of the chromone. For\nthe assignment of the absolute configuration of the hydroxyl-\npropyl moiety of 2 , it is impossible to differentiate two diaster-\neoisomers of ( R )- and ( S )-hydroxylpropyl groups based on their\noptical rotations, since they exhibited almost the same values\n[12], [18] . However, it was reported that the C-10 diastereoiso-\nmers of 4 exhibited a different optical rotation value (the optical\nvalues of the ( S )-configuration diastereoisomer at C-10 was pos-\nitive [18] but the ( R )-configuration diastereoisomer at C-10 was\nnegative [12] ) as well as a different retention time ( t R ) on HPLC\n[18] . Thus, the absolute configuration of C-10 was proven to be\n( R )-configuration by comparing the t R 's and optical rotation val-\nue of the 2 $'$ -deacyl products 1a ([ α ] 0 s : − 30.1) with that of 4 ([ α ] 0 2 :\n− 39.5) . From the above evidence, the structure of 2 was identi-\nfied as 8-[ C - β -d -[ 2- O -( Z )- p -coumaroyl ]-glucopyranosyl ]-2-[( R )-\n2-hydroxypropyl]-7-methoxy-5-methylchromone.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            351,
+            670,
+            624,
+            808
+          ],
+          "text": "The molecular formula of 8 was assigned as C $_{20}$ H $_{24}$ O $_{8}$ by its pos-\nitive HR-ESI-MS ( m/z = 393.1592 [M + H] + ). Comparison of the\nNMR spectral data of 8 with those of aloeresin G [19] revealed\nthe absence of a ( E )- p -coumaroyl group linked to the 2'-OH of\nthe glucose in 8 . The location of the propenyl group at C-2 was\nconfirmed by the HMBC correlations between H-9 ( δ = 6.20), H-\n10 ( δ = 7.03) and C-2 ( δ = 162.7). The correlations of H-1`\n( δ = 4.71) to C-8 ( δ = 113.3) and C-1a ( δ = 158.8), H-9 to C-2 in\nHMBC further confirmed this assignment. From the above evi-\ndence, the structure of 8 was elucidated as 2-( E )-propenyl-7-\nmethoxy-8-C- β - D -glucopyranosyl-5-methylchromone.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            351,
+            808,
+            624,
+            851
+          ],
+          "text": "The negative HR-ESI-MS of 9 suggested its molecular formula to\nbe C28H29O11 ( m/z = 541.1716 [M−H]+). The $^{1}$ H- and $^{13}$ C-NMR\nspectral data ( O Table 1 ) of 9 showed key structural features of",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            362,
+            869,
+            623,
+            880
+          ],
+          "text": "Lv Let al. BACE1 (β-Secretase) Inhibitory… Planta Med 2008; 74:540-545",
+          "reading_order": 13
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            658,
+            298,
+            672,
+            585
+          ],
+          "text": "Downloaded by: University of British Columbia. Copyrighted material.",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            22,
+            17,
+            40,
+            26
+          ],
+          "text": "544",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            49,
+            17,
+            120,
+            26
+          ],
+          "text": "Original Paper",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            53,
+            320,
+            197
+          ],
+          "text": "a hydroxypropyl, γ-pyrone, 5-Me and 8-C-glucoside, which were\nsimilar to those of isoaloeresin D [19] and aloeresin D [12], ex-\ncept for the absence of a methyl group linked to 7-OH. The posi-\ntions of the p-coumaroyl group on the sugar and the attachment\nof glucose and hydroxylisopropyl to the chormone core structure\nin 9 were assigned based on the correlations of H-2′(δ= 5.67) to\nC-1″(δ= 168.0), H-1′(δ= 5.15) to C-8 (δ= 110.0) /C-1a (δ= 160.4),\nand H-9 (δ= 2.75 and 2.82) to C-2 (δ= 167.2) in HMBC. The posi-\ntive [α]20 (+ 6.81) of the hydrolyzed product (9a) suggested the\nC-10 configuration to be (S). Accordingly, 9 was elucidated as 2′-\nO-cournaroyl-(S)-aloesinol.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            197,
+            320,
+            322
+          ],
+          "text": "The HR-positive ESI-MS of 10 suggested its molecular formula to\nbe C $_{29}$ H $_{33}$ O $_{11}$ ( m/z = 557.1998 [M + H] + ). The $^{1}$ H- and $^{13}$ C-NMR\nspectral data ( ○ Table 1 ) of 10 were similar to those of 9 , except\nfor one additional methoxy group ( $\\delta$ = 3.74) attached to the aro-\nmatic ring of the cinnamoyl group at the C-7 ” position, which\nwas determined by its correlation to C-7 ” ( $\\delta$ = 163.2) in the\nHMBC spectrum. The positive [ $\\alpha$ ] $_0^{20}$ ( $+$ 6.94) of the hydrolyzed\nproduct ( 10a ) suggested the C-10 configuration to be ( S ). From\nabove evidence, 10 was elucidated as 2`- O -[ p -methoxy-( E )-cin-\nnamoyl]-( S )-aloesinol.",
+          "reading_order": 3
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            49,
+            376,
+            318,
+            564
+          ],
+          "text": "<table><tr><td>Compounds</td><td>Inhibition (%) at 10 μM</td><td>Inhibition (%) at 100 μM</td><td>IC 50 (μM)</td></tr><tr><td>1</td><td>19.2 ± 3.2</td><td>71.5 ± 8.5</td><td>39.0</td></tr><tr><td>4</td><td>8.5 ± 1.2</td><td>26.8 ± 4.1</td><td></td></tr><tr><td>5</td><td>20.8 ± 7.7</td><td>39.2 ± 4.9</td><td></td></tr><tr><td>6</td><td>12.2 ± 4.1</td><td>37.5 ± 6.0</td><td></td></tr><tr><td>8</td><td>37.6 ± 4.6</td><td>72.0 ± 11.9</td><td>20.5</td></tr><tr><td>9</td><td>17.3 ± 1.8</td><td>51.9 ± 5.0</td><td></td></tr><tr><td>9a</td><td>28.0 ± 6.5</td><td>37.2 ± 4.5</td><td></td></tr><tr><td>10</td><td>23.7 ± 1.1</td><td>34.1 ± 2.4</td><td></td></tr><tr><td>11</td><td>24.9 ± 3.8</td><td>36.4 ± 4.0</td><td></td></tr><tr><td>12</td><td>9.6 ± 2.2</td><td>39.5 ± 0.7</td><td></td></tr><tr><td>13</td><td>20.9 ± 3.7</td><td>48.7 ± 2.4</td><td></td></tr><tr><td>13a</td><td>14.9 ± 3.4</td><td>41.0 ± 7.3</td><td></td></tr><tr><td>Reference</td><td></td><td></td><td>11.6</td></tr></table>",
+          "reading_order": 4
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            47,
+            358,
+            264,
+            376
+          ],
+          "text": "Table 2 BACE inhibitory activities of Aloe chromone glycosid",
+          "reading_order": 5
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            58,
+            564,
+            310,
+            604
+          ],
+          "text": "${ }^{a}$ The inhibition rates ( $\\%$ ), which were calculated as described in Materials and\nMethods, are mean ± SD of three independent experiments.\n${ }^{b}$ N-Benzyloxycarbonyl-Val-Leu-leucinal (Z-Val-Leu-Leu-CHO, CALBIOCHEM).\n565749) was used as the positive control.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            335,
+            53,
+            608,
+            117
+          ],
+          "text": "The BACE1 inhibitory activities of naturally occurring chromone\nglucosides (1, 4–13) and two hydrolyzed products (9a, 13a)\nwere tested at two different concentrations (10 and 100 μ M), re-\nspectively. The most potent compounds 1 and 8 were selected\nfor IC 50 determinations ( ☺ Table 2).",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            336,
+            117,
+            604,
+            143
+          ],
+          "text": "Preliminary SARs can be drawn for these Aloe chromone glyco\nsides:",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            335,
+            143,
+            613,
+            245
+          ],
+          "text": "(1) For chromone C-glucosides without C-2′ester side chains, 4–\n6, 8, 9a and 13a, it was found that the C-2 isopropyl side chain\nsubstituted either by α-OH, β-OH or keto groups does not signif-\nicantly affect the activity (5 vs. 6 or 9a, 4 vs. 13a), especially at\n100 μM. Although the change of inhibition rates from 10 to\n100 μM was different: 6 > 5 > 9a. However, 8, with a C-2 propenyl\nside chain, exhibited the highest activity (IC 50 20.5 μM) among\nall these compounds.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            335,
+            248,
+            613,
+            412
+          ],
+          "text": "(2) The possible role of the cinnamoyl group at C-2′ of the glu-\ncose moiety was also analyzed by comparison of several pairs of\ncompounds (1 vs. 5, 9 vs. 9a, 12 vs. 6). At $\\SI{10}{\\mu M}$ , attachment of\ncinnamoyl did not significantly alter the activity; whereas at\n$\\SI{100}{\\mu M}$ , a cinnamoyl group seems to potentiate the activity\nwith the exception of the activity of 12 that is comparable to\nthat of 6 . For the introduction of additional substitutions at the\nphenyl ring of C-2′ cinnamoyl group (9 vs. 10, 11 vs. 12 ), no gen-\neral trends were observed. Among these esterized chromone gly-\ncosides, 1 showed strongest inhibition (IC 50 39.0 μM) of BACE1.\nAttempts to delineate the inhibition modes of Aloe chromone\nglycosides failed due to unsatisfactory signal to noise ratios dur-\ning the kinetic determinations of 1 and 8 .",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            336,
+            412,
+            613,
+            476
+          ],
+          "text": "Compounds 1 and 8 were also tested for their ability to reduce\nthe amount of Aβ1–42 produced in the APP695-transfected B103\nrat neuroblastoma cells (◎ Fig. 3), and found to reduce the\namount of Aβ1–42 by 12.25%(produced 87.75 ± 6.76%of a control\nfor 8) and by 7.36%(produced 92.64 ± 5.81% of a control for 1).",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            335,
+            476,
+            613,
+            528
+          ],
+          "text": "Although these chromone glycosides are only moderately active,\ntheir BACE inhibitory activity is confirmed by enzyme inhibition\nand cell assays, thereby providing another structural motif for\nthe exploitation of natural products based BACE1 inhibitors.",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            336,
+            528,
+            613,
+            604
+          ],
+          "text": "Finally, it should be noted that we have recently reported the\nisolation of two chromone glycosides from another Aloe species\nplant, A. arborescens , with moderate BACE inhibitory activity\n[20] . One of the two compounds is identical to 13 and another\nis 7- O -methylaloeresin A, and their moderate activities are also\nconfirmed by this study.",
+          "reading_order": 13
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496_page_005_figure_014.png)",
+          "figure_path": "figures/0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496_page_005_figure_014.png",
+          "bbox": [
+            49,
+            636,
+            407,
+            842
+          ],
+          "reading_order": 14
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            422,
+            636,
+            596,
+            672
+          ],
+          "text": "Fig. 3 Inhibitory effect of 8 and 1 on Aβ 1 −42 pro-\nduction in B103 cells. Values are the mean ±SD of\ntriplicate experiments.",
+          "reading_order": 15
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            49,
+            869,
+            300,
+            880
+          ],
+          "text": "Lv Let al. BACE1 (β-Secretase) Inhibitory… Planta Med 2008; 74: 540–54",
+          "reading_order": 16
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            658,
+            298,
+            672,
+            585
+          ],
+          "text": "Downloaded by: University of British Columbia. Copyrighted material.",
+          "reading_order": 17
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            551,
+            17,
+            622,
+            26
+          ],
+          "text": "Original Paper",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            622,
+            17,
+            649,
+            26
+          ],
+          "text": "1545",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            58,
+            53,
+            165,
+            62
+          ],
+          "text": "Acknowledgement",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            71,
+            67,
+            80
+          ],
+          "text": "'",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            80,
+            336,
+            156
+          ],
+          "text": "The authors acknowledge the financial support from NSFC\n(Grant Nos. 20432 030, 30500 647) and Biogreen 21 program of\nRDA, Korea. We thank Prof. G.-H. Du and Dr. Y.-H. Wang for the\nHTS tests of plant extracts with BACE inhibitory activity, and the\nDepartment of Instrumental Analysis of our institute for the\nmeasurement of spectral data.",
+          "reading_order": 4
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            58,
+            170,
+            103,
+            179
+          ],
+          "text": "Affiliation",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            179,
+            336,
+            223
+          ],
+          "text": "1 Key Laboratory of Bioactive Substances and Resources Utilization of Chinese\nHerbal Medicine (Peking Union Medical College), Ministry of Education,\nBeijing, P. R. China\n2 Institute of Materia Medica, Chinese Academy of Medical Sciences, Beijing,",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            223,
+            336,
+            232
+          ],
+          "text": "这是一篇與中国政治人物相關的小作品。 你可以编辑或修订扩充其内容。",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            232,
+            318,
+            252
+          ],
+          "text": "3 School of Applied Biosciences, College of Agriculture and Life Sciences\nKyungpook National University, Daegu, Korea",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            252,
+            336,
+            269
+          ],
+          "text": "$^{4}$ Department of Biochemistry, College of Medicine, Seoul National Universi-\nty, Seoul, Korea",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            269,
+            183,
+            279
+          ],
+          "text": "${ }^{5}$ Equal contributions to this work",
+          "reading_order": 10
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            58,
+            304,
+            112,
+            313
+          ],
+          "text": "References",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            320,
+            336,
+            340
+          ],
+          "text": "1 Cirton M. Beta-secretase inhibition for the treatment of Alzheimer's\ndisease-promise and challenge. Trends Pharmacol Sci 2004; 25: 92–7",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            340,
+            336,
+            359
+          ],
+          "text": "2 John V, Beck JP, Bienkowski MJ, Sinha S, Heinrichson RL. Human β-Secre-\ntase (BACE) and BACE Inhibitors. I Med Chem 2003: 46: 4625–30",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            359,
+            336,
+            393
+          ],
+          "text": "3 Ghosh AK, Hong L, Tang J. Beta-secretase as a therapeutic target for in-\nhibitor drugs. Curr Med Chem 2002; 9: 1135–44\n4 Jeon SY, Bae KH, Song YH, Song KS. Green tea catechins as a BACE1 (β-",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            393,
+            336,
+            403
+          ],
+          "text": "secretase) inhibitor. Bioorg Med Chem Lett 2003; 13: 3905-8",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            403,
+            336,
+            433
+          ],
+          "text": "5 Park IH, Jeon SY, Lee HJ, Kim SI, Song KS. A β-secretase (BACE1) inhibi-\ntor hispidin from the mycelial cultures of Phellinus linteus. Planta Med\n2004: 70: 143–6",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            436,
+            336,
+            465
+          ],
+          "text": "6 Jia HX, Jiang Y, Ruan Y, Zhang YB, Ma X, Zhang D et al. Penuigenin treat-\nment decreases secretion of the Alzheimer's disease amyloid β-pro-\ntein in cultured cells. Neurosci Lett 2004: 367: 123 – 8",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            53,
+            624,
+            83
+          ],
+          "text": "7 Lee HJ, Seong YH, Bae KH, Kwon SH, Kwak HM, Song KS et al. Beta-sec-\nretase (BACE1) inhibitors from Sanguisorbae Radix. Arch Pharm Res\n2005: 28: 799–803",
+          "reading_order": 18
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            83,
+            622,
+            116
+          ],
+          "text": "8 Kwak HM, Jeon SY, Sohng BH, Kim JG, Lee JM, Song KS et al. Beta-secre-\ntase (BACE1) inhibitors from pomegranate (Punica granatum). Arch\nPharm Res 2005; 28: 1328 – 32",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            116,
+            622,
+            146
+          ],
+          "text": "9 Jeon SY, Kwon SH, Seong YH, Bae K, Hur JM, Song KS et al. β-Secretase\n(BACE1)-inhibiting stilbenoids from Smilax Rhizoma. Phytomedicine\n2007: 14: 403 – 8",
+          "reading_order": 20
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            150,
+            623,
+            179
+          ],
+          "text": "10 Speranza G, Manitto P, Cassara P, Monti D. Study on Aloe 12. Furoaloe-\nsone, a new 5-methylchromone from Cape Aloe. J Nat Prod 1993; 56:\n1089 – 94",
+          "reading_order": 21
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            179,
+            622,
+            210
+          ],
+          "text": "11 Conner JM, Gray AI, Reynolds T, Waterman PG. Anthracene and chro-\nmone derivatives in the exudates of Aloe rabaiensis. Phytochemistry\n1989: 28: 3551–3",
+          "reading_order": 22
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            213,
+            623,
+            241
+          ],
+          "text": "12 Speranza G, Dada G, Lunazzi L, Gramatica P, Manitto P. A C-glucosylat-\ned 5-methylchromone from Kenya Aloe. Phytochemistry 1986; 25:\n2219–22",
+          "reading_order": 23
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            241,
+            622,
+            263
+          ],
+          "text": "13 Holzapfel CW, Wessels PL, Van Wyk BE, Marais W, Portwig M. Three\nchromones of Aloe vera leaves. Phytochemistry 1997; 45: 1511 – 3",
+          "reading_order": 24
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            266,
+            623,
+            295
+          ],
+          "text": "14 Haynes LJ, Holdsworth DK, Russell R. C-glycosyl compounds: Part VI\nAloesin, a C-glucosylchromone from Aloe sp. J Chem Soc China 1970;\n18: 2581 – 6",
+          "reading_order": 25
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            295,
+            624,
+            326
+          ],
+          "text": "15 Makino K, Yagi A, Nishioka I. Studies of the constituents of Aloe\narborescens Mill. v. natalensis Berger. II. The structure of two new\naloesin esters. Chem Pharm Bull 1974: 22: 1565–70",
+          "reading_order": 26
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            329,
+            623,
+            359
+          ],
+          "text": "16 Holzapfel CW, Wessels PL, Van Wyk BE, Marais W, Portwig M. Chro-\nmone and aloin derivatives from Aloe broomii, A. africana and A\nspeciosa . Phytochemistry 1997; 45: 97 – 102",
+          "reading_order": 27
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            359,
+            622,
+            379
+          ],
+          "text": "17 Huang L, Yu DQ, UV spectrum in organic chemistry Beijing: Science\nPress: 1988; 277 – 80",
+          "reading_order": 28
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            382,
+            623,
+            412
+          ],
+          "text": "18 Okamura N, Hine N, Harada S, Fujioka,Mihashi K, Yagi A. Three chro-\nmone components from Aloe vera leaves. Phytochemistry 1996; 43:\n495–8",
+          "reading_order": 29
+        },
+        {
+          "label": "para",
+          "bbox": [
+            353,
+            412,
+            624,
+            431
+          ],
+          "text": "19 Xiao ZY, Chen DH, Si JY, Tu GZ, Ms LB. The chemical constituents of Aloe\nvera L. Acta Pharm Sin 2000: 35: 120 – 3",
+          "reading_order": 30
+        },
+        {
+          "label": "para",
+          "bbox": [
+            352,
+            431,
+            624,
+            456
+          ],
+          "text": "20 Gao B,Yao CS, Zhou JY, Chen RY, Fang WS. Active constituents from Aloe\narborescens as BACE inhibitors. Acta Pharm Sin 2006; 41: 1000–3",
+          "reading_order": 31
+        },
+        {
+          "label": "para",
+          "bbox": [
+            352,
+            456,
+            622,
+            486
+          ],
+          "text": "21 Abbenante G, Kovacs DM, Leung DL, Craik DJ, Tanzi RE, Fairlie DP. Inhib-\nitors of β -amyloid formation based on the β -secretase cleavage site\nBiochem Biophys Res Commun 2000; 268: 133 – 5",
+          "reading_order": 32
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            362,
+            869,
+            623,
+            880
+          ],
+          "text": "Lv Let al. BACE1 (β-Secretase) Inhibitory… Planta Med 2008; 74:540-545",
+          "reading_order": 33
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            658,
+            298,
+            672,
+            585
+          ],
+          "text": "Downloaded by: University of British Columbia. Copyrighted material.",
+          "reading_order": 34
+        }
+      ]
+    }
+  ]
+}

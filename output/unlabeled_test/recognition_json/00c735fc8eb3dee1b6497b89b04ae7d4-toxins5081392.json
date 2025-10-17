@@ -1,0 +1,1276 @@
+{
+  "source_file": "./dataset/unlabeled_test/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392.pdf",
+  "total_pages": 11,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            53,
+            337,
+            71
+          ],
+          "text": "Toxins 2013, 5, 1392-1401; doi:10.3390/toxins5081392",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            505,
+            71,
+            576,
+            80
+          ],
+          "text": "OPEN ACCESS",
+          "reading_order": 1
+        },
+        {
+          "label": "title",
+          "bbox": [
+            478,
+            92,
+            580,
+            119
+          ],
+          "text": "toxins",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            494,
+            125,
+            579,
+            143
+          ],
+          "text": "ISSN 2072-6651",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            424,
+            143,
+            576,
+            157
+          ],
+          "text": "www.mdpi.com/journal/toxin",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            161,
+            93,
+            172
+          ],
+          "text": "Review",
+          "reading_order": 5
+        },
+        {
+          "label": "title",
+          "bbox": [
+            48,
+            188,
+            505,
+            232
+          ],
+          "text": "Earthworm-Derived Pore-Forming Toxin Lysenin and\nScreening of Its Inhibitors",
+          "reading_order": 6
+        },
+        {
+          "label": "author",
+          "bbox": [
+            48,
+            247,
+            317,
+            263
+          ],
+          "text": "Neelanun Sukumwang ${ }^{1}$ and Kazuo Umezawa ${ }^{2, *}$",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            277,
+            523,
+            313
+          ],
+          "text": "1 Department of Applied Chemistry, Faculty of Science and Technology, Keio University,\nKanagawa 223-8522, Japan; E-Mail: neela_nun@hotmail.com",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            313,
+            532,
+            349
+          ],
+          "text": "2 Department of Molecular Target Screening, School of Medicine, Aichi Medical University\nNagakute, Aichi 481-1195, Japan",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            365,
+            541,
+            395
+          ],
+          "text": "* Author to whom correspondence should be addressed; E-Mail: umezawa@aichi-med-u.ac.jp\nTel.: +81-561-62-3311; Fax: +81-561-61-1959.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            412,
+            464,
+            430
+          ],
+          "text": "Received: 10 June 2013; in revised form: 8 July 2013 / Accepted: 31 July 2013 /",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            430,
+            184,
+            448
+          ],
+          "text": "Published: 8 August 2013",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            82,
+            483,
+            552,
+            692
+          ],
+          "text": "Abstract: Lysenin is a pore-forming toxin from the coelomic fluid of earthworm\nEisenia foetida . This protein specifically binds to sphingomyelin and induces erythrocyte\nlysis. Lysenin consists of 297 amino acids with a molecular weight of 41 kDa. We\nscreened for cellular signal transduction inhibitors of low molecular weight from\nmicroorganisms and plants. The purpose of the screening was to study the mechanism of\ndiseases using the obtained inhibitors and to develop new chemotherapeutic agents acting\nin the new mechanism. Therefore, our aim was to screen for inhibitors of Lysenin-induced\nhemolysis from plant extracts and microbial culture filtrates. As a result, we isolated\nall- E -lutein from an extract of Dalbergia latifolia leaves. All- E -lutein is likely to inhibit the\nprocess of Lysenin-membrane binding and/or oligomer formation rather than pore formation.\nAdditionally, we isolated tyrosylproline anhydride from the culture filtrate of Streptomyces\nas an inhibitor of Lysenin-induced hemolysis.",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            82,
+            707,
+            550,
+            744
+          ],
+          "text": "Keywords: Lysenin; Eisenia foetida; hemolysis; pore formation; sphingomyelin binding;\nDalbergia latifolia; all-E-lutein; tyrosylproline anhydride",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            50,
+            128,
+            62
+          ],
+          "text": "Toxins 2013, 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            558,
+            51,
+            585,
+            62
+          ],
+          "text": "1393",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            88,
+            128,
+            98
+          ],
+          "text": "1. Introduction",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            116,
+            585,
+            206
+          ],
+          "text": "Pore-forming toxins are mainly produced as soluble proteins. The pore-forming toxins typically\ntransform from soluble, monomeric proteins to oligomers that form transmembrane channels. The\nmonomeric form of the toxin is bound to the membrane where its oligomerization is induced. This\nprocess generates stable target membrane insertion, resulting in the transmembrane pore formation.\nThis effect depends on the concentrations of toxins and the distance from the site of production [1] .",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            206,
+            585,
+            349
+          ],
+          "text": "Many pore-forming toxins have been discovered in various organisms, including prokaryotes and\neukaryotes [2] . Bacterial pore-forming toxins include a cholesterol-dependent toxin (streptolysin O)\nfrom Streptococcus pyogenes , cytolysins from Escherichia coli , aerolysin from Aeromonas hydrophila , a\ntoxin from Staphylococcus aureus , and hemolysin from Clostridium septicum and Vibrio cholerae [3] .\nPore-forming toxins are also observed in animals, such as that in the sea anemone named\nMetridium senile [4] . Cytolysin is a toxin from Actinia equine [5] , and hydralysin is secreted from\ngreen hydra named Chlorohydra viridissima [6] . Considering plant sources, enterolobin is a toxin\ngenerated in Enterolobium contortisiliquum [7] .",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            349,
+            585,
+            474
+          ],
+          "text": "A number of pore-forming toxins have been found to interact with sphingomyelin. For example,\nsticholysin I and II secreted from Stichodactyla helianthus , cytolysin from Vibrio cholerae ,\npleurotolysin from the Pleurotus ostreatus mushroom, Lysenin from the earthworm Eisenia foetida , all\nprefer sphingomyelin-containing membrane to form pores [8] . Lysenin is a hemolytic protein derived\nfrom the coelomic fluid of the Eisenia foetida earthworm. This protein is known to bind\nsphingomyelin specifically and induce lysis of erythrocytes. However, the precise mechanisms of\nLysenin-induced hemolysis remain to be elucidated.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            474,
+            585,
+            727
+          ],
+          "text": "We also screened for cellular signal transduction inhibitors of low molecular weight from\nmicroorganisms and plants. Microorganisms and plants produce many bioactive metabolites of low\nmolecular weight with unique structures. The purpose of the screening was to study the mechanism of\ndiseases using the obtained inhibitors and to develop new chemotherapeutic agents acting in the new\nmechanism. Previously, we isolated protein-tyrosine kinase inhibitors, protein-tyrosine phosphatase\ninhibitors, anti-Ras compounds, and NF-κB inhibitors. These inhibitors all ameliorated disease models\nin animals. Screening for inhibitors of Lysenin-induced hemolysis would be one of the possible\napproaches to better understand the mechanism of Lysenin's action. Inhibitors of Lysenin-induced\nhemolysis may be useful as anti-inflammatory agents. Moreover, Lysenin should activate innate\nimmunity by disturbing the target membrane structure, especially if it is a sphingomyelin-binding\nprotein. Thus, Lysenin and the newly found inhibitors should be useful in studying the mechanism of\ninflammatory diseases, and additionally, inhibitors of Lysenin-induced hemolysis may be useful as\nanti-inflammatory agents. Therefore, we have aimed at screening inhibitors of Lysenin-induced\nhemolysis from plant extracts and microbial culture filtrates.",
+          "reading_order": 6
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            743,
+            326,
+            761
+          ],
+          "text": "2. Structure of Lysenin and Induction of Hemolysin",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            770,
+            585,
+            825
+          ],
+          "text": "Lysenin was cloned in 1997 for determining the protein that induces contraction of rat vascular\nsmooth muscle from the coelomic fluid of Eisenia foetida [9] . The protein was then reported as a\nsphingomyelin-binding protein [10] . Injection of the coelomic fluid supernatant into the vein of rats,",
+          "reading_order": 8
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            50,
+            128,
+            62
+          ],
+          "text": "Toxins 2013, 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            558,
+            51,
+            585,
+            62
+          ],
+          "text": "1394",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            87,
+            585,
+            317
+          ],
+          "text": "mice and quails induces death, and the active principle is also Lysenin [11] . This earthworm is\ncategorized in a subclass of Oligochaeta in the phylum of Annelida [12] . Eisenia foetida ejects its\ncoelomic fluid when attacked or stimulated, as shown in Figure 1 . Lysenin is a pore-forming toxin\nexisting in the coelomic fluid of the earthworm Eisenia foetida . This protein specifically binds to\nsphingomyelin and induces erythrocyte lysis. Lysenin consists of 297 amino acids with a molecular\nweight of 41 kDa. Lysenin induces hemolysis and is toxic to vertebrate spermatozoa, amphibian\nlarvae, and cultured mammalian cells, such as normal spleen cells, colon cancer cells, and breast\ncancer cells, and also amphibian larvae [10,13–15] . Opper et al. demonstrated by flow cytometry and\nimmunocytochemistry that the highest amount of lysenin is expressed in the cell called chloragocytes,\nwhich is one subgroup of earthworm immune cells also called coelomocyte [16] . Recently, the\nstructure of Lysenin was studied by crystallographic analysis, and Colibus et al. have suggested it\nshares a common ancestry with other pore-forming proteins from a diverse set of eukaryotes and\nprokaryotes [17] .",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392_page_003_figure_003.png)",
+          "figure_path": "figures/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392_page_003_figure_003.png",
+          "bbox": [
+            164,
+            358,
+            469,
+            654
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            155,
+            331,
+            478,
+            349
+          ],
+          "text": "Figure 1. Earthworm Eisenia foetida ejecting coelomic fluid.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            663,
+            585,
+            717
+          ],
+          "text": "In the coelomic fluid, Lysenin consists of a family of proteins together with Lysenin-related\nprotein1 and Lysenin-related protein2 [9] . The sequence of amino acids of Lysenin is more\nhomologous to that of Lysenin-related protein2 than that of Lysenin-related protein1.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            722,
+            585,
+            826
+          ],
+          "text": "Lysenin can induce hemolysis, and the Lysenin-induced hemolysis occurs in a\ntemperature-dependent and dose-dependent manner as evidenced by previous studies [10,18] . The\namount of sphingomyelin in the membrane also affects hemolysis induction by Lysenin [10] . Lysenin\ncontains six tryptophan residues and five of them are conserved in Lysenin-related protein1 and\nLysenin-related protein2. Recent studies have shown that conserved tryptophan could be important in\nthe recognition of sphingomyelin and hemolytic activity [19] .",
+          "reading_order": 6
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            50,
+            128,
+            62
+          ],
+          "text": "Toxins 2013, 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            558,
+            51,
+            585,
+            62
+          ],
+          "text": "1395",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            87,
+            585,
+            190
+          ],
+          "text": "The interaction of Lysenin to erythrocyte membranes containing sphingomyelin occurs in three\nstages, in which the initial stage is attachment of Lysenin to sphingomyelin of the target membrane;\nthe second stage, the formation of oligomers that induce an increase in membrane permeability; and\nthe final stage, the formation of the mature pores on the membrane inducing hemolysis (Figure 2).\nPore formation depends on environment temperature. Cell lysis occurs more easily at 37 °C compared\nto that at 4 °C. The membrane pore size formed by Lysenin is estimated at around 3 nm [18] .",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392_page_004_figure_003.png)",
+          "figure_path": "figures/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392_page_004_figure_003.png",
+          "bbox": [
+            110,
+            232,
+            478,
+            448
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            218,
+            206,
+            415,
+            224
+          ],
+          "text": "Figure 2. Pore formation by Lysenin.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            456,
+            585,
+            602
+          ],
+          "text": "Recently, many researchers from various fields have attempted to clarify the mechanisms of\nhemolysis induced by Lysenin. A study by Ishitsuka and Kobayashi demonstrated that cholesterol and\nsphingomyelin/Lysenin ratio influenced oligomerization [20] . Binding of Lysenin to sphingomyelin\nwas inhibited by the presence of glycolipid, thus hemolysis decreased [21] . An electrophysiological\ninvestigation showed that Lysenin molecules formed voltage-dependent ion-channels in artificial lipid\nbilayer membranes. Moreover, some of the lipid components in the membrane bilayer influenced the\nchannel activity [22] . It was suggested that an $\\alpha$ -helix portion of Lysenin would be a possible\nmembrane inserting fragment of the protein [23] .",
+          "reading_order": 5
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            618,
+            452,
+            636
+          ],
+          "text": "3. Isolation of All- $E$-Lutein as an Inhibitor of Lysenin-Induced Hemolysis",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            645,
+            585,
+            718
+          ],
+          "text": "For the evaluation of hemolytic activity, we incubated 3 × 10 7 cells/mL packed sheep erythrocytes\nwith 50 ng/mL Lysenin at 37 °C for 30 min, with or without screening sample. A total of 1030 samples\nof plant extracts and microbial culture filtrates were screened for inhibitors of\nLysenin-induced hemolysis.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            723,
+            585,
+            827
+          ],
+          "text": "As a result, we found a botanical product of Dalbergia latifolia (Indian rosewood) as a possible\ninhibitor. A methanolic extract of Dalbergia latifolia leaves showed strong inhibitory activity toward\nLysenin-induced hemolysis [24] . The active substance was isolated from the raw materials as an\norange solid by using solvent extraction and chromatographic separation procedures. The UV-Vis\nspectra showed absorption maxima in MeOH at 270, 335, 420(sh), 447 and 475 nm. The positive ion\nmode of MS-ESI showed the base peak at m/z 551.4, corresponding to the $\\left[\\mathrm{M}+\\mathrm{H}-\\mathrm{H}_{2} \\mathrm{O}\\right]^{+}$ , and",
+          "reading_order": 8
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            44,
+            128,
+            62
+          ],
+          "text": "Toxins 2013, 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            558,
+            51,
+            585,
+            62
+          ],
+          "text": "1396",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            80,
+            585,
+            136
+          ],
+          "text": "HR-ESI-MS (pos) showed m/z 568.4299 (M + ) (calcd. for C $_{40}$ H $_{56}$ O $_2$ , 568.4275). These NMR data were\nalmost identical with those of the known carotenoid, all- E -lutein [25,26] . Finally, the active compound\nwas identified as all- E -lutein (Figure 3 ) in good agreement with previously published data [25–27] .",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392_page_005_figure_003.png)",
+          "figure_path": "figures/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392_page_005_figure_003.png",
+          "bbox": [
+            110,
+            215,
+            523,
+            492
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            83,
+            152,
+            551,
+            200
+          ],
+          "text": "Figure 3. (A) All- E -Lutein; (B) All- E -lutein-producing plant Dalbergia latifolia . It\nbelongs to the family of Fabaceae (Leguminosae ), and is commonly called East Indian\nrosewood or black rosewood",
+          "reading_order": 4
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            501,
+            379,
+            519
+          ],
+          "text": "4. Lysenin-Induced Hemolysis and the Effect of All-E-Lutein",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            528,
+            585,
+            674
+          ],
+          "text": "Lysenin induced hemolysis at 10–100 ng/mL, as shown in Figure 4 A. The hemolysis result was\ncompared to that of polyoxypeptin A (as positive control). As shown in Figure 4 B, all- E -lutein\ninhibited the Lysenin-induced hemolysis dose dependently at 0.025–2.5 ng/mL. PEG 4000 and dextran\n4 are known to be hemolysis inhibitors [18] , and they perfectly inhibited the Lysenin-induced\nhemolysis at 30 mM. Inhibition of Lysenin-induced hemolysis by all- E -lutein is likely to be specific,\nsince it did not inhibit the polyoxypeptin A-induced hemolysis (Figure 4 C). Although dextran 4 did not\ninhibit the polyoxypeptin A-induced hemolysis, PEG 4000 partially inhibited (about 20 % ) the\npolyoxypeptin A-induced hemolysis at 30 mM.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            674,
+            585,
+            836
+          ],
+          "text": "Lysenin binds and forms oligomers on membranes of erythrocytes, and these steps are\ntemperature-independent processes that can occur at 4 ° C. In contrast, the pore formation is induced\nonly at 37 °C. First, the effect of all- E -lutein on the membrane-binding process and oligomer\nformation was evaluated. Sheep erythrocytes in the presence of all- E -lutein were incubated with\nLysenin 50 ng/mL at 4 °C. Then the cells were incubated without all- E -lutein. Hemolysis was\nobviously inhibited by all- E -lutein, possibly by suppressing the Lysenin-membrane binding and/or\noligomer formation processes. Because PEG 4000 and dextran 4 inhibit hemolysis in a pore\nsize-dependent manner [18] , these inhibitors did not inhibit the Lysenin-membrane binding and/or\noligomer formation processes. Next, the effect of all- E -lutein on Lysenin-induced pore formation was",
+          "reading_order": 7
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            44,
+            128,
+            62
+          ],
+          "text": "Toxins 2013, 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            558,
+            51,
+            585,
+            62
+          ],
+          "text": "1397",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            87,
+            585,
+            154
+          ],
+          "text": "evaluated. Sheep erythrocytes were preincubated with Lysenin without all- E -lutein, resuspended, and\nthen treated with all- E -lutein in the presence of Lysenin at 37 ° C. The all- E -lutein did not inhibit the\nhemolysis in this procedure. PEG 4000 and dextran 4 inhibited pore formation. This result indicates\nthat the pore-formation process mediated by Lysenin was not affected by all- E -lutein.",
+          "reading_order": 2
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392_page_006_figure_003.png)",
+          "figure_path": "figures/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392_page_006_figure_003.png",
+          "bbox": [
+            110,
+            250,
+            532,
+            636
+          ],
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            82,
+            170,
+            552,
+            241
+          ],
+          "text": "Figure 4. ( A ) Induction of hemolysis by Lysenin in sheep red blood cells; ( B ) Inhibition of\nLysenin-induced hemolysis by all- E -lutein. PEG 4000 and dextran 4 are known inhibitors\nof hemolysis; ( C ) All- E -lutein does not inhibit polyoxypeptin A-induced hemolysis. The\nData are mean ± S.D. of experiment performed in triplicate. (* p < 0 . 05, ** p < 0 . 01).",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            654,
+            585,
+            815
+          ],
+          "text": "Dalbergia latifolia is a plant in the family of Fabaceae . It is a premium-quality timber species\nknown as “ Indian rosewood\", which is widely used for manufacturing furniture and ornamental\nproducts. This plant is also known to be useful against termites [28] , as well as a medicinal plant for\nthe treatment of diarrhea, indigestion, and spermatorrhoea [29] . Dalbergia latifolia leaves have been\nused in folk medicine. The whole of Dalbergia latifolia can be used to treat against infection by\nparasitic worms (helminths) [30] , and a methanolic extract of the leaves also has an inhibitory effect on\nnitric oxide production in lipopolysaccharide-stimulated RAW 264.7 cells [31] . In addition to\nall- E -lutein, Dalbergia latifolia is known to be a source of latifolin, 4-methoxydalbergione,\nobtusaquinol, and dalbergiphenol, which are used for treatment against termites and fungi [28] . Thus,",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            50,
+            128,
+            62
+          ],
+          "text": "Toxins 2013, 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            558,
+            51,
+            585,
+            62
+          ],
+          "text": "1398",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            87,
+            585,
+            118
+          ],
+          "text": "our results suggest all- $E$ -lutein to be another active compound derived from Dalbergia latifolia leaves,\nthis one being an inhibitor of Lysenin-induced hemolysis.",
+          "reading_order": 2
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            134,
+            525,
+            152
+          ],
+          "text": "5. Isolation of Tyrosylproline Anhydride as an Inhibitor of Lysenin-Induced Hemolysis",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            161,
+            585,
+            378
+          ],
+          "text": "We continued screening Lysenin-induced hemolysis inhibitors from the culture filtrate of\nmicroorganisms employing the same assay system. After testing about 550 samples, we found a\npositive effect in the culture filtrate from the Streptomyces sample. The positive sample of 750 mL\nculture filtrate was extracted with butanol and dried, resulting in 680 mg of yellow residue. Then, the\nresidue was applied to a silica gel column, LH20 column, and HPLC to give 3 mg of pure compound\nA. The active principle (compound A) was isolated with several chromatographs, and the structure was\ndetermined by mass spectra, NMR spectra including proton, carbon-13, DEPT, COSY, HMQC, and\nHMBC. Finally, compound A was determined to be tyrosylproline anhydride, as shown in Figure 5 A.\nThe absolute structure of compound A remains to be determined. This compound inhibited the\nhemolysis at 15–50 ng/mL, as shown in Figure 5 B. Each fragment, tyrosine or proline, showed no\neffect (Figure 5 C). l-Tyr-l-Pro anhydride was named as maculosin, and it is produced by Alternaria\nalternata , spotted knapweed [32] . It shows phytotoxic and antibiotic activities.",
+          "reading_order": 4
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392_page_007_figure_005.png)",
+          "figure_path": "figures/00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392_page_007_figure_005.png",
+          "bbox": [
+            57,
+            474,
+            567,
+            743
+          ],
+          "reading_order": 5
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            82,
+            394,
+            551,
+            465
+          ],
+          "text": "Figure 5. ( A ) Tyrosylproline anhydride; ( B ) Inhibition of Lysenin-induced hemolysis by\ntyrosylproline anhydride; ( C ) Neither tyrosine nor proline inhibits Lysenin-induced\nhemolysis. The Data are mean ± S.D. of experiment performed in triplicate. (* p < 0 . 05,\n** p < 0 . 01)",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            761,
+            585,
+            797
+          ],
+          "text": "Thus, we have found that tyrosylproline anhydride from Streptomyces inhibits Lysenin-induced\nhemolysis. This may be a new activity of maculosin.",
+          "reading_order": 7
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            50,
+            128,
+            62
+          ],
+          "text": "Toxins 2013, 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            558,
+            51,
+            585,
+            62
+          ],
+          "text": "1399",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            87,
+            131,
+            98
+          ],
+          "text": "6. Conclusions",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            116,
+            585,
+            295
+          ],
+          "text": "Lysenin is a pore-forming protein derived from the coelomic fluid of the Eisenia foetida earthworm.\nThis protein can effectively induce hemolysis in sheep red blood cells. We have screened low\nmolecular weight inhibitors of Lysenin-induced hemolysis using sheep red blood cells from plants and\nmicroorganisms. As a result, we isolated all- $E$ -lutein from the extract of Dalbergia latifolia leaves.\nAll- $E$ -lutein likely inhibits the process of Lysenin-membrane binding and/or oligomer formation,\nrather than pore formation. We have isolated trosylproline anhydride from the culture filtrate of\nStreptomyces as an inhibitor of Lysenin-induced hemolysis. Since pore-forming melittin and\nStaphylococcal delta hemolysin [33] are inflammatory agents, Lysenin is likely to be an inflammatory\nagent. These inhibitors may be useful in understanding the mechanism of Lysenin action, and\nfurthermore, they may be useful as anti-inflammatory agents.",
+          "reading_order": 3
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            312,
+            155,
+            324
+          ],
+          "text": "Acknowledgments",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            340,
+            585,
+            465
+          ],
+          "text": "The authors thank Hiromi Matsuoka for his excellent experimental work for isolation and\ncharacterization of tyrosylproline anhydride. The authors also thank members of Pharmaceutical\nResearch Center, Meiji Seika Pharma Co. for MS analyses. The work described in this report was\nsupported in part by grants from the programs Grants-in-Aid for Scientific Research (B) of the\nMinistry of Education, Culture, Sports, Science and Technology (MEXT) of Japan, and from the\nMEXT-Supported Program for the Strategic Research Foundation at Private Universities, which is for\nAichi Medical University 2011–2015 (S1101027).",
+          "reading_order": 5
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            482,
+            156,
+            492
+          ],
+          "text": "Conflict of Interest",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            510,
+            281,
+            522
+          ],
+          "text": "The authors declare no conflict of interest",
+          "reading_order": 7
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            543,
+            112,
+            555
+          ],
+          "text": "References",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            573,
+            585,
+            602
+          ],
+          "text": "1. Bashford, C.L. Pore-forming toxins: Attack and defence at the cell surface. Cell Biol. Mol. Lett.\n2001 , 6 , 328–333.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            609,
+            585,
+            641
+          ],
+          "text": "2. Bernheimer, A.W.; Rudy, B. Interactions between membranes and cytolytic peptides.\nBiochim. Biophys. Acta 1986 , 864 , 123–141.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            645,
+            585,
+            692
+          ],
+          "text": "3. Huffman, D.L.; Abrami, L.; Sasik, R.; Corbeil, J.; van der Goot, F.G.; Aroian, R.V.\nMitogen-activated protein kinase pathways defend against bacterial pore-forming toxins.\nProc. Natl. Acad. Sci. USA 2004 , 101 , 10995–11000.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            698,
+            585,
+            734
+          ],
+          "text": "4. Aneiros, A.; Garateix, A. Bioactive peptides from marine sources: Pharmacological properties and\nisolation procedures. J. Chromatogr. B 2004 , 803 , 41–53.",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            734,
+            585,
+            788
+          ],
+          "text": "5. Anderluh, G.; Barlicľ, A.; Podlesek, Z.; Maclek, P.; Pungerclar, J.; Gubenslek, F.;\nZecchini, M.L.; Serra, M.D.; Menestrina, G. Cysteine-scanning mutagenesis of an eukaryotic\npore-forming toxin. Eur. J. Biochem. 1999 , 263 , 128–136.",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            788,
+            585,
+            837
+          ],
+          "text": "6. Sher, D.; Fishman, Y.; Zhang, M.; Lebendiker, M.; Gaathon, A.; Mancheno, J.M.; Zlotkin, E.\nHydralysins, a new category of β-pore-forming toxins in cnidaria. J. Biol. Chem. 2005 , 280 ,\n22847–22855.",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            50,
+            128,
+            62
+          ],
+          "text": "Toxins 2013, 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            558,
+            51,
+            585,
+            62
+          ],
+          "text": "1400",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            87,
+            460,
+            100
+          ],
+          "text": "7. Gilbert, R.J.C. Pore-forming toxins. Cell Mol. Life. Sci. 2002, 59, 832-844",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            100,
+            585,
+            136
+          ],
+          "text": "8. Shogomori, H.; Kobayashi, T. Lysenin: A sphingomyelin specific pore-forming toxin.\nBiochim. Biophys. Acta 2008, 1780, 612-618.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            141,
+            585,
+            188
+          ],
+          "text": "9. Sekizawa, Y.; Kubo, T.; Kobayashi, H.; Nakajima, T.; Natori, S. Molecular cloning of cDNA for\nlysenin, a novel protein in the earthworm Eisenia foetida that causes contraction of rat vascular\nsmooth muscle. Gene 1997 , 191 , 97–102.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            195,
+            585,
+            226
+          ],
+          "text": "10. Yamaji, A.; Sekizawa, Y.; Emoto, K.; Sakuraba, H.; Inoue, K.; Kobayashi, H.; Umeda, M.\nLysenin, a novel sphingomyelin-specific binding protein. J. Biol. Chem. 1998 , 273 , 5300–5306.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            231,
+            585,
+            277
+          ],
+          "text": "11. Procházková, P.; Silerová, M.; Felsberg, J.; Josková, R.; Beschin, A.; de baetselier, P.; Bilej, M.\nRelationship between hemolytic molecules in Eisenia fetida earthworms. Dev. Comp. Immunol.\n2006 , 30 , 381–392.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            286,
+            585,
+            335
+          ],
+          "text": "12. Kobayashi, H.; Ohtomi, M.; Sekizawa, Y.; Ohta, N. Toxicity of coelomic fluid of the earthworm\nEisenia foetida to vertebrates but not invertebrates: Probable role of sphingomyelin.\nComp. Biochem. Physiol. Part C 2001 , 128 , 401–411.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            340,
+            585,
+            404
+          ],
+          "text": "13. Hanada, K.; Hara, T.; Fukasawa, M.; Yamaji, A.; Umeda, M.; Nishijima, M. Mammalian cell\nmutants resistant to a sphingomyelin-directed cytolysin genetic and biochemical evidence for\ncomplex formation of the LCB1 protein with the LCB2 Protein for serine palmitoyltransferase.\nJ. Biol. Chem. 1998 , 273 , 33787–33794.",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            412,
+            585,
+            459
+          ],
+          "text": "14. Kobayashi, H.; Sekizawa, Y.; Aizu, M.; Umeda, M. Lethal and non-lethal responses of\nspermatozoa from a wide variety of vertebrates and invertebrates to lysenin, a protein from the\ncoelomic fluid of the earthworm. J. Cell. Biol. 2000 , 286 , 538–549.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            465,
+            585,
+            513
+          ],
+          "text": "15. Kobayashi, H.; Suzuki, H.; Ohta, N. Exfoliation of the epidermal cells and defecation by\namphibian larvae in response to coelomic fluid and lysenin from the earthworm Eisenia foetida .\nBiomed. Res. 2006 , 27 , 169–181.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            519,
+            585,
+            552
+          ],
+          "text": "16. Opper, B.; Bognár, A.; Heidt, D.; Németh, P.; Engelmann, P. Revising lysenin expression of\nearthworm coelomocytes. Dev. Comp. Immunol. 2013 , 39 , 214–218.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            555,
+            585,
+            627
+          ],
+          "text": "17. De Colbis, L.; Sonnen, A.F.-P.; Morris, K.J.; Siebert, A.; Abrusci, P.; Plitzko, J.; Hodnik, V.;\nLeippe, M.; Volpi, E.; Anderluh, G.; Gilbert, R.J.C. Structures of lysenin reveal a shared\nevolutionary origin for pore-forming proteins and its mode of sphingomyelin recognition.\nStructure 2012 , 20 , 1498–1507.",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            627,
+            585,
+            680
+          ],
+          "text": "18. Yamaji-Hasegawa, A.; Makino, A.; Baba, T.; Senoh, Y.; Kimura-Suda, H.; Sato, S.B.; Terada, N.;\nOhno, S.; Kiyokawa, E.; Umeda, M.; et al Oligomerization and pore Formation of a\nsphingomyelin-specific toxin, lysenin. J. Biol. Chem. 2003 , 278 , 22762–22770.",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            680,
+            585,
+            730
+          ],
+          "text": "19. Kiyokawa, E.; Makino, A.; Ishii, K.; Otsuka, N.; Yamaji-Hasegawa, A.; Kobayashi, T.\nRecognition of sphingomyelin by lysenin and lysenin-related proteins. Biochemistry 2004 , 43 ,\n9766–9773.",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            734,
+            585,
+            770
+          ],
+          "text": "20. Ishitsuka, R.; Kobayashi, T. Cholesterol and lipid/protein ratio control the oligomerization of a\nsphingomyelin-specific toxin, lysenin. Biochemistry $\\mathbf{2 0 0 7}, 46,1495-1502$.",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            770,
+            585,
+            824
+          ],
+          "text": "21. Ishitsuka, R.; Yamaji-Hasegawa, A.; Makino, A.; Hirabayashi, T.; Kobayashi, T. A lipid-specific\ntoxin reveals heterogeneity of sphingomyelin-containing membranes. Biophys. J. 2004, 86 ,\n296–307.",
+          "reading_order": 16
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            48,
+            50,
+            128,
+            62
+          ],
+          "text": "Toxins 2013, 5",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            558,
+            51,
+            577,
+            62
+          ],
+          "text": "1401",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            87,
+            585,
+            118
+          ],
+          "text": "22. Ide, T.; Aoki, T.; Takeuchi, Y.; Yanagida, T. Lysenin forms a voltage-dependent channel in\nartificial lipid bilayer membranes. Biochem. Biophys. Res. Commun. 2006 , 346 , 288–292.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            123,
+            585,
+            172
+          ],
+          "text": "23. Here c,  ́ M.; Gago s,  ́ M.; Kulma, M.; Kwiatkowska, K.; Sobota, A.; Gruszecki, W.I. Secondary\nstructure and orientation of the pore-forming toxin lysenin in a sphingomyelin-containing\nmembrane. Biochim. Biophys. Acta 2008 , 1778 , 872–879.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            177,
+            585,
+            226
+          ],
+          "text": "24. Niwa, Y.; Matsui, C.; Sukumwang, N.; Iinuma, H.; Ikeda, Y.; Koyano, T.; Kovitayakorn, T.;\nSimizu, S.; Umezawa, K. Inhibition of lysenin-induced hemolysis by all-E-lutein derived from the\nplant Dalbergia latifolia. Planta Med. 2012 , 78 , 957–961.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            231,
+            585,
+            277
+          ],
+          "text": "25. Dachtler, M.; Glaser, T.; Kohler, K.; Albert, K. Combined HPLC-MS and HPLC-NMR on-line\ncoupling for the separation and determination of lutein and zeaxanthin stereoisomers in spinach\nand in Retina, Anal. Chem. 2001 , 73 , 667–674.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            286,
+            585,
+            335
+          ],
+          "text": "26. Khachik, F.; Englert, G.; Daitch, C.E.; Beecher, G.R.; Tonucci, L.H.; Lusby, W.R. Isolation and\nstructural elucidation of the geometrical isomers of lutein and zeaxanthin in extracts from human\nplasma. J. Chromatogr. 1992 , 582 , 153–166.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            340,
+            585,
+            370
+          ],
+          "text": "27. Mercadante, A.Z.; Steck, A.; Pfander, H. Carotenoids from Guava (Psidium guajaca L.): Isolation\nand structure elucidation. J. Agric. Food. Chem. 1999 , 47 , 145–151.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            376,
+            585,
+            422
+          ],
+          "text": "28. Sekine, N.; Ashitani, A.; Murayama, T.; Shibutani, S.; Hattori, S.; Takahashi, K. Bioactivity of\nlatifolin and its derivatives against termites and fungi. J. Agric. Food. Chem. 2009 , 57 ,\n5707–5712.",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            430,
+            585,
+            461
+          ],
+          "text": "29. Ekka, N.R.; Dixit, V.K. Ethno-pharmacognostical studies of medicinal plants of jashpur district\n(Chhattisgarh). Int. J. Green Pharm. 2007 , 1 , 2–4.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            465,
+            585,
+            501
+          ],
+          "text": "30. Joy, P.P.; Thomas, J.; Mathew, S.; Skaria, B.P. Medicinal Plants; Kerala Agricultural University:\nKerala, India, 1998; p. 191.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            501,
+            585,
+            537
+          ],
+          "text": "31. Choi, E.M.; Hwang, J.K. Screening of indonesian medicinal plants for inhibitor activity on nitric\noxide production of RAW264.7 cells and antioxidant activity. Fitoterapia 2005, 76, 194-203.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            537,
+            585,
+            573
+          ],
+          "text": "32. Stierle, A.C.; Cardellina, J.H., II; Stobel, G.A. Maculosin, a host-specific phytotoxin for spotted\nknapweed Alternaria alternata. Proc. Natl. Acad. Sci. USA 1988 , 85 , 8008 – 8011.",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            573,
+            585,
+            627
+          ],
+          "text": "33. Umezawa, K.; Weinstein, B.; Shaw, W.V. Staphylococcal delta-hemolysin inhibits cellular\nbinding of epidermal growth factor and induces arachidonic acid release. Biochem. Biophys. Res.\nCommun. 1980 , 94 , 625–629.",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            636,
+            585,
+            691
+          ],
+          "text": "© 2013 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access article\ndistributed under the terms and conditions of the Creative Commons Attribution license\n(http://creativecommons.org/licenses/by/3.0/).",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "label": "para",
+          "bbox": [
+            75,
+            77,
+            550,
+            120
+          ],
+          "text": "Copyright of Toxins is the property of MDPI Publishing and its content may not be copied or\nemailed to multiple sites or posted to a listserv without the copyright holder's express written\npermission. However, users may print, download, or email articles for individual use.",
+          "reading_order": 0
+        }
+      ]
+    }
+  ]
+}

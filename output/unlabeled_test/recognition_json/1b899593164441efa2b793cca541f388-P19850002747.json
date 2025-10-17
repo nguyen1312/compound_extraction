@@ -1,0 +1,501 @@
+{
+  "source_file": "./dataset/unlabeled_test/1b899593164441efa2b793cca541f388-P19850002747.pdf",
+  "total_pages": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            57,
+            40,
+            236,
+            53
+          ],
+          "text": "CHEM SOC PERKIN TRANS.1 1985",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            603,
+            42,
+            621,
+            53
+          ],
+          "text": "274",
+          "reading_order": 1
+        },
+        {
+          "label": "title",
+          "bbox": [
+            52,
+            89,
+            585,
+            125
+          ],
+          "text": "Structural Studies on Cyanoginosins-LR, -YR, -YA, and -YM, Peptide Toxins\nfrom Microcystis aeruginosa",
+          "reading_order": 2
+        },
+        {
+          "label": "author",
+          "bbox": [
+            53,
+            134,
+            388,
+            162
+          ],
+          "text": "Dawie P. Botes,\n* Philippus L. Wessels, and Helène Kruger\nNational Chemical Research Laboratory, CSIR, P.O. Box 395, Prei",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            52,
+            162,
+            571,
+            174
+          ],
+          "text": "Maria T. C. Runnegar 2018",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            53,
+            174,
+            533,
+            197
+          ],
+          "text": "Department of Biochemistry and Nutrition, University of New England, N.S.W. 2351, Australia\nSitthivet Santikarn, Richard J. Smith, Jennifer C. J. Barna, and Dudley H. Williams",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            53,
+            197,
+            415,
+            208
+          ],
+          "text": "University Chemical Laboratory, Lensfield Road, Cambridge CB2 1EW",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            93,
+            232,
+            621,
+            295
+          ],
+          "text": "The structures of the hepatotoxins of general name cyanoginosins-XY are proposed to be cyclo-D-Ala\nL-X-erythro-β-methyl-D-isoAsp-L-Y-Adda-D-isoGlu-N-methyldehydroAla (1) where X and Y repre\nsent variable amino acids and Adda is 3-amino-9-methoxy-2,6,8-trimethyl-10-phenyldeca-4,6\ndienoic acid (2). The structural studies on four variant toxins utilised n.m.r. and mass spectral method\nanalogous to those recently used to determine the structure of cyanoginosin-LA.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            109,
+            295,
+            460,
+            308
+          ],
+          "text": "0-Ala-l-X-erythro-β-Me-d-isoAsp-l-Y-Adda-d-isoGlu-N-Medha—",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            594,
+            295,
+            614,
+            307
+          ],
+          "text": "(1)",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            52,
+            329,
+            329,
+            456
+          ],
+          "text": "Cyanoginosin is a term we have recently suggested 1 to describe\na type of cyclic heptapeptide toxin of cyanobacterial origin. The\ncyanoginosins are produced by toxic strains of the freshwater\ncyanobacterium Microcystis aeruginosa . This is one of the\nspecies responsible for the poisoning of animals, including\nhumans, that drink water from reservoirs on which the algae\ngrow. We have recently described in detail 1 the structure of a\ntoxin from South Africa. We now report full or partial structures\nof four analogues of this toxin; three obtained from the same\nsource and one from a bloom of the same alga found in the\nMalpas Dam in New South Wales, Australia. 2",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            53,
+            465,
+            329,
+            684
+          ],
+          "text": "Amino Acid Content .— Amino acid analyses 3 and stereo-\nspecific enzymic transformations 4 had already shown that\ncyanoginosin-LR, -YR, and -YA all contained the same d-\namino acid residues, i.e. erythro - β -methylaspartic acid ( β -\nMeAsp), glutamic acid (Glu), and alanine (Ala). In addition, the\npresence of N -methyldehydroalanine ( N -Medha) had been\ndemonstrated 4 and the presence of a non-polar side-chain was\nsuspected from electrophoretic and u.v. studies and by analogy\nwith results obtained for cyanoginosin-LA (formerly named\ntoxin BE-4). 1 The two-letter suffixes indicate the L-amino acids\nfound in each toxin; namely, for -LR, leucine (Leu) and arginine\n(Arg); for -YR, tyrosine (Tyr) and Arg; for -YA, Tyr and Ala; and\nfor -YM, Tyr and methionine (Met). In the case of -YM, the\nchirality of the β -MeAsp was not previously known and the\npresence of N -Medha was only suspected because methylamine\nhad been found by amino acid analysis. 2 It was also known that\nthe toxins contained no free amino groups and that -YM\ncontained two free carboxy groups, one in each of the\ndicarboxylic acid residues. 2",
+          "reading_order": 11
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            55,
+            731,
+            164,
+            743
+          ],
+          "text": "Results and Discussion",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            53,
+            743,
+            329,
+            845
+          ],
+          "text": "Molecular Weights. — Fast-atom bombardment mass\nspectrometry (f.a.b.m.s.) showed the molecular weights of three\nof the toxins to be as follows: -YR, 1 044; -LR, 944; and -YM,\n1 035 daltons. Summing of the known amino acid residue\nweights indicated that the toxins probably all contained the\nunusual amino acid (2) found in cyanoginosin-LA. $^1$ (In the case\nof -YM this would only apply if it contained N -Medha.)\nAbsence of sequence ions in the spectra indicated that the toxins\nwere cyclic.",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            350,
+            330,
+            621,
+            364
+          ],
+          "text": "Residues in Cyanoginosin-YM .— The chirality of the I\nMeAsp was determined by gas chromatography – mass spectra\nmetry (g.c.m.s.), in the manner previously described, 1 to be D.",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            350,
+            364,
+            627,
+            421
+          ],
+          "text": "The presence of $N$ -Medha was demonstrated by means of\nreduction with NaBH 4 or NaBD 4 (giving molecular weight\nincreases of two and three daltons, respectively) followed by\nhydrolysis and g.c.m.s. which revealed $N$ -MeAla in the\nhydrolysate.",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            350,
+            421,
+            628,
+            456
+          ],
+          "text": "The presence of Met in its oxidised (sulphoxide) form was\nshown by the molecular weight loss of sixteen daltons following\ntreatment with 2-mercaptoethanol.",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            349,
+            465,
+            627,
+            647
+          ],
+          "text": "N.m.r. Data .— The presence of the unusual amino acid (2)\n(Adda) was strikingly demonstrated in all four toxins by the\nn.m.r. data. Chemical shifts and coupling constants agreed,\nwithin 0.05 p.p.m. and 0.3 Hz respectively, with those assigned\n(under the same conditions) to this residue in cyanoginosin-\nLA. 1 { Further evidence for the position of the methoxy\nsubstituent was obtained for -YM by the observation of an\nabundant fragment ion at m/z 135 [see structure (3)] in electron-\nimpact mass spectra (e.i.m.s.) } . Data for the other constant\nresidues ( i.e. the d-amino acids) were also in close agreement\nand the expected signals were seen for the variant, L-amino acid,\nresidues. $^1$ H N.m.r. spectroscopy was of most use in determining\nthe presence of Adda because the presence of the other residues\nwas adequately defined by previously obtained evidence.\nInformation about the linkage and sequence of the residues was\nobtained by other means.",
+          "reading_order": 17
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/1b899593164441efa2b793cca541f388-P19850002747_page_001_figure_018.png)",
+          "figure_path": "figures/1b899593164441efa2b793cca541f388-P19850002747_page_001_figure_018.png",
+          "bbox": [
+            397,
+            663,
+            594,
+            842
+          ],
+          "reading_order": 18
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            3,
+            176,
+            13,
+            537
+          ],
+          "text": "Published on 01 January 1985, Downloaded by Mount Allison University on 13/07/2015 03:14:27",
+          "reading_order": 19
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            361,
+            0,
+            648,
+            11
+          ],
+          "text": "View Article Online / Journal Homepage / Table of Contents for this issue",
+          "reading_order": 20
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            564,
+            8,
+            639,
+            17
+          ],
+          "text": "View Article Online",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            57,
+            42,
+            84,
+            53
+          ],
+          "text": "2748",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            451,
+            40,
+            630,
+            53
+          ],
+          "text": "J. CHEM. SOC. PERKIN TRANS. 1985",
+          "reading_order": 2
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            75,
+            89,
+            612,
+            215
+          ],
+          "text": "<table><tr><td rowspan=\"2\">Derivative Glu</td><td colspan=\"2\">LR −</td><td colspan=\"2\">+</td><td colspan=\"2\">YR −</td><td colspan=\"2\">−</td><td colspan=\"2\">YM −</td><td colspan=\"2\">YA −</td></tr><tr><td>32 021 (1.00)</td><td>45 699 (1.00)</td><td>+ 11 250 (1.00)</td><td>− 17 162 (100)</td><td>+ 17 162 (100)</td><td>21 306 (1.00)</td><td>− 25 925 (1.00)</td><td>+ 4 714</td><td>(1.00)</td><td>+ 10 218 (1.00)</td></tr><tr><td>β-MeAsp</td><td>7 695 (0.62)</td><td>7 147 (0.41)</td><td>3 461 (0.80)</td><td>6 205 (0.94)</td><td>5 743 c  (0.70)</td><td>5 803 (0.58)</td><td>1 531</td><td>(0.84)</td><td>3 184 (0.81)</td></tr><tr><td>N -MeAla</td><td>820 (0.02)</td><td>42 379 (0.77)</td><td>317 (0.02)</td><td>18 962 (0.92)</td><td>19 282</td><td>(0.75)</td><td>27 447 (0.88)</td><td>617</td><td>(0.11)</td><td>10 944 (1.04)</td></tr><tr><td>Ala</td><td>658 (0.02)</td><td>293 (0.01)</td><td>130 (0.01)</td><td>183 (0.01)</td><td>154</td><td>(0.01)</td><td>146 (0.00)</td><td>155 d  (0.01)</td><td>237 (0.01)</td></tr><tr><td>Leu</td><td>1 578 (0.02)</td><td>317 (0.00)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Met(O)</td><td></td><td></td><td></td><td></td><td>160</td><td>(0.00)</td><td>155 (0.00)</td><td></td><td></td><td></td></tr><tr><td>Tyr</td><td></td><td></td><td>177 (0.01)</td><td>220 (0.01)</td><td>336</td><td>(0.01)</td><td>281 (0.00)</td><td>331</td><td>(0.03)</td><td>279 (0.01)</td></tr><tr><td>Arg</td><td>268 (0.00)</td><td>461 (0.00)</td><td>107 (0.00)</td><td>424 (0.01)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+          "reading_order": 3
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            63,
+            77,
+            460,
+            89
+          ],
+          "text": "table. Radioactivity counts a,b on isolated amino acids after tritium labelling 5 of reduced cyanoginosins",
+          "reading_order": 4
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            57,
+            215,
+            633,
+            272
+          ],
+          "text": "- , + Without and with TFA hydrolysis, respectively.\n* Counts min 1. b Values in parentheses are relative tritium incorporations after correction for the amino acid sensitivity to the reaction,3 normalised\nwith respect to Glu and using Asp, Ala, and Met as models for β-MeAsp, N-MeAla, and Met(O) respectively. c High incorporation in this sample of\n-YM suggests a very labile bond which had partly cleaved during isolation of the toxin. Similar results were occasionally seen with the other toxins.\n4 2 mol Ala per mol of toxin.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            295,
+            336,
+            443
+          ],
+          "text": "Linkage of Glu and β-MeAsp. —Glu and β-MeAsp were\nshown to be iso-linked from the results of base-catalysed tritium\nincorporation 5 (Table) into the intact toxins as previously\ndescribed for cyanoginosin-LA. 1 High incorporations into these\nresidues showed that there was a free carboxy group directly\nadjacent to the x-carbon in each case. (This was already known\nfor -YM. 2 ) Hence, it was also shown that neither carboxy group\nwas involved in forming the cyclic linkage in either toxin.\nInstead, high incorporation in the N -MeAla residues was found\nin the toxins after reduction and ring-opening with trifluoro-\nacetic acid (TFA). 1 This showed that in all cases the N -MeAla\nwas now C -terminal which confirmed the sequence which was\nprimarily determined mass spectrometrically.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            455,
+            337,
+            773
+          ],
+          "text": "Sequencing by Mass Spectrometry .— Hydrolysis of toxin-YM\nusing TFA, followed by high-performance liquid chroma-\ntography (h.p.l.c.), gave two major components consisting of\npeptides having free N -termini (acetylated with acetic\nanhydride). The whole sequence could be obtained from one of\nthe eluted peptides using f.a.b.m.s., excepting the fact that Glu\nand β -MeAsp are isobaric. The positions of the latter two\nresidues were deduced using two cycles of Edman degradation\nfollowed by dansylation,* hydrolysis, and h.p.l.c. which showed\nthat they were in the same positions as in cyanoginosin-LA. $^1$\nFor cyanoginosin-LR, -YR, and -YA complete sequence inform-\nation was not determined from f.a.b.m.s. because the Arg\nresidues in cyanoginosin-LR and -YR prevented the production\nof a full set of sequence ions, and cyanoginosin-YA was not\nsubjected to f.a.b.m.s. because of insufficient material. However,\nthe Edman degradations showed the two N -terminal residues,\nafter ring-opening with TFA, to be Ala then Leu for cyano-\nginosin-LR, and Ala then Tyr for cyanoginosin-YR and -YA.\nFollowing this, dansylation, hydrolysis, and t.l.c. identified\nβ -MeAsp in the third position as with cyanoginosin-YM. These\nresults determine the ordering within the two-letter suffixes,\nsupposing the rest of the sequences to be analogous to the\nsequences of cyanoginosin-LA and -YM. Tritium incorporation\nin the linearised derivatives placed the N -MeAla residue, thus\npositioning four of the seven residues in these variants. We\nexpect that if full sequence determinations were to be made, we\nwould find that all toxins of this class have identical structures\nas given by the formula ( 1 ).",
+          "reading_order": 7
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            358,
+            294,
+            418,
+            306
+          ],
+          "text": "Experiments",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            356,
+            306,
+            633,
+            363
+          ],
+          "text": "Isolation of Toxins .— Cyanoginosin-LR, -YR, and -YA were\nisolated as previously described 3,4 and cyanoginosin-YM was\nisolated as previously described 2 except that reversed-phase\nh.p.l.c. replaced paper electrophoresis in the final purification\nstep.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            356,
+            375,
+            634,
+            432
+          ],
+          "text": "$^{1}H~N.m.r$ . Spectra. — Spectra were recorded on Bruker\nWM500 and AM500 machines. Chemical shifts were measured\nrelative to sodium 3-(trimethylsilyl)propionate in solutions in\nD $_2$ O at 303 K. Assignments were made using COSY-45 and\ndifference methods (n.O.e. and decoupling).",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            361,
+            439,
+            634,
+            466
+          ],
+          "text": "Mass Spectra.—Spectra were recorded on a Kratos MS-50\npectrometer as previously described. 1",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            357,
+            474,
+            634,
+            532
+          ],
+          "text": "Derivatisations, Hydrolyses, Tritium Labelling .— Most chemi-\ncal transformations and subsequent measurements were carried\nout as previously described. $^1$ Treatment of cyanoginosin-YM\nwith 2-mercaptoethanol was in alkaline aqueous solution (2 h at\n80 °C).",
+          "reading_order": 12
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            356,
+            564,
+            452,
+            589
+          ],
+          "text": "Acknowledgements",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            356,
+            589,
+            633,
+            614
+          ],
+          "text": "performed in Cambridge and Dr. E. Houghton and Mr. P. Teale\nof Race Course Security Services, Newmarket, for g.c.m.s. data",
+          "reading_order": 14
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            360,
+            643,
+            415,
+            654
+          ],
+          "text": "References",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            361,
+            654,
+            639,
+            684
+          ],
+          "text": "D. P. Botes, A. A. Tuinman, P. L. Wessels, C. C. Viljoen, H. Kruger,\nD. H. Williams, S. Santikarn, R. J. Smith, and S. J. Hammond, J.\nChem. Soc., Perkin Trans. 1, 1984, 2311.",
+          "reading_order": 16
+        },
+        {
+          "label": "para",
+          "bbox": [
+            361,
+            686,
+            630,
+            716
+          ],
+          "text": "${ }^{2}$ T. C. Elleman, I. R. Falconer, A. R. B. Jackson, and M. T. C.\nRunnegar, Aust. J. Biol. Sci., 1978, 31, 209.\n${ }^{4}$ D. P. Botes, H. Kruger, and C. C. Viljoen, Toxicon, 1982, 20, 945.",
+          "reading_order": 17
+        },
+        {
+          "label": "para",
+          "bbox": [
+            359,
+            717,
+            633,
+            735
+          ],
+          "text": "4 D. P. Botes, C. C. Viljoen, H. Kruger, and P. L. Wessels, Toxicon\n1982, 20 , 1037.",
+          "reading_order": 19
+        },
+        {
+          "label": "para",
+          "bbox": [
+            358,
+            735,
+            632,
+            757
+          ],
+          "text": "5 H. Matsuo and K. Marita, in ‘Protein Sequence Determination,’ ed\nS. B. Needleman, Springer-Verlag, New York, 1975, p. 104.",
+          "reading_order": 20
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            66,
+            788,
+            273,
+            801
+          ],
+          "text": "Dansyl = 5-dimethylaminonaphthalene-1-sulphonyl",
+          "reading_order": 21
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            473,
+            788,
+            630,
+            801
+          ],
+          "text": "Received 13th May 1985; Paper 5/79",
+          "reading_order": 22
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            3,
+            170,
+            13,
+            537
+          ],
+          "text": "Published on 01 January 1985. Downloaded by Mount Allison University on 13/07/2015 03:14:27.",
+          "reading_order": 23
+        }
+      ]
+    }
+  ]
+}

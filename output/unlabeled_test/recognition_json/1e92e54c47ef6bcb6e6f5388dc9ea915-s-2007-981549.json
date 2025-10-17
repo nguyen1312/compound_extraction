@@ -1,0 +1,992 @@
+{
+  "source_file": "./dataset/unlabeled_test/1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549.pdf",
+  "total_pages": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            138,
+            104,
+            211,
+            197
+          ],
+          "text": "Ying-Rui Wu1, 2\nYun-Bao Ma1\nYou-Xing Zhao1\nShu-Ying Yao1, 2\nJun Zhou1\nYing Zhou3\nJi-Jun Chen1",
+          "reading_order": 0
+        },
+        {
+          "label": "title",
+          "bbox": [
+            246,
+            160,
+            624,
+            197
+          ],
+          "text": "Two New Quaternary Alkaloids and Anti-Hepatitis B\nVirus Active Constituents from Corydalis saxicola",
+          "reading_order": 1
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            268,
+            85,
+            281
+          ],
+          "text": "Abstract",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            295,
+            329,
+            404
+          ],
+          "text": "Two new quaternary isoquinoline alkaloids, saxicolalines A (1)\nand N-methylnarceimicine (2), together with sixteen known al-\nkaloids (3–18) were isolated from Corydalis saxicola Bunting.\nThe structures of saxicolalines A (1) and N-methylnarceimicine\n(2) were established based on spectral methods including 1D,\n2D NMR (COSY, HMQC, HMBC) and HR-ESI-MS. The anti-HBV ac-\ntivities of ten main alkaloids were evaluated. Among the tested\ncompounds, dihydrochelerythrine (8) exhibited the most potent",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            268,
+            623,
+            296
+          ],
+          "text": "activity against HBsAg and HBeAg secretions with IC50 < 0.05 μM,\nSI > 3.5, respectively.",
+          "reading_order": 4
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            342,
+            313,
+            390,
+            323
+          ],
+          "text": "Key words",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            323,
+            623,
+            350
+          ],
+          "text": "Corydalis saxicola Bunting - Fumariaceae - quaternary isoquino-\nline alkaloids - anti-HBV activity",
+          "reading_order": 6
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            342,
+            367,
+            604,
+            377
+          ],
+          "text": "Supporting information available online at",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            377,
+            604,
+            394
+          ],
+          "text": "http://www.thieme-connect.de/ejournals/toc/plantamedica",
+          "reading_order": 8
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            439,
+            106,
+            450
+          ],
+          "text": "Introduction",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            465,
+            329,
+            654
+          ],
+          "text": "Corydalis saxicola Bunting (Fumarioideae) is a perennial herb\ndistributed mainly in calcareous mountain regions of southwest\nChina, and has been used clinically as a folk medicine to treat he-\npatitis for a long time [1], [2]. The alkaloid extracts of the herb\ndemonstrated pharmacological activities, including anti-virus\n[3], and eleven alkaloids haveeen isolated from this plant so far\n[4], [5]. In our preliminary study, the total extract of the roots of\nC. saxicola exhibited significant anti-HBV (hepatitis B virus) ac-\ntivity against HBsAg (hepatitis B virus surface antigen) secretion\nof Hep G 2.2.15 cells with an IC50 = 0.16 mg/mL, and against\nHBeAg (hepatitis B virus e antigen) secretion with an IC50 <\n0.04 mg/mL, respectively, which prompted us to further investi-\ngate the anti-HBV constituents of this plant. The chemical inves-\ntigation resulted in the isolation of two new quaternary isoqui-",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            439,
+            624,
+            505
+          ],
+          "text": "noline alkaloids, saxicolaline A (1) and N-methylnarcimicine\n(2) , together with sixteen known alkaloids 3 – 18 (Fig. 1 ). Herein,\nwe present the isolation, structure elucidation of saxicolaline A\nand N-methylnarceimicine, and the anti-HBV activities of com-\npounds 1 , 2 , 7 , 8 , 10 – 13 , 15 and 18 in vitro .",
+          "reading_order": 11
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            344,
+            536,
+            452,
+            546
+          ],
+          "text": "Materials and Methods",
+          "reading_order": 12
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            342,
+            563,
+            380,
+            573
+          ],
+          "text": "General",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            573,
+            624,
+            654
+          ],
+          "text": "Column chromatography: silica gel (200-300 mesh; H, Qingdao\nMarine Chemical Inc.; Qingdao, P. R. China); Sephadex LH-20\n(Amersham Biosciences; Uppsala, Sweden); reverse-phase C-8\nsilica gel (40–63 μm; Merck; Darmstadt, Germany). Melting\npoints: XRC-1 apparatus (Sichuan University, Sichuan, China);\noptical rotations were carried out on a Jasco P-1020 Polarimeter",
+          "reading_order": 14
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            58,
+            686,
+            435,
+            734
+          ],
+          "text": "Affiliation\n\n1 State Key Laboratory of Phytochemistry and Plant Resources in West China, Kunming Institute of Botan\nChinese Academy of Sciences, Kunming, P. R. Chin\n2 Graduate School of Chinese Academy of Sciences, Beijing, P. R. Chin\n3 Guangxi Institute of Chinese Medicine & Pharmaceutical Science, Nanning, P. R. Chin",
+          "reading_order": 15
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            85,
+            752,
+            438,
+            781
+          ],
+          "text": "Prof. Dr. Ji-Jun Chen · State Key Laboratory of Phytochemistry and Plant Resources in West China\nKunming Institute of Botany · Chinese Academy of Sciences - Heilongtan - Kunming 650204\nPeople's Republic of China · Phone/Fax: +86-871-522-3265 · E-mail: chenjj@mail.kib.ac.cn",
+          "reading_order": 16
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            156,
+            788,
+            443,
+            842
+          ],
+          "text": "Received February 26, 2007 · Revised May 17, 2007 · Accepted May 21, 2007\n\nBibliography\n\nPlanta Med 2007; 73: 787–791 © Georg Thieme Verlag KG Stuttgart - New York\nDOI 10.1055/s-2007-981549 · Published online July 5, 2007\n\nISSN 0032-0943",
+          "reading_order": 17
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            640,
+            215,
+            655,
+            295
+          ],
+          "text": "Original Paper",
+          "reading_order": 18
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            658,
+            340,
+            670,
+            558
+          ],
+          "text": "Downloaded by: Universit é Laval. Copyrighted material",
+          "reading_order": 19
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549_page_002_figure_000.png)",
+          "figure_path": "figures/1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549_page_002_figure_000.png",
+          "bbox": [
+            47,
+            35,
+            277,
+            259
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            291,
+            35,
+            479,
+            185
+          ],
+          "text": "$$\n\\text { R1, } \\mathrm{R}^{2}=\\mathrm{OCH}_{3}, \\mathrm{R}^{3}, \\mathrm{R}^{4}=\\mathrm{OCH}_{3}, \\mathrm{R}^{5}=\\mathrm{CH}_{3}\n$$",
+          "reading_order": 2
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            488,
+            35,
+            624,
+            56
+          ],
+          "text": "Fig. 1 Structures of compounds\n1- 18.",
+          "reading_order": 3
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549_page_002_figure_004.png)",
+          "figure_path": "figures/1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549_page_002_figure_004.png",
+          "bbox": [
+            49,
+            331,
+            300,
+            448
+          ],
+          "reading_order": 4
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            49,
+            259,
+            221,
+            314
+          ],
+          "text": "12: R1\n, R2 = OCH3, R3\n, R4 = OCH3, R5 = H\n14: R1\n, R2 = OCH2O, R3\n, R4 = OCH3, R5 = H\n15: R1\n, R2 = OCH2O, R3\n, R4 = OCH2O, R6 = H\n16: R1 = OCH3, R2 = OH, R3\n, R4 = OCH2O, R5\n17: R1 = OH, R2 = OCH3, R3\n, R4 = OCH2O, R5",
+          "reading_order": 5
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549_page_002_figure_006.png)",
+          "figure_path": "figures/1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549_page_002_figure_006.png",
+          "bbox": [
+            344,
+            177,
+            479,
+            286
+          ],
+          "reading_order": 6
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            351,
+            322,
+            479,
+            448
+          ],
+          "text": "$$\n\\text { Method }\n$$",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            465,
+            329,
+            627
+          ],
+          "text": "(JASCO Inc.; Easton MD, USA); UV spectra were obtained in a Shi-\nmadzu UV 2401 PC spectrometer (Shimadzu; Kyoto, Japan); IR\nspectra were measured on a Bruker Tensor 27 spectrometer (Bru-\nker Optics Inc.; Ettlingen, Germany) with KBr pellets, v in cm−1;\nMS were recorded on a VG Autospec-3000 or API QSTAR PULSAR\nLC-Q-TOF spectrometer (VG; Manchester, England); NMR spectra\nwere recorded on a Bruker AM-400 (400 MHz/100 MHz) or DRX-\n500 (500 MHz/125 MHz) spectrometer (Bruker BioSpin AG; Fäl-\nlanden, Switzerland) and chemical shifts are given in δwith TMS\nas internal reference; Fractions were monitored by TLC and spots\nwere visualized by spraying the silica gel plates with Dragen-\ndorff's reagent.",
+          "reading_order": 8
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            49,
+            644,
+            112,
+            654
+          ],
+          "text": "Plant material",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            654,
+            329,
+            735
+          ],
+          "text": "Corydalis saxicola Bunting was collected in Donglan region,\nGuangxi Zhuang Municipality, People's Republic of China, in\nMay 2005, and was authenticated by Prof. Zhou Jun. A voucher\nspecimen (ZJ 2005-05-1) has been deposited at the State Key La-\nboratory of Phytochemistry and Plant Resources in West China,\nKunming Institute of Botany, Chinese Academy of Sciences.",
+          "reading_order": 10
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            752,
+            158,
+            761
+          ],
+          "text": "Extraction and isolation",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            761,
+            329,
+            843
+          ],
+          "text": "Dried roots of C. saxicola (5.5 kg) were powdered and extracted\nwith 95% EtOH (3×10 L) under reflux. The EtOH extract was\nsoaked with 2% HCl solution (8.0 L), then filtered. The aqueous\nphase was basified to pH 10 with 25% NH3/H2O and extracted\nwith CHCl3 (0.5 L×4) to give extract A (93.6 g). The aqueous layer\nwas further basified with 10% NaOH solution to pH 12 and ex-",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            465,
+            624,
+            654
+          ],
+          "text": "tracted with n-BuOH (0.5 L×4) to afford extract B (63.6 g). Ex-\ntract B (63.6 g) was submitted to dry column chromatography\non silica gel (10×120 cm, 200–300 mesh, 2500 g) eluting with\nCHCl3/CH3OH/H2O (7:3:0.5, 4.5 L) to give fractions E−I. Fraction\nH (2.9 g) was subjected to vacuum liquid chromatography (VLC)\n(2×15 cm, silica gel H, 50 g) in a step gradient manner with\nCHCl3/CH3OH/H2O from 8:2:0.2 to 6:4:0.4 (650 mL) to give\ncompounds 18 (540 mg) and 1 (89 mg). Compound 2 (16 mg)\nwas obtained from fraction I (8.2 g) by repeated VLC (sintered\nglass funnel, 250 mL, silica gel H, 100 g) eluted with EtOH/H2O\n(5:1, 1.5 L), column chromatography (3×45 cm, reverse-phase\nC-8 silica gel, 70 g) with EtOH/H2O (from H2O to EtOH/H2O, 2:8,\neach 500 mL) and purified by Sephadex LH-20 column chroma-\ntography (1.5×45 cm) eluted with H2O (300 mL).",
+          "reading_order": 13
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            344,
+            671,
+            380,
+            680
+          ],
+          "text": "Isolates",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            680,
+            623,
+            806
+          ],
+          "text": "Saxicolaline A (1): yellow crystalline solid (MeOH); m.p. 223–\n225 °C; [α]β7: 718.8 (c 0.16, C5H5N); UV (MeOH): λmax (log\nε) = 205 (4.39), 231 (4.23), 289 (4.09), 358 (4.05) nm; IR (KBr ):\nνmax = 3425, 2935, 1654, 1607, 1576, 1466, 1442, 1408, 1039 cm−1;\n1H- and 13C-NMR data see Table 1: FAB-MS (neg. ion mode): m/z\n= 355 ([M − H] − ), 339 ([M − CH3 ] − , 100), 325 ([M − OCH3 ] − , 77), 311\n([M − NMe 2 ] − , 37), 293, 265, 154, 97, 80; HR ESI-MS (pos. ion\nmode): m/z (%) = 356.1484 [M]+ (calcd. for C20H22NO5:\n356.1497).",
+          "reading_order": 15
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            815,
+            624,
+            843
+          ],
+          "text": "N-Methylnarceimicine (2): yellow crystalline solid (MeOH); m.p.\n194 – 196 °C; UV (MeOH): λmax (log ε) = 207 (4.48), 331 (4.02)",
+          "reading_order": 16
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            47,
+            860,
+            300,
+            869
+          ],
+          "text": "Wu Y-R et al. Two New Quaternary… Planta Med 2007; 73: 787 – 791",
+          "reading_order": 17
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            13,
+            215,
+            28,
+            295
+          ],
+          "text": "Original Paper",
+          "reading_order": 18
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            658,
+            339,
+            670,
+            558
+          ],
+          "text": "Downloaded by: Universite Laval. Copyrighted material",
+          "reading_order": 19
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "tab",
+          "bbox": [
+            49,
+            52,
+            631,
+            492
+          ],
+          "text": "<table><tr><td>Position</td><td>13C</td><td>1 Hp</td><td>13C</td><td>2 1Hp</td></tr><tr><td>1</td><td>152.3 (s)</td><td>–</td><td>113.0 (d)</td><td>7.71 (1H, s)</td></tr><tr><td>2</td><td>165.3 (s)</td><td>–</td><td>145.3 (s)</td><td>–</td></tr><tr><td>3</td><td>103.8 (d)</td><td>7.16 (1H, s)</td><td>149.8 (s)</td><td>–</td></tr><tr><td>3a</td><td>111.5 (s)</td><td>–</td><td>–</td><td>–</td></tr><tr><td>4</td><td>182.6 (s)</td><td>–</td><td>111.5 (d)</td><td>7.01(1H, s)</td></tr><tr><td>4a</td><td>–</td><td>–</td><td>133.8 (s)</td><td>–</td></tr><tr><td>5</td><td>67.5 (t)</td><td>4.45 (1H, d, 15.4), 4.16 (1H, d, 15.4)</td><td>27.3 (t)</td><td>3.02 (2H, dd, 10.2, 3.1)</td></tr><tr><td>6</td><td>–</td><td>–</td><td>65.5 (t)</td><td>3.50 (2H, m)</td></tr><tr><td>6a</td><td>68.9 (d)</td><td>4.77 (1H, dd, 14.0, 3.1)</td><td>–</td><td>–</td></tr><tr><td>7</td><td>29.5 (t)</td><td>3.23 (1H, dd, 14.4, 3.1), 2.81 (14.4, 14.0)</td><td>–</td><td>–</td></tr><tr><td>7a</td><td>124.1 (s)</td><td>–</td><td>–</td><td>–</td></tr><tr><td>8</td><td>116.2 (d)</td><td>6.62 (1H, d, 7.8)</td><td>124.8 (s)</td><td>–</td></tr><tr><td>9</td><td>110.2 (d)</td><td>6.73 (1H, d, 7.8)</td><td>145.4 (s)</td><td>–</td></tr><tr><td>10</td><td>149.9 (s)</td><td>–</td><td>150.5 (s)</td><td>–</td></tr><tr><td>11</td><td>148.1 (s)</td><td>–</td><td>107.8 (d)</td><td>6.90 (1H, d, 7.9)</td></tr><tr><td>11a</td><td>122.0 (s)</td><td>–</td><td>–</td><td>–</td></tr><tr><td>11b</td><td>111.5 (s)</td><td>–</td><td>–</td><td>–</td></tr><tr><td>11c</td><td>131.4 (s)</td><td>–</td><td>–</td><td>–</td></tr><tr><td>12</td><td>55.8 (q)</td><td>3.72 (3H, s)</td><td>122.7 (d)</td><td>6.96 (1H, d, 7.9)</td></tr><tr><td>12a</td><td>–</td><td>–</td><td>132.9 (s)</td><td>–</td></tr><tr><td>13</td><td>55.1 (q)</td><td>3.69 (3H, s)</td><td>191.9 (s)</td><td>–</td></tr><tr><td>14</td><td>52.8 (q)</td><td>3.42 (3H, s)</td><td>188.0 (s)</td><td>–</td></tr><tr><td>14a</td><td>–</td><td>–</td><td>127.5 (s)</td><td>–</td></tr><tr><td>15</td><td>44.9 (q)</td><td>3.06 (3H, s)</td><td>102.0 (t)</td><td>6.11 (2H, s)</td></tr><tr><td>16</td><td>–</td><td>–</td><td>101.6 (t)</td><td>6.06 (2H, s)</td></tr><tr><td>17</td><td>–</td><td>–</td><td>52.2 (q)</td><td>3.09 (3H, s)</td></tr><tr><td>18</td><td>–</td><td>–</td><td>52.2 (q)</td><td>3.09 (3H, s)</td></tr><tr><td>19</td><td>–</td><td>–</td><td>52.2 (q)</td><td>3.09 (3H, s)</td></tr><tr><td>20</td><td>–</td><td>–</td><td>166.0 (s)</td><td>–</td></tr></table>",
+          "reading_order": 0
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            49,
+            493,
+            112,
+            506
+          ],
+          "text": "8in ppm and/in Hz",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            536,
+            329,
+            600
+          ],
+          "text": "nm; IR (KBr): $v_{\\text{max}}$ = 3500–2500, 2906, 1661, 1607, 1586, 1505,\n1487, 1446, 1373, 1360, 1251, 1030, 921 cm −1 ; 1 H- and 13 C-NMR\ndata see Table 1 ; ESI-MS (pos. ion mode): m/z / z (%) = 450 ([100,\nM + Na – H] + , 100), 428 ([M] + , 14); HR-ESI-MS (pos. ion mode):\nm/z / z = 428.1345 [M] + (calcd. for C $_{22}$ H $_{22}$ NO $_{8}$ : 428.1333).",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            617,
+            329,
+            654
+          ],
+          "text": "The anti-HBV assays were performed according to the method in\nour previous report [18]. An antivirus agent, lamivudine (3TC;\nGlaxosmithkline; Suzhou, China), was used as positive control.",
+          "reading_order": 4
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            47,
+            671,
+            158,
+            681
+          ],
+          "text": "Supporting information",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            681,
+            329,
+            734
+          ],
+          "text": "A detailed description of the extraction and isolation of 3-18 and\nthe structures, physicochemical data and spectral data for com-\npounds 3-12 and 15-18 are available as Supporting Informa-\ntion.",
+          "reading_order": 6
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            48,
+            761,
+            156,
+            773
+          ],
+          "text": "Results and Discussion",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            48,
+            788,
+            329,
+            843
+          ],
+          "text": "Saxicolaline A (1) was obtained as a yellow crystalline solid and\nwas positive to Dragendorff's reagent. Its molecular formula was\ndetermined as C20H22NO5 based on HR-ESI-MS at m/z =\n356.1484 ([M]+, calcd.: 356.1497), indicating that compound 1",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            536,
+            624,
+            681
+          ],
+          "text": "possessed eleven degrees of unsaturation. The $^1$ H-NMR spec-\ntrum displayed three aromatic protons including two o -coupled\nsignals at $\\delta$ = 6.73 and 6.62 (d, J = 7.8 Hz), two methoxy proton\ngroups at $\\delta$ = 3.72 and 3.69, and two N-methyl proton groups at\n$\\delta$ = 3.42, 3.06 respectively. The $^{13}$ C-NMR spectrum revealed the\npresence of twenty carbon atoms including two benzene rings,\nfour methyl groups, two methylene groups, one methine group\nand one carbonyl corresponding to the IR absorption at 1654\ncm $^{-1}$ . The $^1$ H- and $^{13}$ C-NMR features were closely similar to those\nof magnoflorine ( 18 ) [15] except for the absence of two aliphatic\nprotons and one methylene carbon in an aporphine skeleton. The",
+          "reading_order": 9
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549_page_003_figure_010.png)",
+          "figure_path": "figures/1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549_page_003_figure_010.png",
+          "bbox": [
+            336,
+            698,
+            631,
+            824
+          ],
+          "reading_order": 10
+        },
+        {
+          "label": "cap",
+          "bbox": [
+            342,
+            833,
+            560,
+            843
+          ],
+          "text": "Fig. 2 Key HMBC correlations of compounds 1 and 2.",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            371,
+            860,
+            622,
+            869
+          ],
+          "text": "Wu Y-R et al. Two New Quaternary… Planta Med 2007; 73: 787 – 791",
+          "reading_order": 12
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            640,
+            215,
+            649,
+            295
+          ],
+          "text": "1940年,中国历史上第一次全国人民代表大会代表[2]。",
+          "reading_order": 13
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            658,
+            325,
+            672,
+            558
+          ],
+          "text": "Downloaded by: Universite Laval. Copyrighted material.",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "tab",
+          "bbox": [
+            47,
+            53,
+            623,
+            286
+          ],
+          "text": "<table><tr><td rowspan=\"2\">Compound</td><td rowspan=\"2\">CC50(μM)</td><td></td><td colspan=\"3\">HBsAgb IC50(μM)</td><td colspan=\"3\">HBeAgc IC50(μM)</td></tr><tr><td></td><td></td><td></td><td>SId</td><td></td><td>IC50(μM)</td><td>SI</td></tr><tr><td>1</td><td>&gt;2.81</td><td>&gt;2.81</td><td>2.19</td><td>2.19</td><td>&gt;1.3</td><td>&gt;2.81</td><td>&gt;2.81</td><td>1.0</td></tr><tr><td>2</td><td>2.05</td><td>2.02</td><td>1.24</td><td>1.22</td><td>1.6</td><td>1.86</td><td>1.84</td><td>1.0</td></tr><tr><td>7</td><td>&gt;2.54</td><td>&gt;2.54</td><td>6.64</td><td>6.55</td><td>&gt;1.5</td><td>&gt;2.54</td><td>&gt;2.54</td><td>1.0</td></tr><tr><td>8</td><td>0.16</td><td>0.16</td><td>&lt;0.05</td><td>&lt;0.05</td><td>&gt;3.5</td><td>&lt;0.05</td><td>&lt;0.05</td><td>&gt;3.5</td></tr><tr><td>10</td><td>&gt;2.73</td><td>&gt;2.73</td><td>1.35</td><td>1.36</td><td>&gt;2.0</td><td>&gt;2.73</td><td>&gt;2.73</td><td>1.0</td></tr><tr><td>11</td><td>0.51</td><td>0.56</td><td>0.27</td><td>0.26</td><td>2.1</td><td>0.45</td><td>0.43</td><td>1.3</td></tr><tr><td>12</td><td>1.97</td><td>1.94</td><td>&gt;4.26</td><td>&gt;4.26</td><td>&lt;0.5</td><td>&gt;4.26</td><td>&gt;4.26</td><td>&lt;0.5</td></tr><tr><td>13</td><td>0.24</td><td>0.23</td><td>2.63</td><td>2.61</td><td>0.1</td><td>&gt;4.25</td><td>&gt;4.25</td><td>&lt;0.1</td></tr><tr><td>15</td><td>&gt;1.02</td><td>&gt;1.02</td><td>2.74</td><td>2.74</td><td>&gt;1.2</td><td>3.20</td><td>3.19</td><td>1.0</td></tr><tr><td>18</td><td>3.60</td><td>3.20</td><td>&gt;4.39</td><td>&gt;4.39</td><td>&lt;0.7</td><td>&gt;4.39</td><td>&gt;4.39</td><td>&lt;0.7</td></tr><tr><td>3TCa</td><td>42.83</td><td>43.00</td><td>15.37</td><td>14.72</td><td>2.9</td><td>44.85</td><td>42.93</td><td>1.0</td></tr><tr><td>Total extract of the roots of C. saxicola</td><td>0.23 mg/mL</td><td>0.21 mg/mL</td><td>0.17 mg/mL</td><td>0.16 mg/mL</td><td>1.3</td><td>&lt;0.04 mg/mL</td><td>&lt;0.04 mg/mL</td><td>&gt;5.3</td></tr></table>",
+          "reading_order": 0
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            48,
+            287,
+            192,
+            324
+          ],
+          "text": "$^{a}$ 3TC (lamivudine): positive control.\n$^{b}$ HBsAg: hepatitis B virus surface antigen.\n$^{c}$ HBeAg: hepatitis B virus e antigen.\n$^{d}$ Si (selective index) is the ratio of CC $_{50}$ and IC $_{50}$",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            358,
+            329,
+            452
+          ],
+          "text": "carbonyl was assigned to be at C-4 in the B ring by the key HMBC\ncorrelation of H-3 ( δ = 7.16) and C-4 ( δ = 182.5). The optical ro-\ntation was dextrorotatory ([α]β̃?: 718.8), indicating that the ste-\nreochemistry of compound 1 at C-6a can be proposed as the S-\nform [16]. The structural deduction of compound 1 was further\nconfirmed by 1H–1H COSY, HMQC and HMBC experiments.\nTherefore, the structure of saxicolaline A was elucidated in Fig. 2 .",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            465,
+            329,
+            748
+          ],
+          "text": "$N$ -Methylnarceimicine (2) was obtained as a yellow crystalline\nsolid and was positive to Dragendorff's reagent. The molecular\nformula $m/z=428.1333$ was established as C $_{22}$ H $_{22}$ NO $_8$ by HR-EI-MS of $m/z$ =\n428.1333 ([M] + , calcd.: 428.1345), indicating thirteen degrees of\nunsaturation in the structure. The IR spectrum showed absorp-\ntion bands due to a carboxyl group (3500 – 2500 cm − 1 ), carbonyl\ngroups (1661 and 1607 cm − 1 ) and aromatic rings (1586, 1505 and\n1446 cm − 1 ). The $^1$ H-NMR spectrum exhibited three N-methyl\ngroups at $\\delta$ = 3.09 (9H, s), two methylenedioxy groups at\n$\\delta$ = 6.11 (2H, s) and 6.01 (2H, s), and four aromatic protons at\n$\\delta$ = 7.71 (1H, s), 7.01 (1H, s), 6.96 and 6.90 (1H, d, J = 7.9 Hz).\nThe $^{13}$ C NMR spectrum showed twenty-two carbon atoms which\nwere attributed to two aromatic rings, two methylenedioxy\ngroups, two aliphatic methylene groups, three N-methyl groups\nand three carbonyl groups, whose chemical shifts were closely\nsimilar to those of narceimicine [17] , except for one additional\nmethyl linked to nitrogen atom which was confirmed by the cor-\nrelations between H-17, -18 and -19 ( $\\delta$ = 3.09) with C-6\n( $\\delta$ = 65.5). The deduction was further supported by the analysis-\nses of the $^{1}$ H– $^{1}$ H COSY, HMQC and HMBC spectra. Accordingly,\ncompound 2 was elucidated as $N$ -methylnarceimicine.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            47,
+            761,
+            329,
+            843
+          ],
+          "text": "The other sixteen known alkaloids were also isolated from this\nplant, and were identified as dihydrosanguinarine (3) [6] , cory-\ndaline (4) [7] , cavidine (5) [8] , stylopine (6) [9] , 6-acetonyl-5,6-\ndihydrosanguinarine (7) [10] , dihydrochelerythrine (8) [6] , tetra-\nhydropalmatine (9) [7] , adlumidine(10) [11] ), (–)-salutaridine\n(11) [12] , palmatine (12) [13] , protopine (13) , berberine (14) , cop-",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            358,
+            624,
+            425
+          ],
+          "text": "tisine (15) [7] , thalifaurine (16) [14] , dehydroapocavidine (17) [7]\nand (+)-magnoflorine (18) [15] by comparing spectral data with\nthose reported in the literature and of authentic samples. The\nisolation procedure and spectral data of known compounds are\ndescribed in the Supporting Information.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            439,
+            623,
+            573
+          ],
+          "text": "The total extract of the roots of C. saxicola showed significant in-\nhibition activity in vitro on both HBsAg and HBeAg secretions of\nthe Hep G 2.2.15 cell line. Thus, ten pure compounds isolated in\nlarge amounts were assayed against HBV. The anti-HBV activities\nare summarized in Table 2. New compounds 1, 2 as well as com-\npounds 7, 10 and 11 were moderately active while compounds 13\nand 18 showed weak inhibitory effects. Interestingly, compound\n8 exhibited the most potent activity against HBeAg secretion\nwith IC50 < 0.05 μM and SI > 3.5, which prompted us to further in-\nvestigate its mechanism of action against HBV.",
+          "reading_order": 7
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            342,
+            600,
+            428,
+            614
+          ],
+          "text": "Acknowledgement",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            342,
+            627,
+            624,
+            708
+          ],
+          "text": "The authors are grateful to the staffs of the analytical group at\nthe State Key Laboratory of Phytochemistry and Plant Resources\nin the West China, Kunming Institute of Botany, Chinese Acad-\nemy of Sciences for measuring spectral data. This work was part-\nly supported by grants from guided projects of Chinese Academy\nof Sciences (# KSCX1-YW-R-24).",
+          "reading_order": 9
+        },
+        {
+          "label": "sec",
+          "bbox": [
+            342,
+            734,
+            392,
+            746
+          ],
+          "text": "References",
+          "reading_order": 10
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            351,
+            761,
+            623,
+            793
+          ],
+          "text": "Delectis Florae Reipublicae Popularis Sinicae Academiae Sinicae Edita.\nFlora Reipublicae Popularis Sinicae, Tomus 32. Beijing: Science Press;\n1999: 418 – 20.",
+          "reading_order": 11
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            344,
+            796,
+            623,
+            817
+          ],
+          "text": "2 Standards of Chinses Medicinal Material. Nanning: Guangxi Press of\nscience and technology; 1990: 64–5.",
+          "reading_order": 12
+        },
+        {
+          "label": "fnote",
+          "bbox": [
+            344,
+            817,
+            623,
+            842
+          ],
+          "text": "3 Wei JQ, Jiang SY, Jiang YS, Qi XX, Tang H. A review of Corydalis saxicola\nBunting of medicinal plants. J Gangxi Acad Sci 2006; 22: 108 – 11.",
+          "reading_order": 13
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            47,
+            860,
+            300,
+            869
+          ],
+          "text": "Wu Y-R et al. Two New Quaternary… Planta Med 2007; 73: 787 – 791",
+          "reading_order": 14
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            13,
+            215,
+            31,
+            295
+          ],
+          "text": "Original Paper",
+          "reading_order": 15
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            13,
+            473,
+            31,
+            483
+          ],
+          "text": "790",
+          "reading_order": 16
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            35,
+            329,
+            66
+          ],
+          "text": "$^{4}$ Ke MM, Zhang XD, Wu LZ, Zhao Y, Zhu DY, Song CQ et al. Studies on the\nactive principles of Corydalis saxicola Bunting. Yaoxue Xuebao 1982;\n24: 289–91.",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            68,
+            327,
+            89
+          ],
+          "text": "5 Li HL, Zhang WD, Zhang W, Zhang C, Liu RH. A new nitro alkaloid from\nCorydalis saxicola Bunting, Chin Chem Lett 2005; 16: 367–8.",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            89,
+            329,
+            120
+          ],
+          "text": "$^{6}$ Oechslin SM, König GM, Oechslin-Merkel K, Wright AD, Kinghorn AD,\nSticher O. An NMR study of four benzophenanthridine alkaloids. J Nat\nProd 1991: 54: 519 – 24.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            122,
+            329,
+            153
+          ],
+          "text": "7 Halbsguth C, Meißner O, Häberlein H. Positive cooperation of proto-\nberberine type 2 alkaloids from Corydalis cava on the GABA A binding\nsite. Planta Med 2003; 69: 305–9.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            153,
+            329,
+            197
+          ],
+          "text": "${ }^{3}$ Iwasa K, Gupta YP, Cushman M. Absolute configurations of the cis- and\ntrans-13-methyltetrahydroprotoberberines. Total synthesis of (+)-tha",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            197,
+            327,
+            217
+          ],
+          "text": "9 Chrzanowska M. Synthesis of (±) stylopine. J Nat Prod 1995; 58: 401-\n7.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            49,
+            220,
+            329,
+            250
+          ],
+          "text": "10 Koul S, Razdan TK, Andotra CS, Kalla AK, Koul S, Taneja SC. Benzophen-\nanthridine alkaloids from Corydalis flabellata. Planta Med 2002; 68:\n262–5.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            343,
+            35,
+            623,
+            55
+          ],
+          "text": "11 Blaskö G, Gula DJ, Shamma M. The phthalideisoquinoline alkaloids. J\nNat Prod 1982: 45: 105–22.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            344,
+            55,
+            623,
+            89
+          ],
+          "text": "12 Sariyar G, Gülgeze HB, Gözler B. Salutaridine N-oxide from the cap-\nsules of Papaver bracteatun. Planta Med 1992; 58: 368–9.\n13 Wafo P, Nyasse B, Fontaine C. A 7,8-dihydro-8-hydroxypalmatine from",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            344,
+            89,
+            623,
+            100
+          ],
+          "text": "这是一篇與鱸形目相關的小作品。 你可以编辑或修订扩充其内容。",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            343,
+            100,
+            623,
+            143
+          ],
+          "text": "14 Chen CH, Chen TM, Lee C. Thalifaurine and dehydrodiscretine, new\nquaternary protoberberine from Talictrum fauriei. J Pharm Sci 1980;\n69: 1061–5.\n15 Barbosa-Filho JM, Da-Cunha EVL, Cornélio ML, Dias CDS, Gray AL Cis-",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            344,
+            143,
+            623,
+            165
+          ],
+          "text": "saglaberrimine, an aporphine alkaloid from Cissampelos glaberrima.\nPhytochemistry 1997; 44: 959–61.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            344,
+            165,
+            623,
+            197
+          ],
+          "text": "$^{16}$ Ringdahl B, Chan RPK, Craig JC. Circular dichroism of aporphines. J Nat\nProd 1981; 44: 80–5.\n$^{17}$ Tripathi YC, Pandey VB, Pathak NKR, Biswas M. A seco-phthalideiso-",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            344,
+            197,
+            623,
+            217
+          ],
+          "text": "quinoline alkaloids from Fumaria indica seeds. Phytochemistry 1988;\n27: 1918–9.",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            344,
+            217,
+            623,
+            250
+          ],
+          "text": "13 Jiang ZY, Zhang XM, Zhang FX, Liu N, Zhao F, Zhou J et al. A new triter-\npene and anti-Hepatitis B virus active compounds from Alisma\norientalis. Planta Med 2006; 72: 951–4.",
+          "reading_order": 14
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            371,
+            860,
+            622,
+            869
+          ],
+          "text": "Wu Y-R et al. Two New Quaternary… Planta Med 2007; 73: 787 – 791",
+          "reading_order": 15
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            640,
+            215,
+            649,
+            295
+          ],
+          "text": "1940年,中国历史上第一次全国人民代表大会代表[2]。",
+          "reading_order": 16
+        },
+        {
+          "label": "watermark",
+          "bbox": [
+            658,
+            325,
+            672,
+            558
+          ],
+          "text": "Downloaded by: Universite Laval. Copyrighted material.",
+          "reading_order": 17
+        }
+      ]
+    }
+  ]
+}
